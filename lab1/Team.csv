@@ -1,1000 +1,485 @@
-1,202,952,Arsenal,England,Emirates Stadium
-2,167,726,Aston Villa,England,Villa Park
-3,953,492,Brighton,England,Amex Stadium
-4,142,669,Burnley,England,Turf Moor
-5,842,310,Chelsea,England,Stamford Bridge
-6,790,858,Crystal Palace,England,Selhurst Park
-7,786,272,Everton,England,Goodison Park
-8,378,784,Fulham,England,Craven Cottage
-9,559,321,Leeds,England,Elland Road
-10,924,562,Leicester,England,King Power Stadium
-11,976,320,Liverpool,England,Anfield
-12,6,715,Man City,England,Etihad Stadium
-13,896,956,Man United,England,Old Trafford
-14,910,707,Newcastle,England,St James Park
-15,74,311,Sheffield United,England,Bramall Lane
-16,847,879,Southampton,England,St Mary’s Stadium
-17,92,295,Tottenham,England,Tottenham Hotspur Stadium
-18,308,353,West Brom,England,The Hawthorns
-19,717,475,West Ham,England,London Olympic Stadium
-20,196,551,Wolves,England,Molineux Stadium
-21,496,143,Barnsley,England,Oakwell
-22,134,111,Birmingham,England,St Andrews
-23,715,323,Blackburn,England,Ewood Park
-24,221,658,Bournemouth,England,Vitality Stadium
-25,714,980,Brentford,England,Griffin Park
-26,827,994,Bristol City,England,Ashton Gate
-27,935,893,Cardiff,Wales,Cardiff City
-28,767,531,Coventry,England,St Andrews
-29,229,331,Derby,England,Pride Park Stadium
-30,441,693,Huddersfield Town,England,John Smith’s Stadium
-31,948,192,Luton,England,Kenilworth Road
-32,143,17,Middlesbrough,England,Riverside Stadium
-33,326,515,Millwall,England,The Den
-34,173,234,Norwich,England,Carrow Road
-35,651,806,Nottingham F.,England,City Ground
-36,772,643,Preston,England,Deepdale
-37,869,61,QPR,England,Kiyan Prince Foundation Stadium
-38,521,889,Reading,England,Madejski Stadium
-39,9,687,Rotherham,England,New York Stadium
-40,996,673,Sheffield Weds,England,Hillsborough
-41,872,951,Stoke,England,bet365 Stadium
-42,197,832,Swansea,Wales,Liberty Stadium
-43,425,760,Watford,England,Vicarage Road
-44,931,159,Wycombe,England,Adams Park
-45,512,840,Aberdeen,Scotland,Pittodrie
-46,185,694,Celtic,Scotland,Celtic Park
-47,380,686,Dundee United,Scotland,Tannadice Park
-48,345,388,Hamilton,Scotland,New Douglas Park
-49,781,406,Hibernian,Scotland,Easter Road
-50,958,753,Kilmarnock,Scotland,Rugby Park
-51,618,313,Livingston,Scotland,Almondvale
-52,607,193,Motherwell,Scotland,Fir Park Stadium
-53,228,363,Rangers,Scotland,Ibrox
-54,645,488,Ross County,Scotland,Global Energy Stadium
-55,750,684,St Johnstone,Scotland,McDiarmid Park
-56,116,276,St Mirren,Scotland,St. Mirren Park
-57,857,668,Augsburg,Germany,WWK Arena
-58,546,825,Bayern Munich,Germany,Allianz Arena
-59,31,232,Bielefeld,Germany,Bielefelder Alm
-60,3,429,Dortmund,Germany,Westfalenstadion
-61,477,634,Ein Frankfurt,Germany,Commerzbank-Arena
-62,303,45,FC Koln,Germany,RheinEnergieStadion
-63,169,883,Freiburg,Germany,Mage Solar
-64,739,84,Hertha,Germany,Olympic Stadium
-65,919,917,Hoffenheim,Germany,Rhein-Neckar-Arena
-66,11,788,Leverkusen,Germany,BayArena
-67,361,46,Mainz,Germany,Coface Arena
-68,101,99,Mönchengladbach,Germany,Borussia-Park
-69,551,195,RasenBallsport Leipzig,Germany,Red Bull Arena
-70,394,610,Schalke 04,Germany,Veltins-Arena
-71,489,869,Stuttgart,Germany,Mercedes-Benz Arena
-72,997,518,Union Berlin,Germany,Alten Försterei
-73,231,521,Werder Bremen,Germany,Weserstadion
-74,271,307,Wolfsburg,Germany,Volkswagen Arena
-75,541,140,Atalanta,Italy,Gewiss Stadium
-76,94,382,Benevento,Italy,Ciro Vigorito
-77,102,304,Bologna,Italy,Stadio Renato Dall
-78,219,378,Cagliari,Italy,Sardegna Arena
-79,610,359,Crotone,Italy,Ezio Scida
-80,912,835,Fiorentina,Italy,Stadio Artemio Franchi
-81,29,228,Genoa,Italy,Stadio Luigi Ferraris
-82,511,428,Inter,Italy,San Siro
-83,4,58,Juventus,Italy,Allianz Stadium
-84,745,999,Lazio,Italy,Stadio Olimpico
-85,733,328,Milan,Italy,San Siro
-86,337,542,Napoli,Italy,Stadio San Paolo
-87,728,256,Parma Calcio 1913,Italy,Stadio Ennio Tardini
-88,883,340,Roma,Italy,Stadio Olimpico
-89,285,444,Sampdoria,Italy,Stadio Luigi Ferraris
-90,105,842,Sassuolo,Italy,Mapei Stadium – Città del Tricolore
-91,18,955,Spezia,Italy,Alberto Picco
-92,917,170,Torino,Italy,Stadio Olimpico
-93,53,487,Udinese,Italy,Stadio Friuli
-94,983,644,Verona,Italy,Stadio Marcantonio Bentegodi
-95,61,212,Angers,France,Stade Raymond Kopa
-96,453,498,Bordeaux,France,Stade Chaban Delmas
-97,759,149,Brest,France,Stade Francis-Le Blé
-98,746,30,Dijon,France,Stade Gaston Gérard
-99,465,859,Lens,France,Stade Félix Bollaert
-100,481,936,Lille,France,Stade Pierre-Mauroy
-101,890,248,Lorient,France,Stade du Moustoir
-102,446,851,Lyon,France,Groupama Stadium
-103,451,150,Marseille,France,Stade Vélodrome
-104,431,244,Metz,France,Stade Municipal
-105,986,609,Monaco,Monaco,Stade Louis II
-106,584,263,Montpellier,France,Stade de la Mosson
-107,638,631,Nantes,France,La Beaujoire-Louis
-108,158,220,Nice,France,Allianz Riviera
-109,754,944,Nimes,France,Stade des Costières
-110,520,484,Paris SG,France,Parc des Princes
-111,703,344,Rennes,France,Route de Lorient
-112,841,689,St Etienne,France,Stade Geoffroy-Guichard
-113,926,514,Stade de Reims,France,Stade Auguste Delaune
-114,39,870,Strasbourg,France,Stade de la Meinau
-115,713,288,Alaves,Spain,Mendizorroza
-116,232,77,Ath Bilbao,Spain,San Mamés
-117,989,12,Ath Madrid,Spain,Wanda Metropolitano
-118,979,64,Barcelona,Spain,Camp Nou
-119,119,280,Betis,Spain,Benito Villamarín
-120,877,820,Cadiz,Spain,Ramón de Carranza
-121,752,210,Celta Vigo,Spain,Balaídos
-122,149,941,Eibar,Spain,Ipurua Municipal Stadium
-123,124,218,Elche,Spain,Martínez Valero
-124,294,509,Getafe,Spain,Coliseum Alfonso Pérez
-125,8,446,Granada,Spain,Los Cármenes
-126,671,563,Huesca,Spain,El Alcoraz
-127,135,681,Levante,Spain,Ciutat de València
-128,468,163,Osasuna,Spain,Reyno de Navarra
-129,492,656,Real Madrid,Spain,Estadio Santiago Bernabéu
-130,662,665,Sevilla,Spain,Ramón Sánchez Pizjuán
-131,288,957,Sociedad,Spain,Reale Arena
-132,491,758,Valencia,Spain,Mestalla
-133,233,584,Valladolid,Spain,José Zorrilla
-134,971,935,Villarreal,Spain,Estadio de la Cerámica
-135,947,597,AE Larissa,Greece,AEL FC Arena
-136,616,570,AEK,Greece,Olympic
-137,191,14,Aris,Greece,Kleanthis Vikelidis Stadium
-138,635,422,Asteras Tripolis,Greece,Asteras Tripolis Stadium
-139,984,918,Atromitos,Greece,Peristeri Stadium
-140,937,284,Giannina,Greece,Zosimades Stadium
-141,865,312,Lamia,Greece,Lamia Municipal Stadium
-142,355,249,NFC Volos,Greece,Panthessaliko Stadium
-143,25,142,OFI,Greece,Theodoros Vardinogiannis 
-144,69,571,Olympiakos,Greece,Georgios Karaiskakis Stadium
-145,382,504,Panathinaikos,Greece,Apostolos Nikolaidis Stadium
-146,494,110,Panetolikos,Greece,Panetolikos Stadium
-147,789,741,PAOK,Greece,Toumba
-148,23,394,Xanthi,Greece,Xanthi FC Arena
-149,213,48,ADO Den Haag,Netherlands,Cars Jeans Stadion
-150,329,252,Ajax,Netherlands,Johan Cruyff Arena
-151,80,990,AZ Alkmaar,Netherlands,AFAS Stadion
-152,640,472,FC Emmen,Holland,De Oude Meerdijk
-153,755,811,FC Groningen,Netherlands,Euroborg
-154,7,678,FC Twente,Netherlands,De Grolsch Veste
-155,275,527,FC Utrecht,Netherlands,Stadion Galgenwaard
-156,583,494,Feyenoord,Netherlands,De Kuip
-157,527,750,Fortuna Sittard,Holland,Fortuna Sittard Stadion
-158,675,290,PEC Zwolle,Netherlands,MAC³PARK Stadion
-159,141,548,PSV Eindhoven,Netherlands,Philips Stadion
-160,5,239,RKC Waalwijk,Netherlands,Mandemakers Stadion
-161,346,91,SC Heerenveen,Netherlands,Abe Lenstra Stadion
-162,166,18,SC Heracles Almelo,Netherlands,Erve Asito
-163,668,818,Sparta,Netherlands,Het Kasteel (The Castle)
-164,461,434,Vitesse,Netherlands,GelreDome
-165,821,843,VVV-Venlo,Netherlands,De Koel
-166,206,414,Willem II,Netherlands,Koning Willem II Stadion
-167,111,965,Anderlecht,Belgium,Lotto Park
-168,103,558,Antwerp,Belgium,Bosuilstadion
-169,939,817,Beerschot VA,Belgium,Olympisch Stadion
-170,293,22,Cercle Brugge,Belgium,Jan Breydel Stadium
-171,580,713,Charleroi,Belgium,Stade du Pays de Charleroi
-172,381,733,Club Brugge,Belgium,Jan Breydel
-173,806,963,Eupen,Belgium,Kehrwegstadion
-174,998,161,Genk,Belgium,Cristal Arena
-175,787,16,Gent,Belgium,Ghelamco Arena
-176,547,942,Kortrijk,Belgium,Guldensporenstadion
-177,323,129,KV Oostende,Belgium,Albertparkstadion
-178,447,912,Mechelen,Belgium,Argosstadion Achter de Kazerne
-179,545,949,Mouscron-Peruwelz,Belgium,Stade Le Canonnier
-180,736,471,Oud-Heverlee Leuven,Belgium,Den Dreef
-181,576,983,St.Truiden,Belgium,Stayen
-182,264,993,Standard,Belgium,Stade Maurice Dufrasne
-183,165,229,Waasland-Beveren,Belgium,Freethiel Stadion
-184,706,397,Waregem,Belgium,Regenboogstadion
-185,897,943,Ankaragucu,Turkey,Ankara 19 Mayis Stadium
-186,695,975,Antalyaspor,Turkey,New Antalya Stadium
-187,855,188,Besiktas,Turkey,Vodafone Arena
-188,62,502,Denizlispor,Turkey,Atatürk Stadium
-189,313,283,Erzurumspor,Turkey,Kazım Karabekir Stadium
-190,922,864,Fenerbahce,Turkey,Sükrü Saracoglu
-191,913,961,Galatasaray,Turkey,Türk Telekom Arena
-192,43,121,Gaziantep FK,Turkey,Gaziantep Arena
-193,684,13,Genclerbirligi,Turkey,19 Mayis Stadyumu
-194,44,246,Goztepe,Turkey,Doğanlar Stadium
-195,660,316,Hatayspor,Turkey,Antakya Atatürk Stadium
-196,705,332,Istanbul Basaksehir,Turkey,Başakşehir Fatih Terim Stadium
-197,171,797,Karagumruk,Turkey,Vefa Stadium
-198,415,791,Kasimpasa,Turkey,Recep Tayyip Erdoğan Stadium
-199,941,137,Kayserispor,Turkey,Kadir Has Stadium
-200,574,473,Konyaspor,Turkey,Torku Arena
-201,770,909,Malatyaspor,Turkey,Malatya Inönü Stadi
-202,284,118,Rizespor,Turkey,Çaykur Didi Stadyumu
-203,45,31,Sivasspor,Turkey,4 Eylül
-204,994,117,Trabzonspor,Turkey,Hüseyin Avni Aker
-205,785,32,AaB,Denmark,Nordjyske Arena
-206,704,682,AC Horsens,Denmark,CASA Arena Horsens
-207,318,351,AGF Aarhus,Denmark,Ceres Park
-208,482,953,Brøndby,Denmark,Brøndby Stadium
-209,921,81,FC Copenhagen,Denmark,Telia Parken
-210,269,376,FC Midtjylland,Denmark,MCH Arena
-211,522,901,FC Nordsjælland,Denmark,Farum Park
-212,118,539,Lyngby,Denmark,Lyngby Stadion
-213,336,731,Odense BK,Denmark,Nature Energy Park
-214,950,333,Randers FC,Denmark,Cepheus Park Randers
-215,226,187,Sønderjyske,Denmark,Sydbank Park
-216,677,886,Vejle Boldklub,Denmark,Vejle Stadium
-217,860,52,Belenenses,Portugal,Estádio Nacional
-218,131,63,Benfica,Portugal,Estádio da Luz
-219,99,616,Boavista,Portugal,Estádio do Bessa
-220,201,710,Braga,Portugal,Estádio Municipal de Braga
-221,735,126,CD Nacional de Madeira ,Portugal,Estádio da Madeira
-222,155,224,F.C. Paços de Ferreira,Portugal,Estádio da Mata Real
-223,126,319,Famalicao,Portugal,Estádio Municipal 22 de Junho
-224,531,191,FC Porto,Portugal,Estádio do Dragão
-225,421,729,Gil Vicente,Portugal,Estádio Cidade de Barcelos
-226,982,966,Guimaraes,Portugal,Estádio D. Afonso Henriques
-227,970,932,Maritimo,Portugal,Estádio dos Barreiros
-228,524,120,Moreirense,Portugal,Parque Joaquim Almeida Freitas
-229,932,349,Portimonense,Portugal,Estádio Municipal
-230,144,107,Rio Ave,Portugal,Estádio dos Arcos
-231,367,38,Santa Clara,Portugal,Estádio de São Miguel
-232,880,360,SC Farense,Portugal,Estádio de São Luís
-233,951,258,Sporting CP,Portugal,Estádio José Alvalade
-234,133,583,Tondela,Portugal,Estádio João Cardoso
-235,304,846,Atlanta United,United States,Mercedes Stadium
-236,543,134,Chicago Fire,United States,Toyota Park
-237,630,399,Colorado Rapids,United States,Dick
-238,67,589,Columbus Crew,United States,Columbus Crew Stadium
-239,1,281,DC United,United States,RFK Stadium
-240,488,591,FC Cincinnati,United States,Nippert Stadium
-241,448,457,FC Dallas,United States,Toyota Stadium
-242,938,663,Houston Dynamo,United States,BBVA Compass Stadium
-243,534,813,Inter Miami,United States,Fort Lauderdale Stadium
-244,479,341,L.A. Galaxy,United States,StubHub Center
-245,405,205,Los Angeles FC,United States,Banc of California
-246,458,526,Minnesota United,United States,TCF Bank Stadium
-247,159,911,Montreal Impact,Canada,Saputo Stadium
-248,187,345,Nashville SC,United States,Nissan Stadium
-249,858,330,New England Rev.,United States,Gillette Stadium
-250,472,309,New York City,United States,Yankee Stadium
-251,356,461,New York Red Bulls,United States,Red Bull Arena
-252,193,598,Orlando City,United States,Citrus Bowl
-253,614,416,Philadelphia Union,United States,PPL Park
-254,923,39,Portland Timbers,United States,Providence Park
-255,549,974,Real Salt Lake,United States,Rio Tinto Stadium
-256,624,868,San Jose Earthquakes,United States,Buck Shaw
-257,793,512,Seattle Sounders FC,United States,CenturyLink Field
-258,404,155,Sporting Kansas City,United States,Sporting Park
-259,581,647,Toronto FC,Canada,BMO Field
-260,88,804,Vancouver Whitecaps,Canada,BC Place
-261,156,520,AIK,Sweden,Friends Arena
-262,440,231,Djurgaarden,Sweden,Tele2 Arena
-263,550,468,Elfsborg,Sweden,Borås Arena
-264,125,98,Falkenbergs FF,Sweden,Falcon Alkoholfri Arena
-265,55,74,Hacken,Sweden,Bravida Arena
-266,766,144,Hammarby,Sweden,Tele2 Arena
-267,633,624,Helsingborg,Sweden,Olympia
-268,832,20,IFK Gothenburg,Sweden,Gamla Ullevi
-269,654,960,Kalmar FF,Sweden,Guldfågeln Arena
-270,429,776,Malmo FF,Sweden,Eleda Stadion
-271,484,186,Mjallby,Sweden,Strandvallen
-272,538,267,Norrkoping,Sweden,Östgötaporten
-273,78,50,Oerebro,Sweden,Behrn Arena
-274,467,860,Ostersund,Sweden,Jämtkraft Arena
-275,963,637,Sirius,Sweden,Studenternas IP
-276,895,690,Varbergs BoIS FC,Sweden,Påskbergsvallen
-277,952,393,Atlas,Mexico,Jalisco
-278,148,164,Atletico de San Luis,Mexico,Estadio Alfonso Lastras
-279,540,704,CD Guadalajara,Mexico,Estadio Akron
-280,258,714,CF America,Mexico,Estadio Azteca
-281,837,303,Cruz Azul,Mexico,Estadio Azteca
-282,914,404,FC Juarez,Mexico,Estadio Olímpico Benito Juárez
-283,273,407,Leon,Mexico,Estadio León
-284,413,454,Mazatlán,Mexico,Estadio de Mazatlán
-285,179,385,Monterrey,Mexico,Estadio BBVA
-286,589,289,Necaxa,Mexico,Estadio Victoria
-287,122,216,Pachuca,Mexico,Estadio Hidalgo
-288,882,688,Puebla,Mexico,Estadio Cuauhtémoc
-289,641,762,Pumas,Mexico,Estadio Olímpico Universitario
-290,681,940,Queretaro FC,Mexico,Estadio La Corregidora
-291,449,924,Santos,Mexico,Estadio Corona
-292,299,306,Tigres,Mexico,Estadio Universitario
-293,879,367,Tijuana,Mexico,Estadio Caliente
-294,929,104,Toluca,Mexico,Nemesio Díez
-295,112,59,Atletico GO,Brazil,Estádio Antônio Accioly
-296,401,576,Atletico MG,Brazil,Estádio Independência
-297,862,549,Atletico PR,Brazil,Estádio Joaquim Américo Guimarães
-298,761,160,Bahia,Brazil,Arena Fonte Nova
-299,312,486,Botafogo RJ,Brazil,Estádio Olímpico
-300,333,891,Bragantino,Brazil,Nabi Abi Chedid
-301,254,3,Ceara,Brazil,Estádio Presidente Vargas (Ceará)
-302,375,222,Corinthians,Brazil,Arena Corinthians
-303,418,633,Coritiba,Brazil,Couto Pereira
-304,248,569,Flamengo,Brazil,Estádio do Maracanã
-305,38,524,Fluminense,Brazil,Maracanã
-306,344,373,Fortaleza,Brazil,Estádio Castelão
-307,452,364,Goias,Brazil,Serra Dourada
-308,756,845,Gremio,Brazil,Arena do Grêmio
-309,686,605,Internacional,Brazil,Beira-Rio
-310,350,455,Palmeiras,Brazil,Allianz Parque
-311,223,157,Santos FC,Brazil,Vila Belmiro
-312,807,83,Sao Paulo,Brazil,Morumbi
-313,716,125,Sport Club do Recife,Brazil,Ilha do Retiro
-314,555,127,Vasco da Gama,Brazil,São Januário
-315,292,884,Desna,Ukraine,Stadion Yuri Gagarin
-316,875,387,Dynamo Kiev,Ukraine,NSC Olimpiyskiy
-317,372,734,FC Kolos Kovalivka,Ukraine,Kolos Stadium (Kovalivka)
-318,710,620,FC Lviv,Ukraine,Arena Lviv
-319,278,903,FC Olexandria,Ukraine,CSC Nika
-320,679,559,Illichivets,Ukraine,Volodymyr Boiko
-321,911,268,Inhulets,Ukraine,Inhulets Stadium
-322,693,119,Mynai,Ukraine,Mynai Arena
-323,104,639,Olimpik Donetsk,Ukraine,Lobanovsky Dynamo Stadium
-324,478,752,Rukh Lviv,Ukraine,Skif Stadium
-325,751,721,SC Dnipro-1,Ukraine,Dnipro Arena
-326,180,253,Shakhtar Donetsk,Ukraine,Metalist
-327,130,627,Vorskla,Ukraine,Butovsky Vorskla
-328,568,116,Zorya,Ukraine,Slavutych-Arena
-329,637,973,Arsenal Tula,Russia,Arsenal Stadium
-330,87,305,CSKA Moscow,Russia,VEB Arena
-331,813,613,Dinamo Moscow,Russia,	VTB Arena
-332,562,92,FC Krasnodar,Russia,Krasnodar Stadium
-333,362,257,FC Tambov,Russia,Spartak Stadium
-334,863,495,FC Ufa,Russia,	Neftyanik Stadium
-335,90,60,FK Rostov,Russia,	Rostov Arena
-336,369,44,FK Rubin Kazan,Russia,Kazan Arena
-337,829,466,Khimki FK,Russian Federation,SK Rodina
-338,27,71,Lok. Moscow,Russia,RZD Arena
-339,235,24,PFC Sochi,Russia,Fisht Olympic Stadium
-340,128,719,Rotor Volgograd,Russian Federation,Volgograd Arena
-341,590,168,Spartak Moscow,Russia,Otkritie Arena
-342,824,26,Terek Grozny,Russia,Akhmat Arena
-343,816,803,Ural S.R,Russia,Ekaterinburg Arena
-344,164,827,Zenit St Petersburg,Russia,	Gazprom Arena
-345,260,747,Adelaide United,Australia,Hindmarsh Stadium
-346,214,436,Brisbane Roar FC,Australia,Suncorp Stadium
-347,552,800,Central Coast Mariners,Australia,Central Coast Stadium
-348,718,805,Melbourne City FC,Australia,AAMI Park
-349,961,928,Melbourne Victory,Australia,AAMI Park
-350,868,617,Newcastle Jets,Australia,Hunter Stadium
-351,200,285,Perth Glory,Australia,Perth Oval
-352,909,814,Sydney FC,Australia,Sydney Football Stadium
-353,722,165,Wellington Phoenix,New Zealand,Westpac Stadium
-354,596,400,Western Sydney Wanderers FC,Australia,Bankwest Stadium
-355,178,880,Western United FC,Australia,GMHBA Stadium
-356,694,55,Aalesund,Norway,Color Line Stadion
-357,990,264,Bodoe/Glimt,Norway,Aspmyra Stadion
-358,730,790,Brann,Norway,Brann Stadion
-359,698,275,FK Haugesund,Norway,Haugesund Stadion
-360,825,612,Kristiansund BK,Norway,Kristiansund Stadion
-361,376,556,Mjoendalen,Norway,Isachsen Stadion
-362,724,314,Molde,Norway,Aker Stadion
-363,727,978,Odd Ballklubb,Norway,Skagerak Arena
-364,856,959,Rosenborg,Norway,Lerkendal Stadion
-365,683,370,Sandefjord,Norway,Komplett Arena
-366,928,836,Sarpsborg 08,Norway,Sarpsborg Stadion
-367,360,325,Stabaek,Norway,Nadderud Stadion
-368,410,808,Start,Norway,Sør Arena
-369,506,748,Stroemsgodset,Norway,Marienlyst Stadion
-370,471,744,Vaalerenga,Norway,Ullevaal Stadion
-371,330,300,Viking,Norway,Viking Stadion
-372,138,857,Beijing Guoan,China,Workers Stadium
-373,113,441,Chongqing Lifan,China,Chongqing Olympic Sports Center
-374,964,496,Dalian Yifang,China,Dalian Sports Center
-375,850,73,Guangzhou Evergrande,China,Tianhe Stadium
-376,163,448,Guangzhou R&F F.C.,China,	Yuexiushan Stadium
-377,707,950,HEBEI CFFC,China,Langfang Stadium
-378,287,419,Henan Jianye,China,Zhengzhou Hanghai Stadium
-379,946,507,Jiangsu Sainty,China,Nanjing Olympic Center
-380,497,626,Qingdao Huanghai,China,Qingdao Guoxin Stadium
-381,82,894,Shandong Luneng,China,Jinan Olympic Sports Center
-382,371,374,Shanghai East Asia FC,China,Shanghai Stadium
-383,286,489,Shanghai Greenland Shenhua,China,Hongkou Football Stadium
-384,831,435,Shenzhen FC,China,Shenzhen Universiade Sports Centre
-385,341,653,Shijiazhuang Yongchang FC,China,Yutong International Sports Center
-386,439,685,Tianjin Teda,China,Tianjin Olympic Center
-387,265,291,Wuhan Zall,China,Dongxihu Sports Centre 
-388,776,4,A. Sebatspor,Turkey,Akçaabat Fatih Stadyumu
-389,764,215,A.S. Junior Pallacanestro Casale,Italy,PalaFerraris
-390,966,992,Aalst,Belgium,Pierre Cornelisstadion
-391,634,595,Ascoli,Italy,Stadio Cino e Lillo Del Duca
-392,572,702,Brescia,Italy,Mario Rigamonti
-393,270,670,Chievo,Italy,Stadio Marc
-394,881,720,Cittadella,Italy,Stadio Pier Cesare Tombolato
-395,626,692,Cosenza,Italy,Stadio San Vito
-396,604,865,Cremonese,Italy,Stadio Giovanni Zini
-397,267,581,Empoli,Italy,Stadio Carlo Castellani
-398,175,88,Entella,Italy,Stadio Comunale
-399,812,640,Frosinone,Italy,Stadio Matusa
-400,297,11,L.R. Vicenza Virtus,Italy,Romeo Menti
-401,437,37,Lecce,Italy,Via del Mare
-402,26,274,Monza,Italy,Stadio Brianteo
-403,115,259,Pescara,Italy,Stadio Adriatico
-404,501,261,Pisa,Italy,Arena Garibaldi – Romeo
-405,132,625,Pordenone Calcio,Italy,Stadio Ottavio Bottecchia
-406,674,578,Reggina,Italy,Oreste Granillo
-407,291,113,Reggio Audace,Italy,Città del Tricolore Stadium
-408,627,709,Salernitana,Italy,Stadio Arechi
-409,181,173,SPAL 2013,Italy,Paolo Mazza
-410,889,659,Venezia,Italy,Stadio Pierluigi Penzo
-411,249,703,Alloa,Scotland,Recreation Park
-412,867,654,Arbroath,Scotland,Gayfield Park
-413,969,662,Ayr,Scotland,Somerset Park
-414,536,560,Dundee FC,Scotland,Dens Park
-415,363,106,Dunfermline,Scotland,East End Park
-416,190,78,Hearts,Scotland,Tynecastle
-417,774,183,Inverness C,Scotland,Caledonian Stadium
-418,537,875,Morton,Scotland,Cappielow Park
-419,12,80,Queen of South,Scotland,Palmerston Park
-420,625,933,Raith Rvs,Scotland,Starks Park
-421,63,90,Accrington,England,Crown Ground
-422,153,298,Blackpool,England,Bloomfield Road
-423,56,887,Bristol Rovers,England,Memorial Stadium
-424,419,318,Burton,England,Pirelli Stadium
-425,916,991,Charlton,England,The Valley
-426,21,2,Crewe,England,Alexandra Stadium
-427,760,796,Doncaster,England,Keepmoat Stadium
-428,208,109,Fleetwood Town,England,Highbury Stadium
-429,420,545,Gillingham,England,Priestfield Stadium
-430,688,474,Hull,England,KC Stadium
-431,64,881,Ipswich,England,Portman Road
-432,563,255,Lincoln,England,Sincil Bank
-433,280,219,Milton Keynes Dons,England,Stadium MK
-434,960,872,Northampton,England,Sixfields Stadium
-435,307,132,Oxford Utd,England,Kassam Stadium
-436,886,579,Peterboro,England,London Road Stadium
-437,814,664,Plymouth,England,Home Park
-438,192,657,Portsmouth,England,Fratton Park
-439,220,336,Rochdale,England,Spotland
-440,117,810,Shrewsbury,England,New Meadow
-441,351,53,Sunderland,England,Stadium of Light
-442,852,86,Swindon,England,The County Ground
-443,35,465,Wigan,England,DW Stadium
-444,696,676,Wimbledon,England,Kingsmeadow
-445,593,65,Barrow,England,Holker Street
-446,613,296,Bolton,England,Macron Stadium
-447,289,413,Bradford,England,Valley Parade
-448,72,162,Cambridge United,England,Abbey Stadium
-449,864,593,Carlisle,England,Brunton Park
-450,73,391,Cheltenham,England,Whaddon Road
-451,403,207,Colchester,England,Community Stadium
-452,172,954,Crawley,England,Broadfield Stadium
-453,257,35,Exeter,England,St James’
-454,71,575,Forest Green Rovers,England,The New Lawn
-455,198,476,Grimsby,England,Blundell Park
-456,670,764,Harrogate Town FC,United Kingdom,Keepmoat Stadium
-457,553,189,Leyton Orient,England,Matchroom Stadium
-458,120,449,Mansfield,England,Field Mill
-459,680,141,Morecambe,England,Globe Arena
-460,176,708,Newport,Wales,Rodney Parade
-461,784,66,Oldham,England,Boundary Park
-462,861,421,Port Vale,England,Vale Park
-463,218,774,Salford City,England,Moor Lane
-464,76,324,Scunthorpe,England,Glanford Park
-465,782,76,Southend,England,Roots Hall
-466,402,996,Stevenage,England,Broadhall Way
-467,915,124,Tranmere,England,Prenton Park
-468,878,606,Walsall,England,Bescot Stadium
-469,783,94,Albinoleffe,Italy,Stadio Città di Gorgonzola
-470,712,152,Alessandria,Italy,Stadio Giuseppe Moccagatta
-471,777,737,Alma Juventus Fano,Italy,Stadio Raffaele Mancini
-472,428,350,Arezzo,Italy,Stadio Città di Arezzo
-473,778,236,ArzignanoChiampo,Italy,Tommaso Dal Molin Stadium
-474,466,371,ASDC Gozzano,Italy,Stadio Alfredo d'Albertas
-475,433,855,Avellino,Italy,Stadio Partenio
-476,884,499,AZ Picerno,Italy,Stadio Alfredo Viviani
-477,505,386,Bari,Italy,Stadio San Nicola
-478,619,986,Bisceglie,Italy,Stadio Gustavo Ventura
-479,665,919,Calcio Padova,Italy,Stadio Euganeo
-480,217,430,Carpi,Italy,Stadio Alberto Braglia
-481,794,885,Carrarese,Italy,Stadio dei Marmi
-482,558,523,Casertana,Italy,Stadio Alberto Pinto
-483,255,103,Catania,Italy,Stadio Angelo Massimino
-484,60,783,Catanzaro,Italy,Stadio Nicola Ceravolo
-485,475,358,Cavese,Italy,Stadio Simonetta Lamberti
-486,535,899,Cesena,Italy,Stadio Dino Manuzzi
-487,493,443,Como,Italy,Giuseppe Sinigaglia
-488,473,329,Feralpisalò,Italy,Stadio Lino Turina
-489,678,724,Fermana,Italy,Stadio Bruno Recchioni
-490,414,477,Giana Erminio,Italy,Città di Gorgonzola
-491,268,242,Gubbio,Italy,Stadio Pietro Barbetti
-492,79,807,Imolese Calcio 1919,Italy,Romeo Galli
-493,230,968,Juve Stabia,Italy,Romeo Menti
-494,936,984,Juventus U23,Italy,Stadio Giuseppe Moccagatta
-495,97,317,Lecco,Italy,Stadio Rigamonti-Ceppi
-496,320,493,Legnago Salus,Italy,Stadio Mario Sandrini
-497,744,54,Livorno,Italy,Armando Picchi
-498,962,821,Matelica,Italy,Giovanni Paolo II
-499,498,877,Modena,Italy,Stadio Alberto Braglia
-500,592,679,Monopoli,Italy,Stadio Vito Simone Veneziani
-501,442,223,Novara,Italy,Stadio Silvio Piola
-502,246,769,Olbia,Italy,Stadio Bruno Nespoli
-503,483,9,Paganese,Italy,Stadio Marcello Torre
-504,519,554,Pergolettese,Italy,Stadio Giuseppe Voltini
-505,621,227,Perugia,Italy,Renato Curi
-506,927,592,Piacenza,Italy,Stadio Leonardo Garilli
-507,701,463,Pianese,Italy,Stadio Comunale
-508,988,712,Pistoiese,Italy,Stadio Marcello Melani
-509,222,674,Pontedera,Italy,Stadio Ettore Mannucci
-510,795,339,Potenza,Italy,Stadio Alfredo Viviani
-511,871,921,Pro Patria,Italy,Stadio Carlo Speroni
-512,68,895,Pro Sesto,Italy,Stadio Breda
-513,802,131,Pro Vercelli,Italy,Stadio Silvio Piola
-514,587,402,Ravenna,Italy,Stadio Bruno Benelli
-515,137,646,Renate,Italy,Stadio Città di Meda
-516,302,172,Rende,Italy,Stadio Marco Lorenzon
-517,615,412,Rieti,Italy,Stadio Centro d
-518,408,599,Rimini,Italy,Stadio Romeo Neri
-519,17,536,Aue,Germany,Erzgebirgsstadion
-520,525,730,Bochum,Germany,Ruhrstadion
-521,608,335,Braunschweig,Germany,Eintracht-Stadion
-522,212,547,Darmstadt,Germany,Stadion am Böllenfalltor
-523,445,701,FC Heidenheim,Germany,Voith-Arena
-524,652,297,Fortuna Düsseldorf,Germany,Esprit Arena
-525,161,649,Hamburg,Germany,Volksparkstadion
-526,893,287,Hannover,Germany,HDI Arena
-527,738,853,Holstein Kiel,Germany,Holstein-Stadion
-528,309,839,Jahn Regensburg,Germany,Continental Arena
-529,480,505,Karlsruhe,Germany,Wildparkstadion
-530,426,530,Nurnberg,Germany,Grundig Stadion
-531,89,508,Osnabrueck,Germany,Stadion an der Bremer Brücke
-532,52,401,Paderborn,Germany,Benteler-Arena
-533,959,483,Sandhausen,Germany,Hardtwaldstadion
-534,891,451,SPVGG Greuther Fürth,Germany,Sportpark Ronhof Thomas Sommer
-535,2,201,St Pauli,Germany,Millerntor-Stadion
-536,266,197,Wuerzburger Kickers,Germany,Flyeralarm Arena
-537,978,347,Albacete,Spain,Carlos Belmonte
-538,37,550,Alcorcon,Spain,Santo Domingo
-539,606,594,Almeria,Spain,Juegos Mediterráneos
-540,780,675,Cartagena FC,Spain,Cartagonova
-541,384,51,Castellón,Spain,Nou Castàlia
-542,564,166,Espanol,Spain,RCDE Stadium
-543,899,823,Extremadura,Spain,Francisco de la Hera
-544,385,982,Fuenlabrada,Spain,Estadio Fernando Torres
-545,599,479,Girona,Spain,Montilivi
-546,942,82,La Coruna,Spain,Riazor
-547,809,105,Las Palmas,Spain,Estadio Gran Canaria
-548,992,133,Leganes,Spain,Butarque
-549,422,962,Lugo,Spain,Anxo Carro
-550,500,365,Malaga,Spain,La Rosaleda
-551,374,833,Mallorca,Spain,Estadi de Son Moix
-552,123,15,Mirandes,Spain,Anduva
-553,48,417,Numancia,Spain,Los Pajaritos
-554,16,672,Ponferradina,Spain,El Toralín
-555,364,671,Real Oviedo,Spain,Estadio Carlos Tartiere
-556,854,871,Sabadell,Spain,Nova Creu Alta
-557,682,146,Santander,Spain,El Sardinero
-558,839,368,Sp Gijon,Spain,El Molinón
-559,298,795,Tenerife,Spain,Heliodoro Rodríguez López
-560,75,97,UD Logroñés,Spain,Las Gaunas
-561,317,863,Vallecano,Spain,Estadio de Vallecas
-562,244,424,Zaragoza,Spain,La Romareda
-563,870,757,Ajaccio,France,Stade François Coty
-564,933,122,Amiens,France,Stade de la Licorne
-565,957,156,Auxerre,France,Stade de l
-566,154,346,Caen,France,Stade Michel d
-567,59,415,Chateauroux,France,Stade Gaston Petit
-568,65,995,Clermont Foot,France,Stade Gabriel Montpied
-569,748,844,FC Chambly,France,Stade des Marais
-570,888,661,Grenoble,France,Stade des Alpes
-571,252,247,Guingamp,France,Stade du Roudourou
-572,486,481,Le Havre,France,Stade Jules Deschaseaux
-573,146,958,Nancy,France,Stade Marcel Picot
-574,54,696,Niort,France,Stade René Gaillard
-575,84,636,Paris FC,France,Stade Charléty
-576,515,501,Pau FC,France,Nouveau Stade du Hameau
-577,147,243,Rodez AF,France,Stade Paul-Lignon
-578,830,819,Sochaux,France,Stade Auguste Bonal
-579,834,738,Toulouse,France,Stadium de Toulouse
-580,427,763,Troyes,France,Stade de l'Aube
-581,513,822,USL Dunkerque,France,Stade Marcel-Tribut
-582,623,608,Valenciennes,France,Stade du Hainaut
-583,609,245,AFC Eskilstuna,Sweden,Tunavallen
-584,238,866,Akropolis IF,Sweden,Spånga IP
-585,108,377,Dalkurd FF,Sweden,Gavlevallen
-586,818,180,Degerfors,Sweden,Stora Valla
-587,83,861,Gais,Sweden,Gamla Ullevi
-588,595,908,GIF Sundsvall,Sweden,Idrottsparken
-589,771,792,Halmstad,Sweden,Örjans Vall
-590,985,717,IK Brage,Sweden,Domnarvsvallen
-591,612,607,Joenkoeping S.,Sweden,Stadsparksvallen
-592,435,293,Ljungskile,Sweden,Skarsjövallen
-593,943,913,Norrby,Sweden,Borås Arena
-594,321,794,Oergryte,Sweden,Gamla Ullevi
-595,769,930,Osters IF,Sweden,Myresjöhus Arena
-596,417,629,Trelleborgs FF,Sweden,Vångavallen
-597,368,138,Umeå,Sweden,Umeå Energi Arena
-598,719,403,Vaesteraas SK,Sweden,Solid Park Arena
-599,874,828,America MG,Brazil,Estádio Independência
-600,925,408,Avai FC,Brazil,Estádio da Ressacada
-601,348,773,Botafogo SP,Brazil,Santa Cruz
-602,373,25,Brasil de Pelotas,Brazil,Bento Freitas
-603,508,326,Chapecoense AF,Brazil,Arena Condá
-604,339,786,Confiança,Brazil,Batistão
-605,106,816,Cruzeiro,Brazil,Mineirão
-606,387,976,CS Alagoano,Brazil,Estádio Rei Pelé
-607,954,743,Cuiaba,Brazil,Arena Pantanal
-608,792,452,Figueirense,Brazil,Orlando Scarpelli
-609,930,190,Guarani,Brazil,Estádio Brinco de Ouro da Princesa
-610,900,265,Juventude,Brazil,Alfredo Jaconi
-611,474,322,Nautico,Brazil,Estádio dos Aflitos
-612,215,315,Oeste FC,Brazil,Arena Barueri
-613,407,642,Operario Ferroviario,Brazil,Estádio Germano Krüger
-614,455,240,Parana Clube,Brazil,Estádio Vila Capanema
-615,611,184,Ponte Preta,Brazil,Estádio Moisés Lucarelli
-616,507,230,Sampaio Correa,Brazil,Castelão
-617,632,971,Vitoria,Brazil,Barradão
-618,237,431,Aldosivi,Argentina,Estadio Minella
-619,918,62,Argentinos Juniors,Argentina,Estadio Maradona
-620,565,273,Arsenal Sarandi,Argentina,Estadio Julio H. Grondona
-621,379,177,Atletico Tucuman,Argentina,Monumental José Fierro
-622,907,130,Banfield,Argentina,Estadio Florencio Sola
-623,342,841,Boca Juniors,Argentina,La Bombonera
-624,892,546,Central Córdoba de Santiago del Estero,Argentina,Alfredo Terrera
-625,502,906,Colon,Argentina,Estadio López
-626,242,145,Defensa y Justicia,Argentina,Norberto Tomaghello
-627,322,623,Estudiantes de la Plata,Argentina,Estadio Único
-628,601,251,Gimnasia LP,Argentina,Estadio Juan Carmelo Zerillo
-629,663,27,Godoy Cruz,Argentina,Estadio Feliciano Gambarte
-630,655,945,Huracan,Argentina,Tomás Adolfo Ducó
-631,940,497,Independiente,Argentina,Estadio Libertadores de America
-632,876,801,Lanus,Argentina,Estadio Lanús
-633,529,618,Newells Old Boys,Argentina,Estadio Marcelo Bielsa
-634,245,925,Patronato de Parana,Argentina,Estadio Grella 
-635,432,652,Racing Club,Argentina,Estadio Juan Domingo Perón
-636,673,6,River Plate,Argentina,El Monumental
-637,544,897,Rosario Central,Argentina,Estadio Gigante de Arroyito
-638,357,561,San Lorenzo,Argentina,Estadio Pedro Bidegain
-639,810,36,Talleres de Cordoba,Argentina,Estadio Mario Alberto Kempes
-640,826,537,Union,Argentina,Estadio 15 de Abril
-641,316,882,Cracovia Krakow,Poland,Józef Piłsudski Stadium
-642,42,998,Gornik Zabrze,Poland,Ernest Pohl Stadium
-643,514,577,Jagiellonia Bialystok,Poland,Białystok City Stadium
-644,93,922,Lech Poznan,Poland,INEA Stadion
-645,20,456,Lechia Gdańsk,Poland,Stadion Energa Gdańsk
-646,33,746,Legia Warsaw,Poland,Polish Army Stadium
-647,836,923,Piast Gliwice,Poland,Stadion Piast
-648,399,989,Podbeskidzie Bielsko-Biala,Poland,Stadion Miejski
-649,365,176,Pogon Szczecin,Poland,Stadion Florian Kryger
-650,956,660,Rakow Czestochowa,Poland,Municipal Football Stadium Raków
-651,335,154,Slask Wroclaw,Poland,Stadion Miejski
-652,411,850,Stal Mielec,Poland,Stadion Stali Mielec
-653,86,462,Warta Poznań,Poland,Stadion przy Drodze Dębińskiej
-654,691,513,Wisla Krakow,Poland,Stadion im Henryka Reymana
-655,800,213,Wisla Plock,Poland,Kazimierz Górski Stadium
-656,359,947,Zaglebie Lubin,Poland,Stadion Zagłębia Lubin
-657,160,838,Afghanistan,Afghanistan,Ghazi Stadium
-658,162,767,Albania,Albania,Loro Boriçi Stadium
-659,548,214,Algeria,Algeria,Mustapha Tchaker Stadium
-660,247,361,American Samoa,American Samoa,Pago Park Soccer Stadium
-661,315,522,Andorra,Andorra,Estadi Nacional
-662,709,41,Angola,Angola,Estádio 11 de Novembro
-663,575,926,Anguilla,Anguilla,Ronald Webster Park
-664,334,409,Antigua and Barbuda,Antigua and Barbuda,Antigua Recreation Ground
-665,980,480,Argentina,Argentina,El Monumental
-666,456,398,Armenia,Armenia,Vazgen Sargsyan Republican Stadium
-667,150,777,Aruba,Aruba,Trinidad Stadium
-668,216,151,Australia,Australia,Melbourne Cricket Ground
-669,184,775,Austria,Austria,Ernst-Happel-Stadion
-670,731,829,Azerbaijan,Azerbaijan,Baku Olympic Stadium
-671,157,158,Bahamas,Bahamas,Thomas Robinson Stadium
-672,588,927,Bahrain,Bahrain,Bahrain National Stadium
-673,569,582,Bangladesh,Bangladesh,Bangabandhu National Stadium
-674,840,93,Barbados,Barbados,Barbados National Stadium
-675,523,759,Belarus,Belarus,Dinamo Stadium
-676,140,638,Belgium,Belgium,Stade Roi Baudouin
-677,732,585,Belize,Belize,FFB Field
-678,460,327,Benin,Benin,Stade de lAmitié
-679,729,389,Bermuda,Bermuda,Bermuda National Stadium
-680,438,849,Bhutan,Bhutan,Changlimithang Stadium
-681,151,171,Bolivia,Bolivia,Estadio Hernando Siles
-682,454,396,Bosnia-Herzegovina,Bosnia and Herzegovina,Stadion Grbavica
-683,905,543,Botswana,Botswana,Botswana National Stadium
-684,720,233,Brazil,Brazil,Maracanã Stadium
-685,898,114,British Virgin Islands,British Virgin Islands,A. O. Shirley Recreation Ground
-686,504,802,Brunei,Brunei,Hassanal Bolkiah National Stadium
-687,972,438,Bulgaria,Bulgaria,Vasil Levski Stadium
-688,901,700,Burkina Faso,Burkina Faso,Stade du 4-Août
-689,279,485,Burundi,Burundi,Intwari Stadium
-690,570,395,Cambodia,Cambodia,Phnom Penh Olympic Stadium
-691,195,204,Cameroon,Cameroon,Stade Ahmadou Ahidjo
-692,591,586,Canada,Canada,BMO Field
-693,416,867,Cape Verde,Cape Verde,Estádio Nacional de Cabo Verde
-694,311,423,Cayman Islands,Cayman Islands,Truman Bodden Sports Complex
-695,796,67,Central African Republic,Central African Republic,Barthélémy Boganda Stadium
-696,798,691,Chad,Chad,Stade Omnisports Idriss Mahamat Ouya
-697,700,768,Chile,Chile,Estadio Nacional Julio Martínez Prádanos
-698,22,540,China,China,Workers Stadium
-699,203,33,Chinese Taipei,Taiwan,Taipei Municipal Stadium
-700,791,939,Colombia,Colombia,Estadio Metropolitano
-701,464,862,Congo,Republic of the Congo,Stade Municipal de Kintélé
-702,383,470,Cook Islands,Cook Islands,Avarua Tereora Stadium
-703,314,812,Costa Rica,Costa Rica,Estadio Nacional
-704,95,902,Croatia,Croatia,Stadion Maksimir
-705,152,174,Boston River,Uruguay,Estadio Complejo Rentistas
-706,646,615,CA Cerro,Uruguay,Estadio Luis Tróccoli
-707,263,182,CA River Plate,Uruguay,Estadio Saroldi
-708,186,987,Cerro Largo FC,Uruguay,Estadio Arquitecto Antonio Eleuterio Ubilla
-709,503,798,Danubio,Uruguay,Jardines del Hipódromo
-710,639,196,Defensor Sporting,Uruguay,Estadio Luis Franzini
-711,423,294,Deportivo Maldonado,Uruguay,Estadio Domingo Burgueño
-712,649,535,Fenix,Uruguay,Estadio Parque Capurro
-713,281,179,Liverpool Montevideo,Uruguay,Estadio Belvedere
-714,283,907,Montevideo City Torque,Uruguay,Estadio Centenario
-715,398,226,Nacional Montevideo,Uruguay,Estadio Gran Parque Central
-716,885,411,Peñarol,Uruguay,Estadio Campeón del Siglo
-717,532,787,Plaza Colonia,Uruguay,Estadio Profesor Alberto Suppici
-718,457,7,Progreso,Uruguay,Parque Abraham Paladino
-719,657,695,Rentistas,Uruguay,Estadio Complejo Rentistas
-720,629,645,Wanderers,Uruguay,Estadio Alfredo Victor Viera
-721,470,519,North Carolina FC,United States,Sahlens Stadium at WakeMed Soccer Park
-722,749,250,ASANE FOTBALL,Norway,Åsane Idrettspark
-723,556,977,Grorud IL,Norway,Grorud matchbane
-724,393,856,Hamarkameratene,Norway,Briskeby Gressbane
-725,46,390,JERV,Norway,Levermyr stadion
-726,243,440,KFUM,Norway,KFUM Arena
-727,121,635,Kongsvinger,Norway,Gjemselund Stadion
-728,573,482,Lillestroem,Norway,Åråsen Stadion
-729,300,28,Fygarden FK,Norway,Ågotnes Stadion
-730,343,667,Ranheim,Norway,EXTRA Arena
-731,262,552,Raufoss,Norway,NAMMO Stadion
-732,577,727,Sandnes,Norway,Sandnes Stadium
-733,353,745,Sogndal,Norway,Fosshaugane Campus
-734,566,128,Stjørdals-Blink,Norway,Nye Blinkbanen
-735,808,282,Strommen,Norway,Strømmen Stadion
-736,319,573,Tromso,Norway,Alfheim Stadion
-737,687,751,Ull Kisa,Norway,UKI Arena
-738,510,873,Aberystwyth Town,Wales,Aberystwyth University Stadium
-739,139,500,Bala,Wales,Maes Tegid
-740,517,964,Barry Town United,Wales,Jenner Park
-741,967,490,Caernarfon Town FC,Wales,The Oval
-742,656,910,Cardiff Metropolitan University,Wales,Cyncoed Campus
-743,240,666,Connah's Quay Nomads,Wales,Deeside Stadium
-744,110,572,Flint Town United,Wales,Essity Stadium
-745,301,711,Haverfordwest County,Wales,Bridge Meadow Stadium
-746,81,271,Newi Cefn Druids,Wales,The Rock
-747,530,241,Newtown,Wales,Latham Park
-748,340,739,Pen-y-Bont,United Kingdom,The KYMCO Stadium
-749,34,42,TNS,Wales,Park Hall
-750,32,525,Atalanta,Italy,Gewiss Stadium
-751,462,410,Ath Madrid,Spain,Wanda Metropolitano
-752,518,604,Barcelona,Spain,Camp Nou
-753,386,5,Bayern Munich,Germany,Allianz Arena
-754,174,799,Chelsea,England,Stamford Bridge
-755,873,447,Dortmund,Germany,Westfalenstadion
-756,274,723,Drita,Kosovo,Gjilan City Stadium
-757,539,588,Inter Club d'Escaldes,Andorra,Andorra Football Federation Stadiums
-758,666,354,Juventus,Italy,Allianz Stadium
-759,444,491,Linfield,Northern Ireland,Windsor Park
-760,324,270,Lyon,France,Groupama Stadium
-761,991,770,Man City,England,Etihad Stadium
-762,557,235,Napoli,Italy,Stadio San Paolo
-763,908,732,Paris SG,France,Parc des Princes
-764,934,362,RasenBallsport Leipzig,Germany,Red Bull Arena
-765,66,580,Real Madrid,Spain,Estadio Santiago Bernabéu
-766,306,381,Tre Fiori,San Marino,Stadio di Fiorentino
-767,236,831,Ajax,Netherlands,Johan Cruyff Arena
-768,272,343,Apoel Nicosia,Cyprus,GSP Stadium
-769,194,528,Arsenal,England,Emirates Stadium
-770,91,460,AZ Alkmaar,Netherlands,AFAS Stadion
-771,390,85,Celtic,Scotland,Celtic Park
-772,672,555,CFR Cluj-Napoca,Romania,Dr. Constantin Radulescu
-773,388,194,Derry City,Northern Ireland,Ryan McBride Brandywell Stadium
-774,259,564,Ein Frankfurt,Germany,Commerzbank-Arena
-775,804,809,FC Basel,Switzerland,St. Jakob-Park
-776,993,697,FC Copenhagen,Denmark,Telia Parken
-777,981,112,FC Porto,Portugal,Estádio do Dragão
-778,844,699,Getafe,Spain,Coliseum Alfonso Pérez
-779,424,238,Gjilani,Kosovo,Gjilan City Stadium
-780,495,725,Istanbul Basaksehir,Turkey,Başakşehir Fatih Terim Stadium
-781,41,532,LASK,Austria,Waldstadion
-782,690,379,Leverkusen,Germany,BayArena
-783,526,566,Man United,England,Old Trafford
-784,207,101,Olympiakos,Greece,Georgios Karaiskakis Stadium
-785,838,432,Rangers,Scotland,Ibrox
-786,757,544,Sevilla,Spain,Ramón Sánchez Pizjuán
-787,741,541,Shakhtar Donetsk,Ukraine,Metalist
-788,987,789,Sporting CP,Portugal,Estádio José Alvalade
-789,19,348,Standard,Belgium,Stade Maurice Dufrasne
-790,205,651,SV Salzburg,Austria,Red Bull Arena
-791,995,970,TNS,Wales,Park Hall
-792,392,123,Tre Penne,San Marino,Stadio Fonte dell
-793,327,772,Wolfsburg,Germany,Volkswagen Arena
-794,182,716,Wolves,England,Molineux Stadium
-795,817,815,AFC Fylde,England,Mill Farm
-796,49,749,Altrincham,England,Moss Lane
-797,697,967,Arsenal,England,Emirates Stadium
-798,10,225,Aston Villa,England,Villa Park
-799,469,286,Barnsley,England,Oakwell
-800,594,557,Barrow,England,Holker Street
-801,100,337,Birmingham,England,St Andrews
-802,734,824,Blackburn,England,Ewood Park
-803,58,516,Bolton,England,Macron Stadium
-804,225,937,Bournemouth,England,Vitality Stadium
-805,726,175,Brentford,England,Griffin Park
-806,920,755,Brentwood Town,England,Brentwood Centre Arena
-807,999,785,Brighton,England,Amex Stadium
-808,859,34,Bristol City,England,Ashton Gate
-809,597,199,Burnley,England,Turf Moor
-810,620,830,Cardiff,Wales,Cardiff City
-811,47,221,Charlton,England,The Valley
-812,107,357,Chelsea,England,Stamford Bridge
-813,389,587,Chorley,England,Victory Park
-814,578,683,Coventry,England,St Andrews
-815,261,478,Crewe,England,Alexandra Stadium
-816,250,68,Crystal Palace,England,Selhurst Park
-817,823,619,Derby,England,Pride Park Stadium
-818,945,427,Ebbsfleet United,England,Stonebridge Road
-819,209,590,Everton,England,Goodison Park
-820,325,260,Faversham Town,England,Salters Lane
-821,485,356,Fulham,England,Craven Cottage
-822,188,372,Harrogate Town FC,United Kingdom,Keepmoat Stadium
-823,903,302,Hashtag United,England,Len Salmon Stadium
-824,377,89,Huddersfield Town,England,John Smith’s Stadium
-825,708,425,Hull,England,KC Stadium
-826,721,632,Kings Lynn Town,England,The Walks
-827,799,874,Leeds,England,Elland Road
-828,487,418,Leicester,England,King Power Stadium
-829,57,102,Liverpool,England,Anfield
-830,689,453,Luton,England,Kenilworth Road
-831,560,467,Maine Road,England,Brantingham Road
-832,395,900,Man City,England,Etihad Stadium
-833,366,69,Man United,England,Old Trafford
-834,338,890,Middlesbrough,England,Riverside Stadium
-835,968,70,Millwall,England,The Den
-836,349,876,Needham Market,England,Bloomfields
-837,955,458,New Salamis,England,Coles Park
-838,631,503,Newcastle,England,St James Park
-839,328,914,Northampton,England,Sixfields Stadium
-840,224,706,Norwich,England,Carrow Road
-841,586,756,Nottingham F.,England,City Ground
-842,765,135,Preston,England,Deepdale
-843,747,988,QPR,England,Kiyan Prince Foundation Stadium
-844,30,826,Reading,England,Madejski Stadium
-845,77,614,Alaves,Spain,Mendizorroza
-846,648,538,Ath Bilbao,Spain,San Mamés
-847,833,529,Ath Madrid,Spain,Wanda Metropolitano
-848,463,405,Badajoz,Spain,Nuevo Vivero
-849,331,600,Barcelona,Spain,Camp Nou
-850,805,837,Betis,Spain,Benito Villamarín
-851,430,10,Cadiz,Spain,Ramón de Carranza
-852,533,761,Cartagena FC,Spain,Cartagonova
-853,579,384,Castellón,Spain,Nou Castàlia
-854,358,464,Celta Vigo,Spain,Balaídos
-855,779,622,Eibar,Spain,Ipurua Municipal Stadium
-856,98,262,Elche,Spain,Martínez Valero
-857,282,208,Espanol,Spain,RCDE Stadium
-858,28,754,Getafe,Spain,Coliseum Alfonso Pérez
-859,797,147,Granada,Spain,Los Cármenes
-860,476,23,Huesca,Spain,El Alcoraz
-861,332,355,Leganes,Spain,Butarque
-862,740,574,Leonesa,Spain,Reino de León
-863,295,641,Levante,Spain,Ciutat de València
-864,788,916,Mallorca,Spain,Estadi de Son Moix
-865,51,49,Mirandes,Spain,Anduva
-866,949,766,Osasuna,Spain,Reyno de Navarra
-867,803,650,Real Madrid,Spain,Estadio Santiago Bernabéu
-868,743,628,Sabadell,Spain,Nova Creu Alta
-869,661,946,Sevilla,Spain,Ramón Sánchez Pizjuán
-870,944,136,Sociedad,Spain,Reale Arena
-871,211,834,UD Logroñés,Spain,Las Gaunas
-872,561,533,Valencia,Spain,Mestalla
-873,127,655,Valladolid,Spain,José Zorrilla
-874,977,898,Vallecano,Spain,Estadio de Vallecas
-875,145,596,Villarreal,Spain,Estadio de la Cerámica
-876,554,200,Zaragoza,Spain,La Romareda
-877,177,534,Ajaccio,France,Stade François Coty
-878,828,677,Amiens,France,Stade de la Licorne
-879,305,981,Angers,France,Stade Raymond Kopa
-880,352,517,Annecy,France,Parc des Sports
-881,183,450,AS Beziers,France,Stade de Sauclières
-882,801,718,ASM Belfort,France,Stade Serzian
-883,310,198,Athlético Marseille,France,Stade La Martine
-884,636,299,Auxerre,France,Stade de l
-885,585,771,Bastia,France,Stade Armand Cesari
-886,189,266,Bordeaux,France,Stade Chaban Delmas
-887,811,621,Boulogne,France,Stade de la Libération
-888,370,506,Bourg-Peronnas,France,Stade Marcel-Verchère
-889,848,87,Brest,France,Stade Francis-Le Blé
-890,96,469,Caen,France,Stade Michel d
-891,742,334,Cannes,France,Stade Pierre de Coubertin
-892,509,439,Chateauroux,France,Stade Gaston Petit
-893,866,567,Clermont Foot,France,Stade Gabriel Montpied
-894,13,380,Concarneau,France,Stade Guy Piriou
-895,239,433,Creteil,France,Stade Dominique Duvauchelle
-896,723,279,Dijon,France,Stade Gaston Gérard
-897,711,793,Epinal,France,Stade de la Colombière
-898,70,728,FC Bastia-Borgo,France,Stade Paul-Antoniotti
-899,768,338,FC Chambly,France,Stade des Marais
-900,702,153,FC Rouen,France,Stade Robert Diochon
-901,669,630,FC Villefranche,France,Stade Armand Chouffet
-902,658,185,GFCO Ajaccio,France,Stade Ange Casanova
-903,622,56,Grenoble,France,Stade des Alpes
-904,975,778,Guingamp,France,Stade du Roudourou
-905,853,115,Laval,France,Stade Francis Le Basser
-906,902,896,Le Havre,France,Stade Jules Deschaseaux
-907,851,426,Le Mans,France,MMArena
-908,598,352,Le Puy Foot 43,France,Stade Charles Massot
-909,843,375,Lens,France,Stade Félix Bollaert
-910,516,565,Lille,France,Stade Pierre-Mauroy
-911,582,95,Limonest Saint-Didier,France,Stade Courtois Fillot
-912,296,29,Lorient,France,Stade du Moustoir
-913,396,997,Lyon,France,Groupama Stadium
-914,129,445,Lyon Duchère AS,France,Stade de Balmont
-915,664,19,Marseille,France,Stade Vélodrome
-916,251,369,Metz,France,Stade Municipal
-917,603,442,Monaco,Monaco,Stade Louis II
-918,85,848,Montpellier,France,Stade de la Mosson
-919,567,722,Nancy,France,Stade Marcel Picot
-920,775,21,Nantes,France,La Beaujoire-Louis
-921,894,301,Nice,France,Allianz Riviera
-922,965,96,Nimes,France,Stade des Costières
-923,204,1000,Niort,France,Stade René Gaillard
-924,114,277,Orleans,France,Stade de la Source
-925,642,781,Paris FC,France,Stade Charléty
-926,276,765,Paris SG,France,Parc des Princes
-927,227,852,Aue,Germany,Erzgebirgsstadion
-928,753,437,Augsburg,Germany,WWK Arena
-929,605,782,Bayern Munich,Germany,Allianz Arena
-930,820,602,Bielefeld,Germany,Bielefelder Alm
-931,199,553,Bochum,Germany,Ruhrstadion
-932,849,740,Braunschweig,Germany,Eintracht-Stadion
-933,256,148,Carl Zeiss Jena,Germany,Ernst-Abbe-Sportfeld
-934,436,278,Chemnitzer FC,Germany,Stadion an der Gellertstraße
-935,819,206,Darmstadt,Germany,Stadion am Böllenfalltor
-936,210,392,Dortmund,Germany,Westfalenstadion
-937,443,43,Duisburg,Germany,Schauinsland-Reisen-Arena
-938,763,892,Düren,Germany,Westkampfbahn
-939,391,269,Dynamo Dresden,Germany,Rudolf-Harbig-Stadion
-940,397,648,Ein Frankfurt,Germany,Commerzbank-Arena
-941,692,854,Eintracht Celle,Germany,Nordwall
-942,40,237,Eintracht Norderstedt 03,Germany,Edmund-Plambeck-Stadion
-943,725,603,Elversberg,Germany,Waldstadion an der Kaiserlinde
-944,1000,8,Engers 07,Germany,Stadion am Wasserturm
-945,528,47,FC Heidenheim,Germany,Voith-Arena
-946,406,167,FC Koln,Germany,RheinEnergieStadion
-947,490,705,FC Schweinfurt,Germany,Willy-Sachs-Stadion
-948,628,511,Fortuna Düsseldorf,Germany,Esprit Arena
-949,434,929,Freiburg,Germany,Mage Solar
-950,24,308,Hamburg,Germany,Volksparkstadion
-951,571,108,Hannover,Germany,HDI Arena
-952,617,459,Hertha,Germany,Olympic Stadium
-953,459,72,Hoffenheim,Germany,Rhein-Neckar-Arena
-954,647,736,Holstein Kiel,Germany,Holstein-Stadion
-955,835,779,Ingolstadt,Germany,Audi Sportpark
-956,412,735,Jahn Regensburg,Germany,Continental Arena
-957,737,178,Kaiserslautern,Germany,Fritz-Walter-Stadion
-958,602,985,Karlsruhe,Germany,Wildparkstadion
-959,758,904,Leverkusen,Germany,BayArena
-960,973,611,Magdeburg,Germany,MDCC-Arena
-961,14,847,Mainz,Germany,Coface Arena
-962,450,568,Meinerzhagen,Germany,Stadion an der Oststraße
-963,253,181,Mönchengladbach,Germany,Borussia-Park
-964,676,948,Munich 1860,Germany,Grünwalder Stadion
-965,409,169,Nurnberg,Germany,Grundig Stadion
-966,659,202,Oberneuland,Germany,Sportpark Vinnenweg
-967,904,905,Osnabrueck,Germany,Stadion an der Bremer Brücke
-968,241,920,Paderborn,Germany,Benteler-Arena
-969,354,972,RasenBallsport Leipzig,Germany,Red Bull Arena
-970,170,878,Rielasingen-Arlen,Germany,Sportanlage an den Talwiesen
-971,653,742,Rot-Weiss Essen,Germany,Stadion Essen
-972,542,680,Sandhausen,Germany,Hardtwaldstadion
-973,234,931,Schalke 04,Germany,Veltins-Arena
-974,699,254,SPVGG Greuther Fürth,Germany,Sportpark Ronhof Thomas Sommer
-975,773,209,SSV Ulm,Germany,Donaustadion
-976,845,420,St Pauli,Germany,Millerntor-Stadion
-977,109,601,Albania,Albania,Loro Boriçi Stadium
-978,815,969,Andorra,Andorra,Estadi Nacional
-979,600,979,Armenia,Armenia,Vazgen Sargsyan Republican Stadium
-980,50,139,Austria,Austria,Ernst-Happel-Stadion
-981,762,780,Azerbaijan,Azerbaijan,Baku Olympic Stadium
-982,136,57,Belarus,Belarus,Dinamo Stadium
-983,400,292,Belgium,Belgium,Stade Roi Baudouin
-984,906,211,Bosnia-Herzegovina,Bosnia and Herzegovina,Stadion Grbavica
-985,846,510,Bulgaria,Bulgaria,Vasil Levski Stadium
-986,650,40,Croatia,Croatia,Stadion Maksimir
-987,644,79,Cyprus,Cyprus,GSP Stadium
-988,887,698,Czech Republic,Czech Republic,Generali Česká pojišťovna Arena
-989,643,100,Denmark,Denmark,Parken Stadium
-990,347,888,England,England,Wembley Stadium
-991,822,203,Estonia,Estonia,A. Le Coq Arena
-992,685,934,Faroe Islands,Faroe Islands,Tórsvøllur
-993,974,1,Finland,Finland,Helsinki Olympic Stadium
-994,168,366,France,France,Stade de France
-995,15,915,FYR Macedonia,Macedonia,Toše Proeski Arena
-996,290,342,Georgia,Georgia,Boris Paichadze Dinamo Arena
-997,36,75,Germany,Germany,Olympiastadion
-998,499,383,Gibraltar,Gibraltar,Victoria Stadium
-999,667,217,Greece,Greece,Olympic Stadium
-1000,277,938,Hungary,Hungary,Puskás Aréna
+1,333,306,Atlanta Hawks,United States,State Farm Arena
+2,81,90,Boston Celtics,United States,TD Garden
+3,305,409,Brooklyn Nets,United States,Barclays Center
+4,214,419,Charlotte Hornets,United States,Spectrum Center
+5,255,148,Chicago Bulls,United States,United Center
+6,374,413,Cleveland Cavaliers,United States,Quicken Loans Arena
+7,27,371,Dallas Mavericks,United States,American Airlines Center
+8,59,35,Denver Nuggets,United States,Pepsi Center
+9,322,350,Detroit Pistons,United States,Little Caesars Arena
+10,60,199,Golden State Warriors,United States,Chase Center
+11,129,420,Houston Rockets,United States,Toyota Center
+12,207,469,Indiana Pacers,United States,Bankers Life Fieldhouse
+13,266,333,Los Angeles Clippers,United States,Staples Center
+14,291,40,Los Angeles Lakers,United States,Staples Center
+15,119,198,Memphis Grizzlies,United States,FedExForum
+16,176,375,Miami Heat,United States,American Airlines Arena
+17,452,155,Milwaukee Bucks,United States,Fiserv Forum
+18,249,428,Minnesota Timberwolves,United States,Target Center
+19,71,461,New Orleans Pelicans,United States,Smoothie King Center
+20,193,47,New York Knicks,United States,Madison Square Garden
+21,204,418,Oklahoma City Thunder,United States,Chesapeake Energy Arena
+22,267,335,Orlando Magic,United States,Amway Center
+23,136,370,Philadelphia 76ers,United States,Wells Fargo Center
+24,155,393,Phoenix Suns,United States,Talking Stick Resort Arena
+25,375,270,Portland Trail Blazers,United States,Moda Center
+26,287,228,Sacramento Kings,United States,Golden 1 Center
+27,352,321,San Antonio Spurs,United States,AT&T Center
+28,251,352,Toronto Raptors,Canada,Scotiabank Arena
+29,390,234,Utah Jazz,United States,Vivint Smart Home Arena
+30,125,76,Washington Wizards,United States,Capital One Arena
+31,408,349,Agua Caliente Clippers,United States,Citizens Business Bank Arena
+32,44,358,Austin Spurs,United States,Cedar Park Center
+33,479,101,Canton Charge,United States,Canton Memorial Civic Center
+34,158,54,Capital City Go-Go,United States,St. Elizabeths East Entertainment and Sports Arena
+35,174,385,College Park Skyhawks,United States,Gateway Center Arena
+36,167,182,Delaware 87ers,United States,Bob Carpenter Center
+37,331,135,Erie BayHawks,United States,Erie Insurance Arena
+38,102,254,Fort Wayne Mad Ants,United States,Allen County War Memorial Coliseum
+39,181,173,Grand Rapids Drive,United States,DeltaPlex Arena
+40,152,478,Greensboro Swarm,United States,Greensboro Coliseum Fieldhouse
+41,440,300,Iowa Wolves,United States,Wells Fargo Arena
+42,154,66,Lakeland Magic,United States,RP Funding Center
+43,206,181,Long Island Nets,United States,Barclays Center
+44,17,307,Maine Red Claws,United States,Portland Exposition Arena
+45,478,372,Memphis Hustle,United States,Landers Center
+46,328,336,Northern Arizona Suns,United States,Prescott Valley Event Center
+47,231,200,Oklahoma City Blue,United States,Cox Convention Center
+48,372,444,Raptors 905,United States,Hershey Centre
+49,105,63,Rio Grande Valley Vipers,United States,State Farm Arena
+50,382,60,Salt Lake City Stars,United States,Lifetime Activities Center-Bruin Arena
+51,199,214,Santa Cruz Warriors,United States,Kaiser Permanente Arena
+52,326,310,Sioux Falls Skyforce,United States,Sanford Pentagon
+53,173,476,South Bay Lakers,United States,UCLA Health Training Center
+54,377,158,Stockton Kings,United States,Stockton Arena
+55,16,256,Texas Legends,United States,Dr Pepper Arena
+56,357,480,Westchester Knicks,United States,Westchester County Center
+57,25,391,Windy City Bulls,United States,Sears Centre
+58,93,479,Wisconsin Herd,United States,Menominee Nation Arena
+59,371,315,Baloncesto Fuenlabrada,Spain,Pabellón Fernando Martín
+60,126,194,Baloncesto Málaga,Spain,Palacio de Deportes José María Martín Carpena
+61,159,221,Basket Zaragoza,Spain,Pabellón Príncipe Felipe
+62,88,387,Baskonia,Spain,Fernando Buesa Arena
+63,150,26,Basquet Manresa,Spain,Nou Congost
+64,292,361,BC Andorra,Andorra,Poliesportiu d
+65,170,171,Bilbao Basket,Spain,Bilbao Arena
+66,378,51,CB 1939 Canarias,Spain,Pabellón Santiago Martín
+67,228,369,CB Gran Canaria,Spain,Gran Canaria Arena
+68,364,376,CB Miraflores,Spain,Coliseum Burgos
+69,475,309,CB Murcia,Spain,Palacio de los Deportes de Murcia
+70,8,483,Estudiantes,Spain,Barclaycard Center
+71,92,111,FC Barcelona Basquet,Spain,Palau Blaugrana
+72,396,146,Gipuzkoa Basket,Spain,José Antonio Gasca
+73,277,129,Joventut Badalona,Spain,Olímpico de Badalona
+74,53,99,Obradoiro CAB,Spain,Multiusos Fontes do Sar
+75,21,423,Real Betis Baloncesto,Spain,Palacio de Deportes San Pablo
+76,180,410,Real Madrid Baloncesto,Spain,WiZink Center
+77,157,130,Valencia Basket,Spain,Pabellón Fuente de San Luis
+78,73,195,AS Monaco Basket,Monaco,Salle Gaston Médecin
+79,414,108,Boulazac Basket Dordogne,France,Le Palio
+80,309,114,Bourg-en-Bresse,France,Ekinox
+81,436,144,Châlons-Reims,France,Complexe René-Tys
+82,466,95,Cholet,France,La Meilleraie
+83,213,211,Chorale Roanne Basket,France,Halle André Vacheresse
+84,234,277,Dijon,France,Palais des sports Jean-Michel Geoffroy de Dijon
+85,279,49,Élan Chalon,France,Le Colisée
+86,41,400,ESSM Le Portel,France,Le Chaudron
+87,179,357,Gravelines-Dunkerque,France,Sportica
+88,342,175,Le Mans Sarthe Basket,France,Antarès
+89,413,313,Limoges,France,Bleaublanc
+90,38,84,Lyon-Villeurbanne,France,Astroballe
+91,453,238,Metropolitans 92,France,Marcel Cerdan Sports Palace
+92,4,86,Nanterre,France,Palais des sports Maurice Thorez
+93,366,212,Orléans Loiret Basket,France,Palais des Sports
+94,76,367,Pau-Lacq-Orthez,France,Palais des sports de Pau
+95,96,188,Strasbourg,France,Rhenus Sport
+96,254,139,Bristol Flyers,England,WISE Arena
+97,74,213,Cheshire Phoenix,England,Cheshire Oaks Arena
+98,240,363,Glasgow Rocks,Scotland,Emirates Arena
+99,128,96,Leicester Riders,England,John Sanford Centre
+100,189,318,London City Royals,England,Crystal Palace Centre
+101,324,103,London Lions,England,Copper Box
+102,200,466,Manchester Giants,England,Trafford Arena
+103,301,11,Newcastle Eagles,England,Sport Central
+104,349,327,Plymouth Raiders,England,Plymouth Pavilions
+105,101,287,Sheffield Sharks,England,EIS Sheffield
+106,227,14,Surrey Scorchers,England,Surrey Sports Park
+107,368,141,Worcester Wolves,England,Worcester Arena
+108,221,134,Aquila Basket Trento,Italy,PalaTrento
+109,209,102,Auxilium Pallacanestro Torino,Italy,PalaRuffini
+110,293,285,Basket Brescia Leonessa,Italy,PalaGeorge
+111,444,266,Dinamo Basket Sassari,Italy,Palasport Roberta Serradimigni
+112,194,80,Fortitudo Pallacanestro Bologna,Italy,PalaDozza
+113,15,98,Guerino Vanoli Basket,Italy,PalaRadi
+114,175,337,New Basket Brindisi,Italy,PalaPentassuglia
+115,316,241,Olimpia Milano,Italy,Mediolanum Forum
+116,447,203,Orlandina Basket,Italy,PalaFantozzi
+117,429,160,Pallacanestro Cantù,Italy,Mapooro Arena
+118,20,185,Pallacanestro Reggiana,Italy,PalaBigi
+119,260,207,Pallacanestro Treviso,Italy,Palaverde
+120,329,330,Pallacanestro Trieste,Italy,Allianz Dome
+121,280,222,Pallacanestro Varese,Italy,PalaWhirpool
+122,215,162,Pallacanestro Virtus Roma,Italy,PalaLottomatica
+123,131,85,Pistoia Basket,Italy,PalaCarrara
+124,295,92,Reyer Venezia Mestre,Italy,Palasport Taliercio
+125,68,295,S.S. Felice Scandone,Italy,Avellino
+126,263,274,Victoria Libertas,Italy,Adriatic Arena
+127,153,294,Virtus Pallacanestro Bologna,Italy,Unipol Arena
+128,117,233,Adelaide 36ers,Australia,Titanium Security Arena
+129,283,19,Brisbane Bullets,Australia,Brisbane Entertainment Centre
+130,70,230,Cairns Taipans,Australia,Cairns Convention Centre
+131,262,381,Illawarra Hawks,Australia,WIN Entertainment Centre
+132,12,100,Melbourne Utd.,Australia,Melbourne Arena
+133,138,18,New Zealand Breakers,New Zealand,Spark Arena
+134,325,429,Perth Wildcats,Australia,RAC Arena
+135,182,332,South East Melbourne Phoenix,Australia,Melbourne Arena
+136,85,115,Sydney Kings,Australia,Qudos Bank Arena
+137,201,312,ALBA Berlin,Germany,O2 World
+138,454,193,Bayern München Basketball,Germany,Audi Dome
+139,337,246,Bayreuth,Germany,Oberfrankenhalle
+140,26,432,BG Göttingen,Germany,Lokhalle Göttingen
+141,33,445,Bonn,Germany,Telekom Dome
+142,427,36,Braunschweig,Germany,Volkswagen Halle
+143,459,116,Brose Bamberg,Germany,Brose Arena
+144,224,223,Crailsheim Merlins,Germany,Arena Hohenlohe
+145,252,217,EWE Baskets Oldenburg,Germany,Große EWE Arena
+146,402,202,Frankfurt Skyliners,Germany,Fraport Arena
+147,226,253,Gießen 46ers,Germany,Sporthalle Gießen-Ost
+148,302,342,Hamburg Towers,Germany,Edel-optics.de Arena
+149,426,184,Ludwigsburg,Germany,Arena Ludwigsburg
+150,307,192,Mitteldeutscher BC,Germany,Stadthalle Weißenfels
+151,161,125,Rasta Vechta,Germany,RASTA Dome
+152,210,245,s.Oliver Würzburg,Germany,s.Oliver Arena
+153,340,38,Ulm,Germany,ratiopharm Arena
+154,411,449,Bayi Rockets,China,Ningbo Youngor Sports Center Stadium
+155,91,25,Beijing Ducks,China,Shougang Basketball Center
+156,9,366,Beijing Royal Fighters,China,Beijing National Indoor Stadium
+157,219,133,Chongqing Dragons,China,Beijing National Indoor Stadium
+158,184,403,Fujian Xunxing,China,Zuchang Gymnasium
+159,84,269,Guangdong Southern Tigers,China,Dongguan Basketball Center
+160,120,415,Guangzhou Long-Lions,China,Tianhe Gymnasium
+161,360,64,Jiangsu Dragons,China,Wutaishan Gymnasium
+162,298,477,Jilin Northeast Tigers,China,Changchun Gymnasium
+163,183,78,Liaoning Flying Leopards,China,Liaoning Gymnasium
+164,104,258,Nanjing Monkey Kings,China,Nanjing, Jiangsu, China
+165,168,464,Qingdao Eagles,China,Guoxin Gymnasium
+166,419,284,Shandong Golden Star,China,Shandong Arena
+167,95,458,Shanghai Sharks,China,Pudong Yuanshen Gymnasium
+168,394,4,Shanxi Zhongyu,China,Riverside Sports Arena
+169,288,346,Shenzhen Leopards,China,Shenzhen Universiade Sports Centre
+170,248,127,Tianjin Ronggang,China,Tianjin Arena
+171,320,220,Xinjiang Flying Tigers,China,Hongshan Arena
+172,461,117,Zhejiang Chouzhou,China,Yiwu Gymnasium
+173,443,401,Zhejiang Guangsha,China,Hangzhou Gymnasium
+174,384,50,AEK BC,Greece,Nikos Galis Olympic Indoor Hall
+175,250,57,Aris BC,Greece,Alexandreio Melathron
+176,341,119,Ifaistos Limnou BC,Greece,Kleisto Gimnastirio Limnou Nikos Samaras
+177,332,225,Ionikos Nikaias BC,Greece,Sofia Befon Indoor Hall
+178,313,61,Iraklis BC,Greece,Ivanofeio Sports Arena
+179,29,229,Kolossos BC,Greece,Kallithea Palais des Sports
+180,62,9,Larisa BC,Greece,Larissa Neapolis Indoor Arena
+181,57,329,Lavrio BC,Greece,Lavrio Indoor Hall
+182,468,131,Panathinaikos BC,Greece,Olympic Indoor Hall
+183,229,446,Panionios BC,Greece,Sofia Befon Indoor Hall
+184,94,62,PAOK BC,Greece,PAOK Sports Arena
+185,137,355,Peristeri BC,Greece,Peristeri Arena
+186,203,251,Promitheas Patras BC,Greece,Dimitrios Tofalos Arena
+187,241,177,Rethymno Cretan Kings BC,Greece,Melina Merkouri Indoor Hall
+188,10,191,Hapoel Beer Sheva BC,Israel,Conch Arena
+189,230,137,Hapoel Eilat BC,Israel,Begin Arena
+190,246,187,Hapoel Gilboa Galil,Israel,Gan Ner Sports Hall
+191,109,128,Hapoel Holon,Israel,Holon Toto Hall
+192,387,392,Hapoel Jerusalem BC,Israel,Pais Arena
+193,403,459,Hapoel Tel Aviv BC,Israel,Kvuzat Shlomo Arena
+194,464,12,Ironi Nahariya,Israel,Ein Sara Sport Hall
+195,348,436,Ironi Nes Ziona BC,Israel,Lev Hamoshava
+196,460,283,Maccabi Ashdod BC,Israel,HaKiriya Arena
+197,39,41,Maccabi Haifa BC,Israel,Romema Arena
+198,218,216,Maccabi Rishon LeZion,Israel,Beit Maccabi
+199,339,196,Maccabi Tel Aviv BC,Israel,Menora Mivtachim Arena
+200,192,271,Afyon Belediye SK,Turkey,Afyon Atatürk Sports Hall
+201,385,140,Anadolu Efes SK,Turkey,Sinan Erdem Dome
+202,142,481,Bahçeşehir Koleji SK,Turkey,Caferağa Sports Hall
+203,242,70,Banvit BK,Turkey,Kara Ali Acar Sport Hall
+204,37,42,Besiktas Basketbol,Turkey,Akatlar Arena
+205,417,249,Bursaspor Basketbol,Turkey,Bursa Atatürk Sport Hall
+206,304,323,Büyükçekmece Basketbol,Turkey,Gazanfer Bilge Sports Hall
+207,359,365,Darüşşafaka SK,Turkey,Darüşşafaka Ayhan Şahenk Sports Hall
+208,52,55,Eskişehir Basket,Turkey,Anadolu Üniversitesi Sport Hall
+209,42,30,Fenerbahçe Basketbol,Turkey,Ülker Sports Arena
+210,428,324,Galatasaray SK,Turkey,Sinan Erdem Dome
+211,398,345,Gaziantep Basketbol,Turkey,Karataş Şahinbey Sport Hall
+212,356,31,İstanbul BŞB,Turkey,Cebeci Sport Hall
+213,1,404,İTÜ B.K.,Turkey,Darüşşafaka Ayhan Şahenk Sports Hall
+214,318,431,Karşıyaka Basket,Turkey,Mustafa Kemal Atatürk Karşıyaka Sport Hall
+215,296,443,Muratbey Uşak Sportif,Turkey,Uşak Üniversitesi Sport Hall
+216,421,460,OGM Ormanspor,Turkey,M. Sait Zarifoğlu Spor Salonu
+217,353,5,Sakarya BB,Turkey,Sakarya Sports Hall
+218,112,121,Tofaş SK,Turkey,Tofaş Nilüfer Spor Salonu
+219,11,427,Trabzonspor BK,Turkey,Hayri Gür Arena
+220,265,389,Türk Telekom BK,Turkey,Ankara Arena
+221,462,382,Yeşilgiresun Belediye,Turkey,19 Eylül Sports Hall
+222,347,299,Basket Zielona Góra,Poland,CRS Hala Zielona Góra
+223,148,453,BC Astana,Kazakhstan,Saryarka Velodrome
+224,363,275,BC Avtodor Saratov,Russia,Kristall Ice Sports Palace
+225,79,44,BC Enisey,Russia,Arena Sever
+226,276,474,BC Kalev,Estonia,Saku Suurhall
+227,122,178,BC Khimki,Russia,Khimki Basketball Center
+228,343,153,BC Nizhny Novgorod,Russia,CEC Nagorny
+229,284,167,BC Tsmoki-Minsk,Belarus,Minsk Arena
+230,310,408,BC UNICS,Russia,Basket-Hall Kazan
+231,160,244,BC Zenit Saint Petersburg,Russia,Yubileyni Arena
+232,225,317,BK VEF Rīga,Latvia,Arena Riga
+233,69,149,Parma Basket,Russia,Universal Sports Palace Molot
+234,259,398,PBC CSKA Moscow,Russia,Universal Sports Hall CSKA
+235,47,2,PBC Lokomotiv Kuban,Russia,Basket-Hall Krasnodar
+236,83,462,Cibona Zagreb,Croatia,Dražen Petrović Basketball Hall
+237,423,209,KK Budućnost,Montenegro,Morača Sports Center
+238,145,402,KK Cedevita Olimpija,Croatia,Arena Stožice
+239,334,378,KK Crvena zvezda,Serbia,Aleksandar Nikolić Hall
+240,477,450,KK FMP,Serbia,Železnik Hall
+241,146,236,KK Igokea,Bosnia and Herzegovina,Laktaši Sports Hall
+242,46,161,KK Koper Primorska,Slovenia,Arena Bonifika
+243,222,373,KK Krka,Slovenia,Leon Štukelj Hall
+244,114,343,KK Mega Basket,Serbia,Pinki Hall
+245,151,24,KK Mornar Bar,Montenegro,Topolica Sport Hall
+246,389,145,KK Partizan,Serbia,Aleksandar Nikolić Hall
+247,275,452,KK Zadar,Croatia,Krešimir Ćosić Hall
+248,282,79,BC Dzūkija,Lithuania,Alytus Arena
+249,439,456,BC Juventus,Lithuania,Utena's Arena
+250,169,437,BC Lietkabelis,Lithuania,Cido Arena
+251,338,110,BC Lietuvos rytas,Lithuania,Lietuvos rytas Arena
+252,269,340,BC Neptūnas,Lithuania,Švyturio Arena
+253,365,276,BC Nevėžis,Lithuania,Kėdainiai Arena
+254,124,434,BC Pieno žvaigždės,Lithuania,Pieno žvaigždės Arena
+255,67,326,BC Prienai,Lithuania,Prienai Arena
+256,361,426,BC Šiauliai,Lithuania,Šiauliai Arena
+257,376,107,BC Žalgiris,Lithuania,Žalgiris Arena
+258,121,386,Atlanta Dream,United States,State Farm Arena
+259,32,302,Chicago Sky,United States,Wintrust Arena
+260,196,347,Connecticut Sun,United States,Mohegan Sun Arena
+261,257,328,Dallas Wings,United States,College Park Center
+262,123,475,Indiana Fever,United States,Bankers Life Fieldhouse
+263,319,341,Las Vegas Aces,United States,Mandalay Bay Events Center
+264,367,20,Los Angeles Sparks,United States,Staples Center
+265,77,331,Minnesota Lynx,United States,Target Center
+266,412,406,New York Liberty,United States,Barclays Center
+267,271,353,Phoenix Mercury,United States,Arizona Veterans Memorial Coliseum
+268,55,467,Seattle Storm,United States,Alaska Airlines Arena
+269,442,37,Washington Mystics,United States,St. Elizabeths East Arena
+270,362,360,Acıbadem Üniversitesi,Turkey,Acıbadem Üniversitesi Sports Hall
+271,336,142,Adelaide City Eagles,Australia,Apollo Stadium
+272,383,468,Baloncesto Valladolid,Spain,Polideportivo Pisuerga
+273,420,159,BC Azovmash,Ukraine,Azovmash Arena
+274,118,1,BC Krasny Oktyabr,Russia,Volgograd Sports Palace of Trade Unions
+275,350,106,BC Krasnye Krylia,Russia,MTL Arena
+276,40,88,BC Kyiv,Ukraine,Meridian Sports Complex
+277,141,435,Birmingham Knights,United Kingdom,North Solihull Sports Centre
+278,392,237,Birmingham Panthers,United Kingdom,University of Wolverhampton
+279,50,280,Buffalo Braves,United States,Buffalo Memorial Auditorium
+280,244,104,Canberra Cannons,Australia,AIS Arena
+281,314,242,CB Granada,Spain,Palacio de los Deportes de Granada
+282,470,396,CB Lucentum Alicante,Spain,Pabellón Pedro Ferrándiz
+283,56,186,CB Sant Josep,Spain,Palau Girona-Fontajau
+284,191,143,Dakota Wizards,United States,Bismarck Civic Center
+285,299,305,Detroit Falcons,United States,Detroit Olympia
+286,87,293,Durham Wildcats,England,Newton Aycliffe Leisure Centre
+287,82,383,Düsseldorf Baskets,Germany,Turkish Airlines Arena
+288,441,190,Essex Leopards,United Kingdom,Brentwood Centre
+289,18,482,Essex Pirates,United Kingdom,Southend Leisure & Tennis Centre 
+290,274,292,Fayetteville Patriots,United States,Cumberland County Crown Coliseum
+291,63,150,Florida Flame,United States,Germain Arena
+292,186,73,Fort Worth Flyers,United States,Fort Worth Convention Center
+293,72,169,Geelong Supercats,Australia,The Arena
+294,290,447,Glenelg Tigers,Australia,Apollo Stadium
+295,163,416,Gold Coast Blaze,Australia,Gold Coast Convention and Exhibition Centre
+296,172,319,Gold Coast Rollers,Australia,Cararra Indoor Stadium
+297,358,7,Guildford Kings,United Kingdom,The Spectrum
+298,446,390,Hobart Devils,Australia,Derwent Entertainment Centre
+299,344,206,HTV Basket,France,Palais des Sports de Toulon
+300,243,179,Hunter Pirates,Australia,Newcastle Entertainment Centre
+301,438,93,Indianapolis Jets,United States,Butler Fieldhouse
+302,471,189,Iowa Energy,United States,Wells Fargo Arena
+303,476,359,ALBA Berlin,Germany,O2 World
+304,202,247,Anadolu Efes SK,Turkey,Sinan Erdem Dome
+305,303,243,Baskonia,Spain,Fernando Buesa Arena
+306,58,272,Bayern München Basketball,Germany,Audi Dome
+307,134,394,BC Khimki,Russia,Khimki Basketball Center
+308,130,279,BC Žalgiris,Lithuania,Žalgiris Arena
+309,253,126,BC Zenit Saint Petersburg,Russia,Yubileyni Arena
+310,54,422,FC Barcelona Basquet,Spain,Palau Blaugrana
+311,415,356,Fenerbahçe Basketbol,Turkey,Ülker Sports Arena
+312,449,291,KK Crvena zvezda,Serbia,Aleksandar Nikolić Hall
+313,399,296,Lyon-Villeurbanne,France,Astroballe
+314,395,377,Maccabi Tel Aviv BC,Israel,Menora Mivtachim Arena
+315,306,17,Olimpia Milano,Italy,Mediolanum Forum
+316,289,278,Olympiacos BC,Greece,Peace and Friendship Stadium
+317,247,219,Panathinaikos BC,Greece,Olympic Indoor Hall
+318,97,399,PBC CSKA Moscow,Russia,Universal Sports Hall CSKA
+319,397,384,Real Madrid Baloncesto,Spain,WiZink Center
+320,272,16,Valencia Basket,Spain,Pabellón Fuente de San Luis
+321,36,157,Antwerp Giants,Belgium,Lotto Arena
+322,51,395,Aquila Basket Trento,Italy,PalaTrento
+323,5,123,AS Monaco Basket,Monaco,Salle Gaston Médecin
+324,294,109,Bahçeşehir Koleji SK,Turkey,Caferağa Sports Hall
+325,144,262,Baloncesto Málaga,Spain,Palacio de Deportes José María Martín Carpena
+326,425,421,Basket Brescia Leonessa,Italy,PalaGeorge
+327,34,290,BC Andorra,Andorra,Poliesportiu d
+328,373,282,BC Lietkabelis,Lithuania,Cido Arena
+329,103,470,BC UNICS,Russia,Basket-Hall Kazan
+330,406,303,Bourg-en-Bresse,France,Ekinox
+331,422,197,Bursaspor Basketbol,Turkey,Bursa Atatürk Sport Hall
+332,335,170,CB Gran Canaria,Spain,Gran Canaria Arena
+333,2,83,Joventut Badalona,Spain,Olímpico de Badalona
+334,30,288,KK Budućnost,Montenegro,Morača Sports Center
+335,407,334,KK Cedevita Olimpija,Croatia,Arena Stožice
+336,386,472,KK Partizan,Serbia,Aleksandar Nikolić Hall
+337,99,388,Maccabi Rishon LeZion,Israel,Beit Maccabi
+338,233,339,Metropolitans 92,France,Marcel Cerdan Sports Palace
+339,430,226,Nanterre,France,Palais des sports Maurice Thorez
+340,457,311,PBC Lokomotiv Kuban,Russia,Basket-Hall Krasnodar
+341,456,43,Promitheas Patras BC,Greece,Dimitrios Tofalos Arena
+342,166,34,Reyer Venezia Mestre,Italy,Palasport Taliercio
+343,369,248,Ulm,Germany,ratiopharm Arena
+344,108,46,Virtus Pallacanestro Bologna,Italy,Unipol Arena
+345,237,348,AEK BC,Greece,Nikos Galis Olympic Indoor Hall
+346,31,227,Banvit BK,Turkey,Kara Ali Acar Sport Hall
+347,64,72,Basket Zaragoza,Spain,Pabellón Príncipe Felipe
+348,86,441,BC Lietuvos rytas,Lithuania,Lietuvos rytas Arena
+349,474,379,BC Neptūnas,Lithuania,Švyturio Arena
+350,473,205,BC Nizhny Novgorod,Russia,CEC Nagorny
+351,211,485,BC Oostende,Belgium,Sea
+352,89,264,Besiktas Basketbol,Turkey,Akatlar Arena
+353,171,120,BK VEF Rīga,Latvia,Arena Riga
+354,75,259,Brose Bamberg,Germany,Brose Arena
+355,346,252,CB 1939 Canarias,Spain,Pabellón Santiago Martín
+356,78,13,CB Miraflores,Spain,Coliseum Burgos
+357,217,438,Darüşşafaka SK,Turkey,Darüşşafaka Ayhan Şahenk Sports Hall
+358,139,15,Dijon,France,Palais des sports Jean-Michel Geoffroy de Dijon
+359,258,118,Dinamo Basket Sassari,Italy,Palasport Roberta Serradimigni
+360,133,75,EWE Baskets Oldenburg,Germany,Große EWE Arena
+361,65,298,Falco KC,Hungary,Arena Savaria
+362,49,320,Galatasaray SK,Turkey,Sinan Erdem Dome
+363,110,89,Gaziantep Basketbol,Turkey,Karataş Şahinbey Sport Hall
+364,448,29,Hapoel Holon,Israel,Holon Toto Hall
+365,264,3,Hapoel Jerusalem BC,Israel,Pais Arena
+366,19,289,KK Mornar Bar,Montenegro,Topolica Sport Hall
+367,483,27,KK Włocławek,Poland,Hala Mistrzów
+368,463,425,New Basket Brindisi,Italy,PalaPentassuglia
+369,445,439,Pau-Lacq-Orthez,France,Palais des sports de Pau
+370,220,94,Peristeri BC,Greece,Peristeri Arena
+371,66,45,Rasta Vechta,Germany,RASTA Dome
+372,147,210,Strasbourg,France,Rhenus Sport
+373,6,56,Tofaş SK,Turkey,Tofaş Nilüfer Spor Salonu
+374,410,204,Türk Telekom BK,Turkey,Ankara Arena
+375,472,265,Twarde Pierniki Toruń,Poland,Arena Toruń
+376,451,215,Antibes Sharks,France,Azur Arena Antibes
+377,434,176,Fos Provence Basket,France,Complexe sportif Parsemain
+378,327,39,Poitiers Basket 86,France,Saint Eloi
+379,355,59,Rouen,France,Kindarena
+380,317,183,SLUC Nancy Basket,France,Palais des Sports Jean Weille
+381,345,316,STB Le Havre,France,Dock Océane
+382,113,208,Arka Gdynia Basketball,Poland,Gdynia Sports Arena
+383,90,201,Astoria Bydgoszcz,Poland,Artego Arena
+384,195,465,GTK Gliwice,Poland,Centrum Sportowo-Kulturalne Łabędź
+385,14,21,King Szczecin,Poland,Arena Szczecin
+386,149,407,KK Włocławek,Poland,Hala Mistrzów
+387,235,362,Legia Warszawa,Poland,Cos Torwar
+388,197,354,MKS Dąbrowa Górnicza,Poland,Hala Centrum
+389,424,132,Rosa Radom,Poland,Sports Hall MOSiR
+390,162,397,SKS Starogard Gdański,Poland,Agro Kociewie
+391,127,344,Śląsk Wrocław,Poland,Hala Orbita
+392,185,22,Spójnia Stargard,Poland,Hala Miejska
+393,28,28,Stal Ostrów Wielkopolski,Poland,Hala Sportowa Stal
+394,143,52,Start Lublin,Poland,Globus
+395,278,152,Trefl Sopot,Poland,Ergo Arena
+396,187,368,Twarde Pierniki Toruń,Poland,Arena Toruń
+397,455,168,Antwerp Giants,Belgium,Lotto Arena
+398,281,67,BC Oostende,Belgium,Sea
+399,370,87,Belfius Mons-Hainaut,Belgium,Mons.Arena
+400,485,164,Kangoeroes Mechelen,Belgium,Winketkaai
+401,400,174,Leuven Bears,Belgium,Sportoase
+402,467,304,Limburg United,Belgium,Sporthal Alverberg
+403,61,314,Okapi Aalstar,Belgium,Okapi Forum
+404,315,91,Phoenix Brussels,Belgium,Sports Complex Neder-Over-Heembeek
+405,198,364,Spirou Charleroi,Belgium,Spiroudome
+406,205,113,VOO Liège,Belgium,Country Hall Liège
+407,268,239,Alba Fehérvár,Hungary,Alba Regia Sportcsarnok
+408,393,417,Atomerőmű SE,Hungary,ASE Sportcsarnok
+409,273,405,BC Körmend,Hungary,Szentély Aréna
+410,432,430,DEAC,Hungary,Oláh Gábor Sports Hall
+411,321,325,Falco KC,Hungary,Arena Savaria
+412,261,218,Jászberényi KSE,Hungary,Belvárosi Ált. Isk. Sportcsarnok
+413,22,112,Kaposvári KK,Hungary,Kaposvár Aréna
+414,98,154,KTE-Duna Aszfalt,Hungary,	Messzi István Sportcsarnok
+415,401,454,PVSK-Panthers,Hungary,Lauber Dezső Sports Hall
+416,232,442,Serco-TF Budapest,Hungary,NKE Sportcsarnok
+417,433,433,Soproni KC,Hungary,MKB Aréna Sopron
+418,80,81,Szolnoki Olaj KK,Hungary,Tiszaligeti Sportcsarnok
+419,437,257,SZTE-Szedeák,Hungary,Újszegedi Sportcsarnok
+420,391,424,ZTE KK,Hungary,Városi Sportcsarnok
+421,416,374,Abilene Christian,United States,Moody Coliseum
+422,351,308,Air Force,United States,Clune Arena
+423,236,351,Akron,United States,James A. Rhodes Arena
+424,465,286,Alabama,United States,Coleman Coliseum
+425,111,380,Alabama A&M,United States,Elmore Gymnasium
+426,409,82,Alabama State,United States,Dunn–Oliver Acadome
+427,140,147,Albany,United States,SEFCU Arena
+428,45,301,Alcorn State,United States,Davey Whitney Complex
+429,482,224,American,United States,Bender Arena
+430,435,105,Appalachian State,United States,Holmes Center
+431,404,180,Arizona,United States,McKale Center
+432,223,412,Arizona State,United States,Desert Financial Arena
+433,484,267,Arkansas,United States,Nolan Richardson Court at Bud Walton Arena
+434,418,122,Arkansas State,United States,First National Bank Arena
+435,178,97,Arkansas-Little Rock,United States,Jack Stephens Center
+436,115,451,Arkansas-Pine Bluff,United States,K. L. Johnson Complex
+437,238,65,Army,United States,Christl Arena
+438,300,33,Auburn,United States,Auburn Arena
+439,469,10,Austin Peay,United States,Dunn Center
+440,450,411,Ball State,United States,Worthen Arena
+441,7,263,Baylor,United States,Paul J. Meyer Arena at the Ferrell Center
+442,431,53,Belmont,United States,Curb Event Center
+443,245,455,Bethune-Cookman,United States,Moore Gymnasium
+444,208,8,Binghamton,United States,Binghamton University Events Center
+445,270,235,Boise State,United States,ExtraMile Arena
+446,379,414,Boston College,United States,Conte Forum
+447,405,163,Boston University,United States,Case Gym
+448,106,471,Bowling Green,United States,Stroh Center
+449,188,240,Bradley,United States,Carver Arena
+450,48,74,Brown,United States,Pizzitola Sports Center
+451,35,250,Bryant,United States,Chace Athletic Center
+452,286,156,Bucknell,United States,Sojka Pavilion
+453,480,151,Buffalo,United States,Alumni Arena
+454,132,448,Butler,United States,Hinkle Fieldhouse
+455,100,71,BYU,United States,Marriott Center
+456,239,136,Cal Poly,United States,Mott Athletics Center
+457,165,77,Cal State-Bakersfield,United States,Icardo Center
+458,24,457,Cal State-Fullerton,United States,Titan Gym
+459,13,273,Cal State-Northridge,United States,Matadome
+460,190,232,California,United States,Haas Pavilion
+461,311,484,Campbell,United States,John W. Pope Jr. Convocation Center
+462,116,48,Canisius,United States,Koessler Center
+463,256,297,Central Arkansas,United States,Farris Center
+464,285,68,Central Connecticut State,United States,William H. Detrick Gymnasium
+465,354,32,Central Florida,United States,Addition Financial Arena
+466,216,473,Central Michigan,United States,McGuirk Arena
+467,308,255,Charleston Southern,United States,CSU Field House
+468,164,231,Charlotte,United States,Dale F. Halton Arena
+469,312,172,Chattanooga,United States,McKenzie Arena
+470,323,440,Chicago State,United States,Emil and Patricia Jones Convocation Center
+471,23,58,Argentino de Junín,Argentina,El Fortín de las Morochas
+472,381,138,Atenas de Córdoba,Argentina,Polideportivo Municipal Carlos Cerutti / Orfeo Superdomo
+473,330,281,Boca Juniors,Argentina,Estadio Luis Conde
+474,212,23,Estudiantes Concordia,Argentina,San Luis 418
+475,135,124,Gimnasia y Esgrima de Comodoro Rivadavia,Argentina,Estadio Socios Fundadores
+476,481,261,Quimsa,Argentina,Ciudad de Santiago del Estero
+477,43,69,San Lorenzo,Argentina,Polideportivo Roberto Pando
+478,156,463,Baloncesto Málaga,Spain,Palacio de Deportes José María Martín Carpena
+479,380,165,Basket Zaragoza,Spain,Pabellón Príncipe Felipe
+480,458,268,BC Andorra,Andorra,Poliesportiu d
+481,388,322,Bilbao Basket,Spain,Bilbao Arena
+482,297,6,CB 1939 Canarias,Spain,Pabellón Santiago Martín
+483,177,338,FC Barcelona Basquet,Spain,Palau Blaugrana
+484,3,166,Real Madrid Baloncesto,Spain,WiZink Center
+485,107,260,Valencia Basket,Spain,Pabellón Fuente de San Luis

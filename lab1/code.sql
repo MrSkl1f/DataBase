@@ -45,5 +45,23 @@ CREATE TABLE IF NOT EXISTS players (
     player_country VARCHAR(40) NOT NULL
 );
 
+--alter table players add constraint players_age check (not null);
+--insert into club_management(management_id, general_manager, sports_director) values('asf', 'asf', 'afs);
+
 COPY players FROM 'C:\Users\MrSklif\Desktop\BMSTU\5sem\DB\lab1\Players.csv' DELIMITER ',' csv;
 SELECT * FROM players;
+-- селектом все ограничения
+
+
+--SELECT con.conname "constraint",
+--       concat(nsp.nspname, '.', rel.relname) "table",
+--       (SELECT array_agg(att.attname)
+--               FROM pg_attribute att
+--                    INNER JOIN unnest(con.conkey) unnest(conkey)
+--                               ON unnest.conkey = att.attnum
+--               WHERE att.attrelid = con.conrelid) "columns"
+--       FROM pg_constraint con
+--            INNER JOIN pg_class rel
+--                       ON rel.oid = con.conrelid
+--            INNER JOIN pg_namespace nsp
+--                       ON nsp.oid = rel.relnamespace;

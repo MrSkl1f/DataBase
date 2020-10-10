@@ -29,7 +29,7 @@ def generateHeadquarters():
     f.close()    
 
 def fillTeamFK(team):
-    MAX_N = 1000
+    MAX_N = len(team)
     arrOfIds = list()
     for i in range(MAX_N):
         arrOfIds.append(i + 1)
@@ -55,7 +55,7 @@ def createTeam():
     team = []
     check = 0
     for i in range(sumAll):
-        if data['leagues'][i]['strSport'] == 'Soccer':
+        if data['leagues'][i]['strSport'] == 'Basketball':
             url2 = 'https://www.thesportsdb.com/api/v1/json/1/lookup_all_teams.php?id=' + str(data['leagues'][i]['idLeague'])
             data2 = urllib.request.urlopen(url2).read().decode()
             data2 = json.loads(data2)
@@ -75,29 +75,29 @@ def createTeam():
     fillTeamFK(team)
     fillTeamFK(team)
     f = open("Team.csv", "w", encoding='utf-8')
-    for i in range(MAX_N):
+    for i in range(len(team)):
         teamID          = str(i + 1)
         managementID    = str(team[i][3])
         headquarters    = str(team[i][4])
         teamName        = team[i][0]
         country         = team[i][2]
         stadium         = team[i][1]
-        print(team[i])
         line = teamID + ',' + managementID + ',' +\
                 headquarters + ',' + teamName + ',' +\
                 country + ',' + stadium + '\n'
         f.write(line)
     f.close()
+    return team
 
 
-def createPlayers():
+def createPlayers(team):
     person = Person("en")
     adress = Address("en")
     players = []
-    MAX_N = 1000
+    MAX_N = len(team)
     arrOfIds = [i + 1 for i in range(MAX_N)]
     for i in range(MAX_N):
-        positions = ['A', 'A', 'M', 'M', 'M', 'M', 'D', 'D', 'D', 'D', 'G']
+        positions = [1, 2, 3, 4, 5]
         numbers   = [k for k in range(1, 99, 1)]
         curTeamID = choice(arrOfIds)
         arrOfIds.remove(curTeamID)
@@ -116,14 +116,14 @@ def createPlayers():
             players.append([curID, teamID, name, position, height, weight, number, age, country])
     f = open("Players.csv", "w", encoding='utf-8')
     for player in players:
-        line = player[0] + ',' + player[1] + ',' + player[2] + ',' +\
-               player[3] + ',' + player[4] + ',' + player[5] + ',' +\
-               player[6] + ',' + player[7] + ',' + player[8] + '\n'
+        line = str(player[0]) + ',' + str(player[1]) + ',' + str(player[2]) + ',' +\
+               str(player[3]) + ',' + str(player[4]) + ',' + str(player[5]) + ',' +\
+               str(player[6]) + ',' + str(player[7]) + ',' + str(player[8]) + '\n'
         f.write(line)
     f.close()   
                      
              
 #generateClubManagement()
 #generateHeadquarters()
-#createTeam()
-createPlayers()
+team = createTeam()
+createPlayers(team)
