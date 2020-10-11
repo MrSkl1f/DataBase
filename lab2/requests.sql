@@ -107,3 +107,19 @@ from teams;
 -- drop table tmp;
 
 -- Инструкция SELECT, использующая вложенные коррелированные подзапросы в качестве производных таблиц в предложении FROM.
+-- Сопопоставить игроков тренерам
+select players.player_name as Player, info.head_coach as Coach
+from players join
+(
+    teams join headquarters on teams.headquarter = headquarters.headquarters_id
+) as info on players.team = info.team_id
+order by info.head_coach;
+
+-- Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
+select * 
+from players
+where team  (
+    select team_id
+    from teams join headquarters on teams.headquarters = headquarters.headquarters_id
+
+);
