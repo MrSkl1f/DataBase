@@ -116,7 +116,7 @@ from players join
 order by info.head_coach;
 
 -- Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
--- вывести спортивных директоров у которых игроки больше среднего возраста
+-- Вывести спортивных директоров у которых игроки больше среднего возраста
 select sports_director
 from club_management
 group by management_id
@@ -133,3 +133,11 @@ having management_id in(
         )
     )
 );
+
+-- Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY, но без предложения HAVING.
+select team, player_name as PlayerName,
+            avg(players.player_weight) as AvgWeight,
+            avg(players.player_height) as AvgHeight,
+            max(players.player_age) as MaxPlayerAge
+from players;
+
