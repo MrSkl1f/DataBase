@@ -116,10 +116,20 @@ from players join
 order by info.head_coach;
 
 -- Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
-select * 
-from players
-where team  (
-    select team_id
-    from teams join headquarters on teams.headquarters = headquarters.headquarters_id
-
+-- вывести спортивных директоров у которых игроки больше среднего возраста
+select sports_director
+from club_management
+group by management_id
+having management_id in(
+    select management
+    from teams
+    group by team_id
+    having management in (
+        select player_id
+        from players
+        where player_age > (
+            select AVG(player_age) as AvgAge
+            from players
+        )
+    )
 );
