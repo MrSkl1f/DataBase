@@ -135,9 +135,19 @@ having management_id in(
 );
 
 -- Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY, но без предложения HAVING.
-select team, player_name as PlayerName,
+select team,
             avg(players.player_weight) as AvgWeight,
             avg(players.player_height) as AvgHeight,
             max(players.player_age) as MaxPlayerAge
-from players;
+from players
+group by team;
 
+-- Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY и предложения HAVING.
+select player_name as "Player Name", player_age as "Player Age", player_weight as "Player Weight", player_height as "Player Height"
+from players
+where player_weight > 80 and player_height > 200
+group by player_name, player_age, player_weight, player_height
+having avg(player_age) > (
+    select avg(player_age)
+    from players
+);
