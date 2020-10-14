@@ -23,8 +23,7 @@ def generateHeadquarters():
     for curId in range(1000):
         headCoach = person.full_name()
         seniorCoach  = person.full_name()
-        goalkeepingCoach  = person.full_name()
-        line = str(curId + 1) + "," + headCoach + "," + seniorCoach + "," + goalkeepingCoach + "\n"
+        line = str(curId + 1) + "," + headCoach + "," + seniorCoach + "\n"
         f.write(line)
     f.close()    
 
@@ -124,6 +123,6 @@ def createPlayers(team):
                      
              
 #generateClubManagement()
-#generateHeadquarters()
-team = createTeam()
-createPlayers(team)
+generateHeadquarters()
+#team = createTeam()
+#createPlayers(team)
