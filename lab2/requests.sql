@@ -1,21 +1,21 @@
--- Инструкция SELECT, использующая предикат сравнения.
+-- 1. Инструкция SELECT, использующая предикат сравнения.
 select *
 from teams
 where country = 'Spain';
 
--- Инструкция SELECT, использующая предикат BETWEEN.
+-- 2. Инструкция SELECT, использующая предикат BETWEEN.
 -- Получить имена игроков и их номера, у которых рост от 190 до 200
 select player_name, player_number
 from players
 where player_height between 190 and 200;
 
--- Инструкция SELECT, использующая предикат LIKE.
+-- 3. Инструкция SELECT, использующая предикат LIKE.
 -- Получить названия команд и их стадион, у которых названия команды начинается с BC
 select team_name, stadium
 from teams
 where team_name like 'BC%';
 
--- Инструкция SELECT, использующая предикат IN с вложенным подзапросом.
+-- 4. Инструкция SELECT, использующая предикат IN с вложенным подзапросом.
 -- Получить имена игроков, их возраст и команду, у которых возраст от 18 до 21. Отсортировать по возрасту.
 select player_name, player_age, team_name
 from players join teams on players.team = teams.id
@@ -27,7 +27,7 @@ where player_name in
 )
 order by player_age;
 
--- Инструкция SELECT, использующая предикат EXISTS с вложенным подзапросом.
+-- 5. Инструкция SELECT, использующая предикат EXISTS с вложенным подзапросом.
 -- Получить имена игроков и их номера, которые играют за команду в Канаде
 select player_name, player_number
 from players as tmp
@@ -45,7 +45,7 @@ where exists
 -- Krysta Griffith             72
 -- Проверка: select * from teams where team_country = 'Canada';
 
--- Инструкция SELECT, использующая предикат сравнения с квантором.
+-- 6. Инструкция SELECT, использующая предикат сравнения с квантором.
 -- Получить список игроков, рост которых больше чем рост любого игрока 42 команды
 select *
 from players
@@ -58,7 +58,7 @@ where player_height > all
 order by player_height;
 -- Проверка: select player_height from players where team = 42;
 
--- Инструкция SELECT, использующая агрегатные функции в выражениях столбцов.
+-- 7. Инструкция SELECT, использующая агрегатные функции в выражениях столбцов.
 -- средний вес и рост по каманде
 select teams.id as Id, avgTeams.team_name as Team, avW as average_weight, avH as average_height
 from (
@@ -68,7 +68,7 @@ from (
 ) as avgTeams
         join teams on avgTeams.team_name = teams.team_name;
 
--- Инструкция SELECT, использующая скалярные подзапросы в выражениях столбцов.
+-- 8. Инструкция SELECT, использующая скалярные подзапросы в выражениях столбцов.
 -- Получить средний вес и рост игроков 15 команды
 select id, team_name,
     (
@@ -84,7 +84,7 @@ select id, team_name,
 from teams
 where id = 15;
 
--- Инструкция SELECT, использующая простое выражение CASE.
+-- 9. Инструкция SELECT, использующая простое выражение CASE.
 select player_name, player_number,
     case player_age when 16 then 'Young'
             when 40 then 'Old'
@@ -92,7 +92,7 @@ select player_name, player_number,
     end as Age
 from players;
 
--- Инструкция SELECT, использующая поисковое выражение CASE.
+-- 10. Инструкция SELECT, использующая поисковое выражение CASE.
 select player_name, player_number,
     case when player_age <= 18 then 'Young'
             when player_age >= 40 then 'Old'
@@ -100,13 +100,13 @@ select player_name, player_number,
     end as Age
 from players;
 
--- Создание новой временной локальной таблицы из результирующего набора данных инструкции SELECT.
+-- 11. Создание новой временной локальной таблицы из результирующего набора данных инструкции SELECT.
 select team_name as tname, country as tcountry
 into tmp
 from teams;
 -- drop table tmp;
 
--- Инструкция SELECT, использующая вложенные коррелированные подзапросы в качестве производных таблиц в предложении FROM.
+-- 12. Инструкция SELECT, использующая вложенные коррелированные подзапросы в качестве производных таблиц в предложении FROM.
 -- Сопопоставить игроков тренерам
 select players.player_name as Player, info.head_coach as Coach
 from players join
@@ -116,7 +116,7 @@ from players join
 ) as info on players.team = info.team_id
 order by info.head_coach;
 
--- Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
+-- 13. Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
 -- Вывести спортивных директоров у которых игроки больше среднего возраста
 select sports_director
 from management
@@ -135,7 +135,7 @@ having management.id in(
     )
 );
 
--- Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY, но без предложения HAVING.
+-- 14. Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY, но без предложения HAVING.
 select team,
             avg(players.player_weight) as AvgWeight,
             avg(players.player_height) as AvgHeight,
@@ -143,7 +143,7 @@ select team,
 from players
 group by team;
 
--- Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY и предложения HAVING.
+-- 15. Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY и предложения HAVING.
 select player_name as "Player Name", player_age as "Player Age", player_weight as "Player Weight", player_height as "Player Height"
 from players
 where player_weight > 80 and player_height > 200
@@ -153,11 +153,11 @@ having avg(player_age) > (
     from players
 );
 
--- Однострочная инструкция INSERT, выполняющая вставку в таблицу одной строки значений.
+-- 16. Однострочная инструкция INSERT, выполняющая вставку в таблицу одной строки значений.
 insert into players (id, team,player_name, player_age, player_country)
 values (2426, 227, 'Denis Sklifasovsky', 20, 'Russia');
 
--- Многострочная инструкция INSERT, выполняющая вставку в таблицу результирующего набора данных вложенного подзапроса.
+-- 17. Многострочная инструкция INSERT, выполняющая вставку в таблицу результирующего набора данных вложенного подзапроса.
 insert into players(id, team, player_name, player_number) 
 select (
     select max(players.id) + 1
@@ -166,12 +166,12 @@ select (
 from teams
 where teams.country = 'Canada';
 
--- Простая инструкция UPDATE.
+-- 18. Простая инструкция UPDATE.
 update players
 set player_country = 'Russia'
 where players.id = 2427;
 
--- Инструкция UPDATE со скалярным подзапросом в предложении SET.
+-- 19. Инструкция UPDATE со скалярным подзапросом в предложении SET.
 update players
 set player_age = (
     select max(player_age)
@@ -180,11 +180,11 @@ set player_age = (
 )
 where players.id = 2427;
 
--- Простая инструкция DELETE.
+-- 20. Простая инструкция DELETE.
 delete from players
 where players.id = 2427;
 
--- Инструкция DELETE с вложенным коррелированным подзапросом в предложении WHERE.
+-- 21. Инструкция DELETE с вложенным коррелированным подзапросом в предложении WHERE.
 delete from players
 where team in (
     select teams.id 
@@ -192,7 +192,7 @@ where team in (
     where teams.country = 'Canada'
 ) and players.id = 2427;
 
--- Инструкция SELECT, использующая простое обобщенное табличное выражение
+-- 22. Инструкция SELECT, использующая простое обобщенное табличное выражение
 with TmpPlayer (id, team, player_name, player_age)
 as (
     select players.id, players.team, players.player_name, players.player_age
@@ -203,7 +203,7 @@ select team, player_name
 from TmpPlayer
 where player_age = 50;
 
--- Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
+-- 23. Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
 with recursive diff(n) as
 (
 	select 10
@@ -213,11 +213,23 @@ with recursive diff(n) as
 )
 select n from diff;
 
--- Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
+-- 24. Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
 select player_name as "Player name", team,  
 	min(player_weight) over (partition by team), 
     max(player_height) over (partition by team),
 	avg(player_age) over (partition by team)
 from players;
 
--- Оконные фнкции для устранения дублей
+-- 25. Оконные фнкции для устранения дублей
+select *
+from
+(
+	select plT.player_age, row_number() over (partition by plT.player_age) as counter
+	from teams join
+	(
+		select *
+		from players join teams on players.team = teams.id
+	) as plT on teams.id = plT.team
+) as percount
+where counter = 1
+order by player_age;
