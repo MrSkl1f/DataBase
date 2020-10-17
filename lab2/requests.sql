@@ -104,6 +104,7 @@ from players;
 select team_name as tname, country as tcountry
 into tmp
 from teams;
+
 -- drop table tmp;
 
 -- 12. Инструкция SELECT, использующая вложенные коррелированные подзапросы в качестве производных таблиц в предложении FROM.
@@ -204,6 +205,7 @@ from TmpPlayer
 where player_age = 50;
 
 -- 23. Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
+-- написать рекурсию 
 with recursive diff(n) as
 (
 	select 10
