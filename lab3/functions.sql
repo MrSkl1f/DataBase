@@ -46,4 +46,16 @@ select *
 from get_players_mult(201);
 
 -- Рекурсивную функцию или функцию с рекурсивным ОТВ
--- на семинаре не было еще
+create or replace function Factorial (x int)
+returns int
+language plpgsql
+as $$
+begin 
+	if x = 0 then
+		return 1;
+	else 
+		return x * Factorial(x - 1);
+	end if;
+end $$; 
+
+select * from Factorial(4);
