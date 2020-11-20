@@ -5,17 +5,20 @@
 -- 4. Рекурсивную функцию или функцию с рекурсивным ОТВ
 
 -- Скалярная функция
+-- Получает средний возраст
+drop function skalar_func();
 create function skalar_func() returns int
 language sql
 as $$ 
-    select id
-    from players
-    order by player_age;
+    select avg(player_age)
+    from players;
 $$;
 
 select skalar_func();
 
 -- Подставляемая табличная
+-- получает игроков, у которых рост больше заданного
+drop function get_players;
 create function get_players(int) returns players 
 language sql
 as $$
@@ -28,6 +31,8 @@ select player_name, player_number, player_height
 from get_players(201);
 
 -- Многооператорная табличная
+-- получает таблицу значений
+drop function get_players_mult;
 create function get_players_mult(int)
 returns table
 (
@@ -46,7 +51,9 @@ select *
 from get_players_mult(201);
 
 -- Рекурсивную функцию или функцию с рекурсивным ОТВ
-create or replace function Factorial (x int)
+-- факториал
+drop function Fact;
+create or replace function Fact (x int)
 returns int
 language plpgsql
 as $$
