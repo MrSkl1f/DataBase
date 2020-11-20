@@ -122,3 +122,5 @@ id  ...     date
 
 create table test_table(id int, "date" date)
 partition by year(date)
+
+Также сегментирование.
