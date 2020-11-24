@@ -6,63 +6,83 @@
 
 -- Скалярная функция
 -- Получает средний возраст
-drop function skalar_func();
+drop function if exists skalar_func();
 create function skalar_func() returns int
-language sql
 as $$ 
     select avg(player_age)
     from players;
-$$;
+$$ language sql;
 
 select skalar_func();
 
 -- Подставляемая табличная
 -- получает игроков, у которых рост больше заданного
-drop function get_players;
-create function get_players(int) returns players 
-language sql
+-- //DONE исправить под setof 
+drop function if exists get_players;
+create function get_players(int) 
+returns setof players
 as $$
-    select * 
+    select *
     from players
     where player_height > $1;
-$$;
+$$ language sql;
 
-select player_name, player_number, player_height
-from get_players(201);
+select * from get_players(220);
 
 -- Многооператорная табличная
 -- получает таблицу значений
-drop function get_players_mult;
+-- //DONE несколько операторов
+drop table if exists plh;
+create table plh (
+	name varchar(40),
+	number int,
+	height int
+);
+
+drop function if exists get_players_mult;
 create function get_players_mult(int)
 returns table
 (
-    player_name varchar(40),
-    player_number int,
-    player_height int
+    name varchar(40),
+    number int,
+    height int
 )
 language sql
 as $$
-    select player_name, player_number, player_height
+    insert into plh
+	select player_name, player_number, player_height
     from players
     where player_height > $1;
+   
+   	select *
+    from plh;
 $$;
 
 select *
-from get_players_mult(201);
+from get_players_mult(219);
 
 -- Рекурсивную функцию или функцию с рекурсивным ОТВ
--- факториал
-drop function Fact;
-create or replace function Fact (x int)
-returns int
+-- //DONE исправить под свои данные
+-- вывести игроков и команду в заданном интервале
+
+drop function if exists get_players_in_interval;
+create function get_players_in_interval(cur_id int, end_id int)
+returns table
+(
+    pid int,
+    pn varchar(40)
+)
 language plpgsql
 as $$
-begin 
-	if x = 0 then
-		return 1;
-	else 
-		return x * Factorial(x - 1);
-	end if;
-end $$; 
+begin
+    return query select id, player_name
+    from players
+    where id = cur_id;
+    if cur_id < end_id then
+        return query select *
+            from get_players_in_interval(cur_id + 1, end_id);
+    end if;
+end;
+$$;
 
-select * from Factorial(4);
+select * from get_players_in_interval(115, 121);

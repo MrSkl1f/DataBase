@@ -1,9 +1,4 @@
---  2 DML триггера
--- 1) after
--- 2) instead of 
-
--- after
--- //DONE под свои данные
+-- переделать, чтобы логировал изменения команды
 drop table if exists drafts;
 create table if not exists drafts
 (
@@ -35,33 +30,3 @@ update players
 set team = 24
 where id = 2421;
 select * from drafts;
-
--- instead of 
-create view teams_view as
-select *
-from teams;
-
-create or replace function update_player()
-returns trigger 
-language plpgsql
-as 	$$
-begin
-	update teams
-	set country = 'Canada'
-	where id = old.id ;
-	return old;
-end;
-$$;
-
-create trigger delete_player
-	instead of delete on teams_view
-	for each row 
-	execute procedure update_player();
-	
-delete
-from teams_view
-where id = 1;
-
-select *
-from teams_view
-where id = 1;

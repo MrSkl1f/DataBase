@@ -5,8 +5,9 @@
 -- 4) хранимую процедуру доступа к метаданным
 
 -- хранимую процедуру без параметров или с параметрами
-drop procedure promotion_of_management;
-drop table management_copy;
+-- //DONE исправить (забыл дропнуть и не менялось)
+drop procedure if exists promotion_of_management;
+drop table if exists management_copy;
 
 select *
 into temp management_copy
@@ -37,8 +38,8 @@ from management_copy join management on management_copy.id = management.id
 where management.id = 251;
 
 -- рекурсивную хранимую процедуру или хранимую процедуру с рекурсивным ОТВ
-drop procedure change_age;
-drop table players_copy;
+drop procedure if exists change_age;
+drop table if exists players_copy;
 
 select *
 into temp players_copy
@@ -64,8 +65,8 @@ from players join players_copy on players.id = players_copy.id
 where players.id between 800 and 900 and players.player_age = 26;
 
 -- хранимую процедуру с курсором
-drop procedure change_weight;
-drop table players_copy;
+drop procedure if exists change_weight;
+drop table if exists players_copy;
 
 select *
 into temp players_copy
@@ -100,29 +101,30 @@ from players join players_copy on players.id = players_copy.id
 where players.id between 1 and 200 and players.player_weight = 79;
 
 -- хранимую процедуру доступа к метаданным
-create or replace procedure get_total_relation_size()
-language plpgsql
-as $$
-declare	
-	my_cursor cursor
-	for select table_name, total_size
-	from (
-		select table_name,
-		pg_total_relation_size(cast(table_name as varchar)) as total_size 
-		from information_schema.tables
-		where table_catalog = 'basketball' and
-		table_schema not in ('information_schema','pg_catalog')
-		order by total_size desc
-	) as name_size;
-	line record;
+-- //DONE переписать под линукс
+drop procedure if exists get_trigger_and_func(name);
+create or replace procedure get_trigger_and_func(in tn name)
+    language plpgsql
+as
+$$
+declare
+	tg_func_id oid;
+	func_name name;
 begin
-	open my_cursor;
-	loop
-		fetch my_cursor into line;
-		exit when not found;
-		raise notice 'Name of table: <%> and Total size: <%>', line.table_name, line.total_size;
-	end loop;
-	close my_cursor;
-end;
+	-- выбираем нужный tgfoid
+	select pt.tgfoid
+	into tg_func_id 
+	from pg_catalog.pg_trigger pt 
+	where pt.tgname = tn;
+	
+	-- выбираем название функции
+	select pp.proname 
+	into func_name
+	from pg_catalog.pg_proc pp
+	where pp."oid" = tg_func_id;
+	
+	raise notice 'Trigger name: %, trigger oid: %, on function: %', tn, tg_func_id, func_name;
+end
 $$;
-call get_total_relation_size();
+
+call get_trigger_and_func(cast('add_history' as name));
