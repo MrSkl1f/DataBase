@@ -7,8 +7,7 @@ CREATE TABLE IF NOT EXISTS management (
     general_manager VARCHAR(40),
     sports_director varchar(40) 
 );
-
-COPY management FROM 'C:\Users\MrSklif\Desktop\BMSTU\5sem\DB\lab1\ClubManagement.csv' DELIMITER ',' csv;
+COPY management FROM '/home/mrskl1f/Рабочий стол/BMSTU/DataBase/lab1/ClubManagement.csv' DELIMITER ',' csv;
 SELECT * FROM management;
 
 CREATE TABLE IF NOT EXISTS headquarters (
@@ -17,7 +16,7 @@ CREATE TABLE IF NOT EXISTS headquarters (
     senior_coach VARCHAR(40)
 );
 
-COPY headquarters FROM 'C:\Users\MrSklif\Desktop\BMSTU\5sem\DB\lab1\Headquarters.csv' DELIMITER ',' csv;
+COPY headquarters FROM '/home/mrskl1f/Рабочий стол/BMSTU/DataBase/lab1/Headquarters.csv' DELIMITER ',' csv;
 SELECT * FROM headquarters;
 
 CREATE TABLE IF NOT EXISTS teams (
@@ -29,7 +28,7 @@ CREATE TABLE IF NOT EXISTS teams (
     stadium VARCHAR(50)
 );
 
-COPY teams FROM 'C:\Users\MrSklif\Desktop\BMSTU\5sem\DB\lab1\Team.csv' DELIMITER ',' csv;
+COPY teams FROM '/home/mrskl1f/Рабочий стол/BMSTU/DataBase/lab1/Team.csv' DELIMITER ',' csv;
 SELECT * FROM teams;
 
 CREATE TABLE IF NOT EXISTS players (
@@ -47,7 +46,7 @@ CREATE TABLE IF NOT EXISTS players (
 --alter table players add constraint players_age check (not null);
 --insert into club_management(management_id, general_manager, sports_director) values('asf', 'asf', 'afs);
 
-COPY players FROM 'C:\Users\MrSklif\Desktop\BMSTU\5sem\DB\lab1\Players.csv' DELIMITER ',' csv;
+COPY players FROM '/home/mrskl1f/Рабочий стол/BMSTU/DataBase/lab1/Players.csv' DELIMITER ',' csv;
 SELECT * FROM players;
 -- селектом все ограничения
 
