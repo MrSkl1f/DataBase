@@ -7,7 +7,8 @@
 -- Скалярная функция
 -- Получает средний возраст
 drop function if exists skalar_func();
-create function skalar_func() returns int
+create function skalar_func() 
+returns numeric 
 as $$ 
     select avg(player_age)
     from players;
@@ -27,7 +28,7 @@ as $$
     where player_height > $1;
 $$ language sql;
 
-select * from get_players(220);
+select * from get_players(219);
 
 -- Многооператорная табличная
 -- получает таблицу значений
