@@ -16,24 +16,34 @@ select * from get_player_by_id(5000);
 
 -- 2) Пользовательскую агрегатную функцию CLR
 -- получить всех игроков из страны
-drop function get_n_players;
-create or replace function get_n_players(country varchar)
-returns int
-language plpython3u
-as $$
-p_t = plpy.execute("select players.player_name as name, teams.country as country from players join teams on players.team = teams.id")
-summ = 0
-for player in p_t:
-    if player['country'] == country:
-        summ += 1
-return summ
-$$;
+-- join на питон
+-- в агрегат
 
-select * from get_n_players('Canada');
+create or replace function avg_state(prev numeric[2], next numeric) returns numeric[2] as
+$$
+	return prev if next == 0 or next == None else [0 if prev[0] == None else prev[0] + next, prev[1] + 1]
+$$ language plpython3u;
+
+create or replace function avg_final(num numeric[2]) returns numeric as
+$$
+    return 0 if num[1] == 0 else num[0] / num[1]
+$$ language plpython3u;
+
+
+create aggregate my_avg(numeric) (
+    sfunc = avg_state,
+    stype = numeric[],
+    finalfunc = avg_final,
+    initcond = '{0,0}'
+);
+
+select my_avg(players.player_height::numeric)
+from players join teams on players.team = teams.id
+where country = 'Canada';
 
 -- 3) Определяемую пользователем табличную функцию CLR
 -- получить все команды из страны
-drop function get_all_teams_from_country;
+drop function if exists get_all_teams_from_country;
 create or replace function get_all_teams_from_country(country varchar)
 returns table(id int, management int, headquarter int, team_name varchar, country varchar, stadium varchar)
 language plpython3u
@@ -49,7 +59,7 @@ $$;
 select * from get_all_teams_from_country('Canada');
 
 -- 4) Хранимую процедуру CLR
-drop procedure add_management;
+drop procedure if exists add_management;
 create or replace procedure add_management(id int, director varchar, manager varchar, sp_director varchar)
 language plpython3u
 as $$
@@ -57,46 +67,53 @@ request = plpy.prepare("insert into management(id, general_director, general_man
 plpy.execute(request, [id, director, manager, sp_director])
 $$;
 
-call add_management(1001, 'Denis', 'Denis', 'Denis');
+call add_management(1002, 'Denis', 'Denis', 'Denis');
+
+select * from management m 
+where m.id = 1002;
 
 -- 5) Триггер CLR
 -- при добавлении записать в новую таблицу
-drop table history;
-create table if not exists history
+-- //DONE исправить под свои данные
+
+drop table if exists directors;
+create table if not exists directors
 (
-	operation varchar(100) not null
+    id serial not null,
+    management_id int,
+    old_director varchar(40),
+    new_director varchar(40)
 );
 
-drop table students;
-create table if not exists students
-(
-	st_name varchar(100) not null,
-	st_group varchar(100) not null
-);
+drop trigger if exists change_director on directors;
 
-drop trigger history on students;
-drop function add_history();
-
-create or replace function add_history()
+create or replace function change_director()
 returns trigger
 as $$
-cur = TD['new']
-request = plpy.prepare("insert into history(operation) values($1);", ["varchar"])
-operation = 'Добавлен студент ' + cur["st_name"] + ' в группу ' + cur["st_group"]
-rv = plpy.execute(request, [operation])
+new_management = TD['new']
+old_management = TD['old']
+management_id = new_management["id"]
+old_director = old_management["general_director"]
+new_director = new_management["general_director"]
+if old_director != new_director:
+    request = plpy.prepare("insert into directors(management_id, old_director, new_director) values($1, $2, $3);", ["int", "varchar", "varchar"])
+    rv = plpy.execute(request, [management_id, old_director, new_director])
 return None
 $$ language plpython3u;
 
-create trigger add_history
-after insert on students
+create trigger change_director
+after update on management
 for each row
-execute procedure add_history();
+execute procedure change_director();
 
-insert into students(st_name, st_group)
-values('Danya', 'iu7-55');
-insert into students(st_name, st_group)
-values('Denis', 'iu7-55');
-select * from history;
+select * from management m 
+where id = 900;
+
+update management
+set general_director = 'Denis Sklifasovsky'
+where management.id = 900;
+
+select * from directors d ;
 
 -- 6) Определяемый пользователем тип данных CLR
 drop function get_characteristics();

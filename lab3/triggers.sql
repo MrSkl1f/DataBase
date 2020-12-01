@@ -32,8 +32,8 @@ for each row
 execute function team_change();
 
 update players 
-set team = 24
-where id = 2421;
+set team = 22
+where id = 500;
 select * from drafts;
 
 -- instead of 

@@ -127,4 +127,4 @@ begin
 end
 $$;
 
-call get_trigger_and_func(cast('add_history' as name));
+call get_trigger_and_func(cast('draft' as name));
