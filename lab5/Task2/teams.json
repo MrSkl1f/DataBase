@@ -1,0 +1,485 @@
+{"id":1,"management":333,"headquarter":306,"team_name":"Atlanta Hawks","country":"United States","stadium":"State Farm Arena"}
+{"id":2,"management":81,"headquarter":90,"team_name":"Boston Celtics","country":"United States","stadium":"TD Garden"}
+{"id":3,"management":305,"headquarter":409,"team_name":"Brooklyn Nets","country":"United States","stadium":"Barclays Center"}
+{"id":4,"management":214,"headquarter":419,"team_name":"Charlotte Hornets","country":"United States","stadium":"Spectrum Center"}
+{"id":5,"management":255,"headquarter":148,"team_name":"Chicago Bulls","country":"United States","stadium":"United Center"}
+{"id":6,"management":374,"headquarter":413,"team_name":"Cleveland Cavaliers","country":"United States","stadium":"Quicken Loans Arena"}
+{"id":7,"management":27,"headquarter":371,"team_name":"Dallas Mavericks","country":"United States","stadium":"American Airlines Center"}
+{"id":8,"management":59,"headquarter":35,"team_name":"Denver Nuggets","country":"United States","stadium":"Pepsi Center"}
+{"id":9,"management":322,"headquarter":350,"team_name":"Detroit Pistons","country":"United States","stadium":"Little Caesars Arena"}
+{"id":10,"management":60,"headquarter":199,"team_name":"Golden State Warriors","country":"United States","stadium":"Chase Center"}
+{"id":11,"management":129,"headquarter":420,"team_name":"Houston Rockets","country":"United States","stadium":"Toyota Center"}
+{"id":12,"management":207,"headquarter":469,"team_name":"Indiana Pacers","country":"United States","stadium":"Bankers Life Fieldhouse"}
+{"id":13,"management":266,"headquarter":333,"team_name":"Los Angeles Clippers","country":"United States","stadium":"Staples Center"}
+{"id":14,"management":291,"headquarter":40,"team_name":"Los Angeles Lakers","country":"United States","stadium":"Staples Center"}
+{"id":15,"management":119,"headquarter":198,"team_name":"Memphis Grizzlies","country":"United States","stadium":"FedExForum"}
+{"id":16,"management":176,"headquarter":375,"team_name":"Miami Heat","country":"United States","stadium":"American Airlines Arena"}
+{"id":17,"management":452,"headquarter":155,"team_name":"Milwaukee Bucks","country":"United States","stadium":"Fiserv Forum"}
+{"id":18,"management":249,"headquarter":428,"team_name":"Minnesota Timberwolves","country":"United States","stadium":"Target Center"}
+{"id":19,"management":71,"headquarter":461,"team_name":"New Orleans Pelicans","country":"United States","stadium":"Smoothie King Center"}
+{"id":20,"management":193,"headquarter":47,"team_name":"New York Knicks","country":"United States","stadium":"Madison Square Garden"}
+{"id":21,"management":204,"headquarter":418,"team_name":"Oklahoma City Thunder","country":"United States","stadium":"Chesapeake Energy Arena"}
+{"id":22,"management":267,"headquarter":335,"team_name":"Orlando Magic","country":"United States","stadium":"Amway Center"}
+{"id":23,"management":136,"headquarter":370,"team_name":"Philadelphia 76ers","country":"United States","stadium":"Wells Fargo Center"}
+{"id":24,"management":155,"headquarter":393,"team_name":"Phoenix Suns","country":"United States","stadium":"Talking Stick Resort Arena"}
+{"id":25,"management":375,"headquarter":270,"team_name":"Portland Trail Blazers","country":"United States","stadium":"Moda Center"}
+{"id":26,"management":287,"headquarter":228,"team_name":"Sacramento Kings","country":"United States","stadium":"Golden 1 Center"}
+{"id":27,"management":352,"headquarter":321,"team_name":"San Antonio Spurs","country":"United States","stadium":"AT&T Center"}
+{"id":28,"management":251,"headquarter":352,"team_name":"Toronto Raptors","country":"Canada","stadium":"Scotiabank Arena"}
+{"id":29,"management":390,"headquarter":234,"team_name":"Utah Jazz","country":"United States","stadium":"Vivint Smart Home Arena"}
+{"id":30,"management":125,"headquarter":76,"team_name":"Washington Wizards","country":"United States","stadium":"Capital One Arena"}
+{"id":31,"management":408,"headquarter":349,"team_name":"Agua Caliente Clippers","country":"United States","stadium":"Citizens Business Bank Arena"}
+{"id":32,"management":44,"headquarter":358,"team_name":"Austin Spurs","country":"United States","stadium":"Cedar Park Center"}
+{"id":33,"management":479,"headquarter":101,"team_name":"Canton Charge","country":"United States","stadium":"Canton Memorial Civic Center"}
+{"id":34,"management":158,"headquarter":54,"team_name":"Capital City Go-Go","country":"United States","stadium":"St. Elizabeths East Entertainment and Sports Arena"}
+{"id":35,"management":174,"headquarter":385,"team_name":"College Park Skyhawks","country":"United States","stadium":"Gateway Center Arena"}
+{"id":36,"management":167,"headquarter":182,"team_name":"Delaware 87ers","country":"United States","stadium":"Bob Carpenter Center"}
+{"id":37,"management":331,"headquarter":135,"team_name":"Erie BayHawks","country":"United States","stadium":"Erie Insurance Arena"}
+{"id":38,"management":102,"headquarter":254,"team_name":"Fort Wayne Mad Ants","country":"United States","stadium":"Allen County War Memorial Coliseum"}
+{"id":39,"management":181,"headquarter":173,"team_name":"Grand Rapids Drive","country":"United States","stadium":"DeltaPlex Arena"}
+{"id":40,"management":152,"headquarter":478,"team_name":"Greensboro Swarm","country":"United States","stadium":"Greensboro Coliseum Fieldhouse"}
+{"id":41,"management":440,"headquarter":300,"team_name":"Iowa Wolves","country":"United States","stadium":"Wells Fargo Arena"}
+{"id":42,"management":154,"headquarter":66,"team_name":"Lakeland Magic","country":"United States","stadium":"RP Funding Center"}
+{"id":43,"management":206,"headquarter":181,"team_name":"Long Island Nets","country":"United States","stadium":"Barclays Center"}
+{"id":44,"management":17,"headquarter":307,"team_name":"Maine Red Claws","country":"United States","stadium":"Portland Exposition Arena"}
+{"id":45,"management":478,"headquarter":372,"team_name":"Memphis Hustle","country":"United States","stadium":"Landers Center"}
+{"id":46,"management":328,"headquarter":336,"team_name":"Northern Arizona Suns","country":"United States","stadium":"Prescott Valley Event Center"}
+{"id":47,"management":231,"headquarter":200,"team_name":"Oklahoma City Blue","country":"United States","stadium":"Cox Convention Center"}
+{"id":48,"management":372,"headquarter":444,"team_name":"Raptors 905","country":"United States","stadium":"Hershey Centre"}
+{"id":49,"management":105,"headquarter":63,"team_name":"Rio Grande Valley Vipers","country":"United States","stadium":"State Farm Arena"}
+{"id":50,"management":382,"headquarter":60,"team_name":"Salt Lake City Stars","country":"United States","stadium":"Lifetime Activities Center-Bruin Arena"}
+{"id":51,"management":199,"headquarter":214,"team_name":"Santa Cruz Warriors","country":"United States","stadium":"Kaiser Permanente Arena"}
+{"id":52,"management":326,"headquarter":310,"team_name":"Sioux Falls Skyforce","country":"United States","stadium":"Sanford Pentagon"}
+{"id":53,"management":173,"headquarter":476,"team_name":"South Bay Lakers","country":"United States","stadium":"UCLA Health Training Center"}
+{"id":54,"management":377,"headquarter":158,"team_name":"Stockton Kings","country":"United States","stadium":"Stockton Arena"}
+{"id":55,"management":16,"headquarter":256,"team_name":"Texas Legends","country":"United States","stadium":"Dr Pepper Arena"}
+{"id":56,"management":357,"headquarter":480,"team_name":"Westchester Knicks","country":"United States","stadium":"Westchester County Center"}
+{"id":57,"management":25,"headquarter":391,"team_name":"Windy City Bulls","country":"United States","stadium":"Sears Centre"}
+{"id":58,"management":93,"headquarter":479,"team_name":"Wisconsin Herd","country":"United States","stadium":"Menominee Nation Arena"}
+{"id":59,"management":371,"headquarter":315,"team_name":"Baloncesto Fuenlabrada","country":"Spain","stadium":"Pabellón Fernando Martín"}
+{"id":60,"management":126,"headquarter":194,"team_name":"Baloncesto Málaga","country":"Spain","stadium":"Palacio de Deportes José María Martín Carpena"}
+{"id":61,"management":159,"headquarter":221,"team_name":"Basket Zaragoza","country":"Spain","stadium":"Pabellón Príncipe Felipe"}
+{"id":62,"management":88,"headquarter":387,"team_name":"Baskonia","country":"Spain","stadium":"Fernando Buesa Arena"}
+{"id":63,"management":150,"headquarter":26,"team_name":"Basquet Manresa","country":"Spain","stadium":"Nou Congost"}
+{"id":64,"management":292,"headquarter":361,"team_name":"BC Andorra","country":"Andorra","stadium":"Poliesportiu d"}
+{"id":65,"management":170,"headquarter":171,"team_name":"Bilbao Basket","country":"Spain","stadium":"Bilbao Arena"}
+{"id":66,"management":378,"headquarter":51,"team_name":"CB 1939 Canarias","country":"Spain","stadium":"Pabellón Santiago Martín"}
+{"id":67,"management":228,"headquarter":369,"team_name":"CB Gran Canaria","country":"Spain","stadium":"Gran Canaria Arena"}
+{"id":68,"management":364,"headquarter":376,"team_name":"CB Miraflores","country":"Spain","stadium":"Coliseum Burgos"}
+{"id":69,"management":475,"headquarter":309,"team_name":"CB Murcia","country":"Spain","stadium":"Palacio de los Deportes de Murcia"}
+{"id":70,"management":8,"headquarter":483,"team_name":"Estudiantes","country":"Spain","stadium":"Barclaycard Center"}
+{"id":71,"management":92,"headquarter":111,"team_name":"FC Barcelona Basquet","country":"Spain","stadium":"Palau Blaugrana"}
+{"id":72,"management":396,"headquarter":146,"team_name":"Gipuzkoa Basket","country":"Spain","stadium":"José Antonio Gasca"}
+{"id":73,"management":277,"headquarter":129,"team_name":"Joventut Badalona","country":"Spain","stadium":"Olímpico de Badalona"}
+{"id":74,"management":53,"headquarter":99,"team_name":"Obradoiro CAB","country":"Spain","stadium":"Multiusos Fontes do Sar"}
+{"id":75,"management":21,"headquarter":423,"team_name":"Real Betis Baloncesto","country":"Spain","stadium":"Palacio de Deportes San Pablo"}
+{"id":76,"management":180,"headquarter":410,"team_name":"Real Madrid Baloncesto","country":"Spain","stadium":"WiZink Center"}
+{"id":77,"management":157,"headquarter":130,"team_name":"Valencia Basket","country":"Spain","stadium":"Pabellón Fuente de San Luis"}
+{"id":78,"management":73,"headquarter":195,"team_name":"AS Monaco Basket","country":"Monaco","stadium":"Salle Gaston Médecin"}
+{"id":79,"management":414,"headquarter":108,"team_name":"Boulazac Basket Dordogne","country":"France","stadium":"Le Palio"}
+{"id":80,"management":309,"headquarter":114,"team_name":"Bourg-en-Bresse","country":"France","stadium":"Ekinox"}
+{"id":81,"management":436,"headquarter":144,"team_name":"Châlons-Reims","country":"France","stadium":"Complexe René-Tys"}
+{"id":82,"management":466,"headquarter":95,"team_name":"Cholet","country":"France","stadium":"La Meilleraie"}
+{"id":83,"management":213,"headquarter":211,"team_name":"Chorale Roanne Basket","country":"France","stadium":"Halle André Vacheresse"}
+{"id":84,"management":234,"headquarter":277,"team_name":"Dijon","country":"France","stadium":"Palais des sports Jean-Michel Geoffroy de Dijon"}
+{"id":85,"management":279,"headquarter":49,"team_name":"Élan Chalon","country":"France","stadium":"Le Colisée"}
+{"id":86,"management":41,"headquarter":400,"team_name":"ESSM Le Portel","country":"France","stadium":"Le Chaudron"}
+{"id":87,"management":179,"headquarter":357,"team_name":"Gravelines-Dunkerque","country":"France","stadium":"Sportica"}
+{"id":88,"management":342,"headquarter":175,"team_name":"Le Mans Sarthe Basket","country":"France","stadium":"Antarès"}
+{"id":89,"management":413,"headquarter":313,"team_name":"Limoges","country":"France","stadium":"Bleaublanc"}
+{"id":90,"management":38,"headquarter":84,"team_name":"Lyon-Villeurbanne","country":"France","stadium":"Astroballe"}
+{"id":91,"management":453,"headquarter":238,"team_name":"Metropolitans 92","country":"France","stadium":"Marcel Cerdan Sports Palace"}
+{"id":92,"management":4,"headquarter":86,"team_name":"Nanterre","country":"France","stadium":"Palais des sports Maurice Thorez"}
+{"id":93,"management":366,"headquarter":212,"team_name":"Orléans Loiret Basket","country":"France","stadium":"Palais des Sports"}
+{"id":94,"management":76,"headquarter":367,"team_name":"Pau-Lacq-Orthez","country":"France","stadium":"Palais des sports de Pau"}
+{"id":95,"management":96,"headquarter":188,"team_name":"Strasbourg","country":"France","stadium":"Rhenus Sport"}
+{"id":96,"management":254,"headquarter":139,"team_name":"Bristol Flyers","country":"England","stadium":"WISE Arena"}
+{"id":97,"management":74,"headquarter":213,"team_name":"Cheshire Phoenix","country":"England","stadium":"Cheshire Oaks Arena"}
+{"id":98,"management":240,"headquarter":363,"team_name":"Glasgow Rocks","country":"Scotland","stadium":"Emirates Arena"}
+{"id":99,"management":128,"headquarter":96,"team_name":"Leicester Riders","country":"England","stadium":"John Sanford Centre"}
+{"id":100,"management":189,"headquarter":318,"team_name":"London City Royals","country":"England","stadium":"Crystal Palace Centre"}
+{"id":101,"management":324,"headquarter":103,"team_name":"London Lions","country":"England","stadium":"Copper Box"}
+{"id":102,"management":200,"headquarter":466,"team_name":"Manchester Giants","country":"England","stadium":"Trafford Arena"}
+{"id":103,"management":301,"headquarter":11,"team_name":"Newcastle Eagles","country":"England","stadium":"Sport Central"}
+{"id":104,"management":349,"headquarter":327,"team_name":"Plymouth Raiders","country":"England","stadium":"Plymouth Pavilions"}
+{"id":105,"management":101,"headquarter":287,"team_name":"Sheffield Sharks","country":"England","stadium":"EIS Sheffield"}
+{"id":106,"management":227,"headquarter":14,"team_name":"Surrey Scorchers","country":"England","stadium":"Surrey Sports Park"}
+{"id":107,"management":368,"headquarter":141,"team_name":"Worcester Wolves","country":"England","stadium":"Worcester Arena"}
+{"id":108,"management":221,"headquarter":134,"team_name":"Aquila Basket Trento","country":"Italy","stadium":"PalaTrento"}
+{"id":109,"management":209,"headquarter":102,"team_name":"Auxilium Pallacanestro Torino","country":"Italy","stadium":"PalaRuffini"}
+{"id":110,"management":293,"headquarter":285,"team_name":"Basket Brescia Leonessa","country":"Italy","stadium":"PalaGeorge"}
+{"id":111,"management":444,"headquarter":266,"team_name":"Dinamo Basket Sassari","country":"Italy","stadium":"Palasport Roberta Serradimigni"}
+{"id":112,"management":194,"headquarter":80,"team_name":"Fortitudo Pallacanestro Bologna","country":"Italy","stadium":"PalaDozza"}
+{"id":113,"management":15,"headquarter":98,"team_name":"Guerino Vanoli Basket","country":"Italy","stadium":"PalaRadi"}
+{"id":114,"management":175,"headquarter":337,"team_name":"New Basket Brindisi","country":"Italy","stadium":"PalaPentassuglia"}
+{"id":115,"management":316,"headquarter":241,"team_name":"Olimpia Milano","country":"Italy","stadium":"Mediolanum Forum"}
+{"id":116,"management":447,"headquarter":203,"team_name":"Orlandina Basket","country":"Italy","stadium":"PalaFantozzi"}
+{"id":117,"management":429,"headquarter":160,"team_name":"Pallacanestro Cantù","country":"Italy","stadium":"Mapooro Arena"}
+{"id":118,"management":20,"headquarter":185,"team_name":"Pallacanestro Reggiana","country":"Italy","stadium":"PalaBigi"}
+{"id":119,"management":260,"headquarter":207,"team_name":"Pallacanestro Treviso","country":"Italy","stadium":"Palaverde"}
+{"id":120,"management":329,"headquarter":330,"team_name":"Pallacanestro Trieste","country":"Italy","stadium":"Allianz Dome"}
+{"id":121,"management":280,"headquarter":222,"team_name":"Pallacanestro Varese","country":"Italy","stadium":"PalaWhirpool"}
+{"id":122,"management":215,"headquarter":162,"team_name":"Pallacanestro Virtus Roma","country":"Italy","stadium":"PalaLottomatica"}
+{"id":123,"management":131,"headquarter":85,"team_name":"Pistoia Basket","country":"Italy","stadium":"PalaCarrara"}
+{"id":124,"management":295,"headquarter":92,"team_name":"Reyer Venezia Mestre","country":"Italy","stadium":"Palasport Taliercio"}
+{"id":125,"management":68,"headquarter":295,"team_name":"S.S. Felice Scandone","country":"Italy","stadium":"Avellino"}
+{"id":126,"management":263,"headquarter":274,"team_name":"Victoria Libertas","country":"Italy","stadium":"Adriatic Arena"}
+{"id":127,"management":153,"headquarter":294,"team_name":"Virtus Pallacanestro Bologna","country":"Italy","stadium":"Unipol Arena"}
+{"id":128,"management":117,"headquarter":233,"team_name":"Adelaide 36ers","country":"Australia","stadium":"Titanium Security Arena"}
+{"id":129,"management":283,"headquarter":19,"team_name":"Brisbane Bullets","country":"Australia","stadium":"Brisbane Entertainment Centre"}
+{"id":130,"management":70,"headquarter":230,"team_name":"Cairns Taipans","country":"Australia","stadium":"Cairns Convention Centre"}
+{"id":131,"management":262,"headquarter":381,"team_name":"Illawarra Hawks","country":"Australia","stadium":"WIN Entertainment Centre"}
+{"id":132,"management":12,"headquarter":100,"team_name":"Melbourne Utd.","country":"Australia","stadium":"Melbourne Arena"}
+{"id":133,"management":138,"headquarter":18,"team_name":"New Zealand Breakers","country":"New Zealand","stadium":"Spark Arena"}
+{"id":134,"management":325,"headquarter":429,"team_name":"Perth Wildcats","country":"Australia","stadium":"RAC Arena"}
+{"id":135,"management":182,"headquarter":332,"team_name":"South East Melbourne Phoenix","country":"Australia","stadium":"Melbourne Arena"}
+{"id":136,"management":85,"headquarter":115,"team_name":"Sydney Kings","country":"Australia","stadium":"Qudos Bank Arena"}
+{"id":137,"management":201,"headquarter":312,"team_name":"ALBA Berlin","country":"Germany","stadium":"O2 World"}
+{"id":138,"management":454,"headquarter":193,"team_name":"Bayern München Basketball","country":"Germany","stadium":"Audi Dome"}
+{"id":139,"management":337,"headquarter":246,"team_name":"Bayreuth","country":"Germany","stadium":"Oberfrankenhalle"}
+{"id":140,"management":26,"headquarter":432,"team_name":"BG Göttingen","country":"Germany","stadium":"Lokhalle Göttingen"}
+{"id":141,"management":33,"headquarter":445,"team_name":"Bonn","country":"Germany","stadium":"Telekom Dome"}
+{"id":142,"management":427,"headquarter":36,"team_name":"Braunschweig","country":"Germany","stadium":"Volkswagen Halle"}
+{"id":143,"management":459,"headquarter":116,"team_name":"Brose Bamberg","country":"Germany","stadium":"Brose Arena"}
+{"id":144,"management":224,"headquarter":223,"team_name":"Crailsheim Merlins","country":"Germany","stadium":"Arena Hohenlohe"}
+{"id":145,"management":252,"headquarter":217,"team_name":"EWE Baskets Oldenburg","country":"Germany","stadium":"Große EWE Arena"}
+{"id":146,"management":402,"headquarter":202,"team_name":"Frankfurt Skyliners","country":"Germany","stadium":"Fraport Arena"}
+{"id":147,"management":226,"headquarter":253,"team_name":"Gießen 46ers","country":"Germany","stadium":"Sporthalle Gießen-Ost"}
+{"id":148,"management":302,"headquarter":342,"team_name":"Hamburg Towers","country":"Germany","stadium":"Edel-optics.de Arena"}
+{"id":149,"management":426,"headquarter":184,"team_name":"Ludwigsburg","country":"Germany","stadium":"Arena Ludwigsburg"}
+{"id":150,"management":307,"headquarter":192,"team_name":"Mitteldeutscher BC","country":"Germany","stadium":"Stadthalle Weißenfels"}
+{"id":151,"management":161,"headquarter":125,"team_name":"Rasta Vechta","country":"Germany","stadium":"RASTA Dome"}
+{"id":152,"management":210,"headquarter":245,"team_name":"s.Oliver Würzburg","country":"Germany","stadium":"s.Oliver Arena"}
+{"id":153,"management":340,"headquarter":38,"team_name":"Ulm","country":"Germany","stadium":"ratiopharm Arena"}
+{"id":154,"management":411,"headquarter":449,"team_name":"Bayi Rockets","country":"China","stadium":"Ningbo Youngor Sports Center Stadium"}
+{"id":155,"management":91,"headquarter":25,"team_name":"Beijing Ducks","country":"China","stadium":"Shougang Basketball Center"}
+{"id":156,"management":9,"headquarter":366,"team_name":"Beijing Royal Fighters","country":"China","stadium":"Beijing National Indoor Stadium"}
+{"id":157,"management":219,"headquarter":133,"team_name":"Chongqing Dragons","country":"China","stadium":"Beijing National Indoor Stadium"}
+{"id":158,"management":184,"headquarter":403,"team_name":"Fujian Xunxing","country":"China","stadium":"Zuchang Gymnasium"}
+{"id":159,"management":84,"headquarter":269,"team_name":"Guangdong Southern Tigers","country":"China","stadium":"Dongguan Basketball Center"}
+{"id":160,"management":120,"headquarter":415,"team_name":"Guangzhou Long-Lions","country":"China","stadium":"Tianhe Gymnasium"}
+{"id":161,"management":360,"headquarter":64,"team_name":"Jiangsu Dragons","country":"China","stadium":"Wutaishan Gymnasium"}
+{"id":162,"management":298,"headquarter":477,"team_name":"Jilin Northeast Tigers","country":"China","stadium":"Changchun Gymnasium"}
+{"id":163,"management":183,"headquarter":78,"team_name":"Liaoning Flying Leopards","country":"China","stadium":"Liaoning Gymnasium"}
+{"id":164,"management":104,"headquarter":258,"team_name":"Nanjing Monkey Kings","country":"China","stadium":"Nanjing"}
+{"id":165,"management":168,"headquarter":464,"team_name":"Qingdao Eagles","country":"China","stadium":"Guoxin Gymnasium"}
+{"id":166,"management":419,"headquarter":284,"team_name":"Shandong Golden Star","country":"China","stadium":"Shandong Arena"}
+{"id":167,"management":95,"headquarter":458,"team_name":"Shanghai Sharks","country":"China","stadium":"Pudong Yuanshen Gymnasium"}
+{"id":168,"management":394,"headquarter":4,"team_name":"Shanxi Zhongyu","country":"China","stadium":"Riverside Sports Arena"}
+{"id":169,"management":288,"headquarter":346,"team_name":"Shenzhen Leopards","country":"China","stadium":"Shenzhen Universiade Sports Centre"}
+{"id":170,"management":248,"headquarter":127,"team_name":"Tianjin Ronggang","country":"China","stadium":"Tianjin Arena"}
+{"id":171,"management":320,"headquarter":220,"team_name":"Xinjiang Flying Tigers","country":"China","stadium":"Hongshan Arena"}
+{"id":172,"management":461,"headquarter":117,"team_name":"Zhejiang Chouzhou","country":"China","stadium":"Yiwu Gymnasium"}
+{"id":173,"management":443,"headquarter":401,"team_name":"Zhejiang Guangsha","country":"China","stadium":"Hangzhou Gymnasium"}
+{"id":174,"management":384,"headquarter":50,"team_name":"AEK BC","country":"Greece","stadium":"Nikos Galis Olympic Indoor Hall"}
+{"id":175,"management":250,"headquarter":57,"team_name":"Aris BC","country":"Greece","stadium":"Alexandreio Melathron"}
+{"id":176,"management":341,"headquarter":119,"team_name":"Ifaistos Limnou BC","country":"Greece","stadium":"Kleisto Gimnastirio Limnou Nikos Samaras"}
+{"id":177,"management":332,"headquarter":225,"team_name":"Ionikos Nikaias BC","country":"Greece","stadium":"Sofia Befon Indoor Hall"}
+{"id":178,"management":313,"headquarter":61,"team_name":"Iraklis BC","country":"Greece","stadium":"Ivanofeio Sports Arena"}
+{"id":179,"management":29,"headquarter":229,"team_name":"Kolossos BC","country":"Greece","stadium":"Kallithea Palais des Sports"}
+{"id":180,"management":62,"headquarter":9,"team_name":"Larisa BC","country":"Greece","stadium":"Larissa Neapolis Indoor Arena"}
+{"id":181,"management":57,"headquarter":329,"team_name":"Lavrio BC","country":"Greece","stadium":"Lavrio Indoor Hall"}
+{"id":182,"management":468,"headquarter":131,"team_name":"Panathinaikos BC","country":"Greece","stadium":"Olympic Indoor Hall"}
+{"id":183,"management":229,"headquarter":446,"team_name":"Panionios BC","country":"Greece","stadium":"Sofia Befon Indoor Hall"}
+{"id":184,"management":94,"headquarter":62,"team_name":"PAOK BC","country":"Greece","stadium":"PAOK Sports Arena"}
+{"id":185,"management":137,"headquarter":355,"team_name":"Peristeri BC","country":"Greece","stadium":"Peristeri Arena"}
+{"id":186,"management":203,"headquarter":251,"team_name":"Promitheas Patras BC","country":"Greece","stadium":"Dimitrios Tofalos Arena"}
+{"id":187,"management":241,"headquarter":177,"team_name":"Rethymno Cretan Kings BC","country":"Greece","stadium":"Melina Merkouri Indoor Hall"}
+{"id":188,"management":10,"headquarter":191,"team_name":"Hapoel Beer Sheva BC","country":"Israel","stadium":"Conch Arena"}
+{"id":189,"management":230,"headquarter":137,"team_name":"Hapoel Eilat BC","country":"Israel","stadium":"Begin Arena"}
+{"id":190,"management":246,"headquarter":187,"team_name":"Hapoel Gilboa Galil","country":"Israel","stadium":"Gan Ner Sports Hall"}
+{"id":191,"management":109,"headquarter":128,"team_name":"Hapoel Holon","country":"Israel","stadium":"Holon Toto Hall"}
+{"id":192,"management":387,"headquarter":392,"team_name":"Hapoel Jerusalem BC","country":"Israel","stadium":"Pais Arena"}
+{"id":193,"management":403,"headquarter":459,"team_name":"Hapoel Tel Aviv BC","country":"Israel","stadium":"Kvuzat Shlomo Arena"}
+{"id":194,"management":464,"headquarter":12,"team_name":"Ironi Nahariya","country":"Israel","stadium":"Ein Sara Sport Hall"}
+{"id":195,"management":348,"headquarter":436,"team_name":"Ironi Nes Ziona BC","country":"Israel","stadium":"Lev Hamoshava"}
+{"id":196,"management":460,"headquarter":283,"team_name":"Maccabi Ashdod BC","country":"Israel","stadium":"HaKiriya Arena"}
+{"id":197,"management":39,"headquarter":41,"team_name":"Maccabi Haifa BC","country":"Israel","stadium":"Romema Arena"}
+{"id":198,"management":218,"headquarter":216,"team_name":"Maccabi Rishon LeZion","country":"Israel","stadium":"Beit Maccabi"}
+{"id":199,"management":339,"headquarter":196,"team_name":"Maccabi Tel Aviv BC","country":"Israel","stadium":"Menora Mivtachim Arena"}
+{"id":200,"management":192,"headquarter":271,"team_name":"Afyon Belediye SK","country":"Turkey","stadium":"Afyon Atatürk Sports Hall"}
+{"id":201,"management":385,"headquarter":140,"team_name":"Anadolu Efes SK","country":"Turkey","stadium":"Sinan Erdem Dome"}
+{"id":202,"management":142,"headquarter":481,"team_name":"Bahçeşehir Koleji SK","country":"Turkey","stadium":"Caferağa Sports Hall"}
+{"id":203,"management":242,"headquarter":70,"team_name":"Banvit BK","country":"Turkey","stadium":"Kara Ali Acar Sport Hall"}
+{"id":204,"management":37,"headquarter":42,"team_name":"Besiktas Basketbol","country":"Turkey","stadium":"Akatlar Arena"}
+{"id":205,"management":417,"headquarter":249,"team_name":"Bursaspor Basketbol","country":"Turkey","stadium":"Bursa Atatürk Sport Hall"}
+{"id":206,"management":304,"headquarter":323,"team_name":"Büyükçekmece Basketbol","country":"Turkey","stadium":"Gazanfer Bilge Sports Hall"}
+{"id":207,"management":359,"headquarter":365,"team_name":"Darüşşafaka SK","country":"Turkey","stadium":"Darüşşafaka Ayhan Şahenk Sports Hall"}
+{"id":208,"management":52,"headquarter":55,"team_name":"Eskişehir Basket","country":"Turkey","stadium":"Anadolu Üniversitesi Sport Hall"}
+{"id":209,"management":42,"headquarter":30,"team_name":"Fenerbahçe Basketbol","country":"Turkey","stadium":"Ülker Sports Arena"}
+{"id":210,"management":428,"headquarter":324,"team_name":"Galatasaray SK","country":"Turkey","stadium":"Sinan Erdem Dome"}
+{"id":211,"management":398,"headquarter":345,"team_name":"Gaziantep Basketbol","country":"Turkey","stadium":"Karataş Şahinbey Sport Hall"}
+{"id":212,"management":356,"headquarter":31,"team_name":"İstanbul BŞB","country":"Turkey","stadium":"Cebeci Sport Hall"}
+{"id":213,"management":1,"headquarter":404,"team_name":"İTÜ B.K.","country":"Turkey","stadium":"Darüşşafaka Ayhan Şahenk Sports Hall"}
+{"id":214,"management":318,"headquarter":431,"team_name":"Karşıyaka Basket","country":"Turkey","stadium":"Mustafa Kemal Atatürk Karşıyaka Sport Hall"}
+{"id":215,"management":296,"headquarter":443,"team_name":"Muratbey Uşak Sportif","country":"Turkey","stadium":"Uşak Üniversitesi Sport Hall"}
+{"id":216,"management":421,"headquarter":460,"team_name":"OGM Ormanspor","country":"Turkey","stadium":"M. Sait Zarifoğlu Spor Salonu"}
+{"id":217,"management":353,"headquarter":5,"team_name":"Sakarya BB","country":"Turkey","stadium":"Sakarya Sports Hall"}
+{"id":218,"management":112,"headquarter":121,"team_name":"Tofaş SK","country":"Turkey","stadium":"Tofaş Nilüfer Spor Salonu"}
+{"id":219,"management":11,"headquarter":427,"team_name":"Trabzonspor BK","country":"Turkey","stadium":"Hayri Gür Arena"}
+{"id":220,"management":265,"headquarter":389,"team_name":"Türk Telekom BK","country":"Turkey","stadium":"Ankara Arena"}
+{"id":221,"management":462,"headquarter":382,"team_name":"Yeşilgiresun Belediye","country":"Turkey","stadium":"19 Eylül Sports Hall"}
+{"id":222,"management":347,"headquarter":299,"team_name":"Basket Zielona Góra","country":"Poland","stadium":"CRS Hala Zielona Góra"}
+{"id":223,"management":148,"headquarter":453,"team_name":"BC Astana","country":"Kazakhstan","stadium":"Saryarka Velodrome"}
+{"id":224,"management":363,"headquarter":275,"team_name":"BC Avtodor Saratov","country":"Russia","stadium":"Kristall Ice Sports Palace"}
+{"id":225,"management":79,"headquarter":44,"team_name":"BC Enisey","country":"Russia","stadium":"Arena Sever"}
+{"id":226,"management":276,"headquarter":474,"team_name":"BC Kalev","country":"Estonia","stadium":"Saku Suurhall"}
+{"id":227,"management":122,"headquarter":178,"team_name":"BC Khimki","country":"Russia","stadium":"Khimki Basketball Center"}
+{"id":228,"management":343,"headquarter":153,"team_name":"BC Nizhny Novgorod","country":"Russia","stadium":"CEC Nagorny"}
+{"id":229,"management":284,"headquarter":167,"team_name":"BC Tsmoki-Minsk","country":"Belarus","stadium":"Minsk Arena"}
+{"id":230,"management":310,"headquarter":408,"team_name":"BC UNICS","country":"Russia","stadium":"Basket-Hall Kazan"}
+{"id":231,"management":160,"headquarter":244,"team_name":"BC Zenit Saint Petersburg","country":"Russia","stadium":"Yubileyni Arena"}
+{"id":232,"management":225,"headquarter":317,"team_name":"BK VEF Rīga","country":"Latvia","stadium":"Arena Riga"}
+{"id":233,"management":69,"headquarter":149,"team_name":"Parma Basket","country":"Russia","stadium":"Universal Sports Palace Molot"}
+{"id":234,"management":259,"headquarter":398,"team_name":"PBC CSKA Moscow","country":"Russia","stadium":"Universal Sports Hall CSKA"}
+{"id":235,"management":47,"headquarter":2,"team_name":"PBC Lokomotiv Kuban","country":"Russia","stadium":"Basket-Hall Krasnodar"}
+{"id":236,"management":83,"headquarter":462,"team_name":"Cibona Zagreb","country":"Croatia","stadium":"Dražen Petrović Basketball Hall"}
+{"id":237,"management":423,"headquarter":209,"team_name":"KK Budućnost","country":"Montenegro","stadium":"Morača Sports Center"}
+{"id":238,"management":145,"headquarter":402,"team_name":"KK Cedevita Olimpija","country":"Croatia","stadium":"Arena Stožice"}
+{"id":239,"management":334,"headquarter":378,"team_name":"KK Crvena zvezda","country":"Serbia","stadium":"Aleksandar Nikolić Hall"}
+{"id":240,"management":477,"headquarter":450,"team_name":"KK FMP","country":"Serbia","stadium":"Železnik Hall"}
+{"id":241,"management":146,"headquarter":236,"team_name":"KK Igokea","country":"Bosnia and Herzegovina","stadium":"Laktaši Sports Hall"}
+{"id":242,"management":46,"headquarter":161,"team_name":"KK Koper Primorska","country":"Slovenia","stadium":"Arena Bonifika"}
+{"id":243,"management":222,"headquarter":373,"team_name":"KK Krka","country":"Slovenia","stadium":"Leon Štukelj Hall"}
+{"id":244,"management":114,"headquarter":343,"team_name":"KK Mega Basket","country":"Serbia","stadium":"Pinki Hall"}
+{"id":245,"management":151,"headquarter":24,"team_name":"KK Mornar Bar","country":"Montenegro","stadium":"Topolica Sport Hall"}
+{"id":246,"management":389,"headquarter":145,"team_name":"KK Partizan","country":"Serbia","stadium":"Aleksandar Nikolić Hall"}
+{"id":247,"management":275,"headquarter":452,"team_name":"KK Zadar","country":"Croatia","stadium":"Krešimir Ćosić Hall"}
+{"id":248,"management":282,"headquarter":79,"team_name":"BC Dzūkija","country":"Lithuania","stadium":"Alytus Arena"}
+{"id":249,"management":439,"headquarter":456,"team_name":"BC Juventus","country":"Lithuania","stadium":"Utena's Arena"}
+{"id":250,"management":169,"headquarter":437,"team_name":"BC Lietkabelis","country":"Lithuania","stadium":"Cido Arena"}
+{"id":251,"management":338,"headquarter":110,"team_name":"BC Lietuvos rytas","country":"Lithuania","stadium":"Lietuvos rytas Arena"}
+{"id":252,"management":269,"headquarter":340,"team_name":"BC Neptūnas","country":"Lithuania","stadium":"Švyturio Arena"}
+{"id":253,"management":365,"headquarter":276,"team_name":"BC Nevėžis","country":"Lithuania","stadium":"Kėdainiai Arena"}
+{"id":254,"management":124,"headquarter":434,"team_name":"BC Pieno žvaigždės","country":"Lithuania","stadium":"Pieno žvaigždės Arena"}
+{"id":255,"management":67,"headquarter":326,"team_name":"BC Prienai","country":"Lithuania","stadium":"Prienai Arena"}
+{"id":256,"management":361,"headquarter":426,"team_name":"BC Šiauliai","country":"Lithuania","stadium":"Šiauliai Arena"}
+{"id":257,"management":376,"headquarter":107,"team_name":"BC Žalgiris","country":"Lithuania","stadium":"Žalgiris Arena"}
+{"id":258,"management":121,"headquarter":386,"team_name":"Atlanta Dream","country":"United States","stadium":"State Farm Arena"}
+{"id":259,"management":32,"headquarter":302,"team_name":"Chicago Sky","country":"United States","stadium":"Wintrust Arena"}
+{"id":260,"management":196,"headquarter":347,"team_name":"Connecticut Sun","country":"United States","stadium":"Mohegan Sun Arena"}
+{"id":261,"management":257,"headquarter":328,"team_name":"Dallas Wings","country":"United States","stadium":"College Park Center"}
+{"id":262,"management":123,"headquarter":475,"team_name":"Indiana Fever","country":"United States","stadium":"Bankers Life Fieldhouse"}
+{"id":263,"management":319,"headquarter":341,"team_name":"Las Vegas Aces","country":"United States","stadium":"Mandalay Bay Events Center"}
+{"id":264,"management":367,"headquarter":20,"team_name":"Los Angeles Sparks","country":"United States","stadium":"Staples Center"}
+{"id":265,"management":77,"headquarter":331,"team_name":"Minnesota Lynx","country":"United States","stadium":"Target Center"}
+{"id":266,"management":412,"headquarter":406,"team_name":"New York Liberty","country":"United States","stadium":"Barclays Center"}
+{"id":267,"management":271,"headquarter":353,"team_name":"Phoenix Mercury","country":"United States","stadium":"Arizona Veterans Memorial Coliseum"}
+{"id":268,"management":55,"headquarter":467,"team_name":"Seattle Storm","country":"United States","stadium":"Alaska Airlines Arena"}
+{"id":269,"management":442,"headquarter":37,"team_name":"Washington Mystics","country":"United States","stadium":"St. Elizabeths East Arena"}
+{"id":270,"management":362,"headquarter":360,"team_name":"Acıbadem Üniversitesi","country":"Turkey","stadium":"Acıbadem Üniversitesi Sports Hall"}
+{"id":271,"management":336,"headquarter":142,"team_name":"Adelaide City Eagles","country":"Australia","stadium":"Apollo Stadium"}
+{"id":272,"management":383,"headquarter":468,"team_name":"Baloncesto Valladolid","country":"Spain","stadium":"Polideportivo Pisuerga"}
+{"id":273,"management":420,"headquarter":159,"team_name":"BC Azovmash","country":"Ukraine","stadium":"Azovmash Arena"}
+{"id":274,"management":118,"headquarter":1,"team_name":"BC Krasny Oktyabr","country":"Russia","stadium":"Volgograd Sports Palace of Trade Unions"}
+{"id":275,"management":350,"headquarter":106,"team_name":"BC Krasnye Krylia","country":"Russia","stadium":"MTL Arena"}
+{"id":276,"management":40,"headquarter":88,"team_name":"BC Kyiv","country":"Ukraine","stadium":"Meridian Sports Complex"}
+{"id":277,"management":141,"headquarter":435,"team_name":"Birmingham Knights","country":"United Kingdom","stadium":"North Solihull Sports Centre"}
+{"id":278,"management":392,"headquarter":237,"team_name":"Birmingham Panthers","country":"United Kingdom","stadium":"University of Wolverhampton"}
+{"id":279,"management":50,"headquarter":280,"team_name":"Buffalo Braves","country":"United States","stadium":"Buffalo Memorial Auditorium"}
+{"id":280,"management":244,"headquarter":104,"team_name":"Canberra Cannons","country":"Australia","stadium":"AIS Arena"}
+{"id":281,"management":314,"headquarter":242,"team_name":"CB Granada","country":"Spain","stadium":"Palacio de los Deportes de Granada"}
+{"id":282,"management":470,"headquarter":396,"team_name":"CB Lucentum Alicante","country":"Spain","stadium":"Pabellón Pedro Ferrándiz"}
+{"id":283,"management":56,"headquarter":186,"team_name":"CB Sant Josep","country":"Spain","stadium":"Palau Girona-Fontajau"}
+{"id":284,"management":191,"headquarter":143,"team_name":"Dakota Wizards","country":"United States","stadium":"Bismarck Civic Center"}
+{"id":285,"management":299,"headquarter":305,"team_name":"Detroit Falcons","country":"United States","stadium":"Detroit Olympia"}
+{"id":286,"management":87,"headquarter":293,"team_name":"Durham Wildcats","country":"England","stadium":"Newton Aycliffe Leisure Centre"}
+{"id":287,"management":82,"headquarter":383,"team_name":"Düsseldorf Baskets","country":"Germany","stadium":"Turkish Airlines Arena"}
+{"id":288,"management":441,"headquarter":190,"team_name":"Essex Leopards","country":"United Kingdom","stadium":"Brentwood Centre"}
+{"id":289,"management":18,"headquarter":482,"team_name":"Essex Pirates","country":"United Kingdom","stadium":"Southend Leisure & Tennis Centre "}
+{"id":290,"management":274,"headquarter":292,"team_name":"Fayetteville Patriots","country":"United States","stadium":"Cumberland County Crown Coliseum"}
+{"id":291,"management":63,"headquarter":150,"team_name":"Florida Flame","country":"United States","stadium":"Germain Arena"}
+{"id":292,"management":186,"headquarter":73,"team_name":"Fort Worth Flyers","country":"United States","stadium":"Fort Worth Convention Center"}
+{"id":293,"management":72,"headquarter":169,"team_name":"Geelong Supercats","country":"Australia","stadium":"The Arena"}
+{"id":294,"management":290,"headquarter":447,"team_name":"Glenelg Tigers","country":"Australia","stadium":"Apollo Stadium"}
+{"id":295,"management":163,"headquarter":416,"team_name":"Gold Coast Blaze","country":"Australia","stadium":"Gold Coast Convention and Exhibition Centre"}
+{"id":296,"management":172,"headquarter":319,"team_name":"Gold Coast Rollers","country":"Australia","stadium":"Cararra Indoor Stadium"}
+{"id":297,"management":358,"headquarter":7,"team_name":"Guildford Kings","country":"United Kingdom","stadium":"The Spectrum"}
+{"id":298,"management":446,"headquarter":390,"team_name":"Hobart Devils","country":"Australia","stadium":"Derwent Entertainment Centre"}
+{"id":299,"management":344,"headquarter":206,"team_name":"HTV Basket","country":"France","stadium":"Palais des Sports de Toulon"}
+{"id":300,"management":243,"headquarter":179,"team_name":"Hunter Pirates","country":"Australia","stadium":"Newcastle Entertainment Centre"}
+{"id":301,"management":438,"headquarter":93,"team_name":"Indianapolis Jets","country":"United States","stadium":"Butler Fieldhouse"}
+{"id":302,"management":471,"headquarter":189,"team_name":"Iowa Energy","country":"United States","stadium":"Wells Fargo Arena"}
+{"id":303,"management":476,"headquarter":359,"team_name":"ALBA Berlin","country":"Germany","stadium":"O2 World"}
+{"id":304,"management":202,"headquarter":247,"team_name":"Anadolu Efes SK","country":"Turkey","stadium":"Sinan Erdem Dome"}
+{"id":305,"management":303,"headquarter":243,"team_name":"Baskonia","country":"Spain","stadium":"Fernando Buesa Arena"}
+{"id":306,"management":58,"headquarter":272,"team_name":"Bayern München Basketball","country":"Germany","stadium":"Audi Dome"}
+{"id":307,"management":134,"headquarter":394,"team_name":"BC Khimki","country":"Russia","stadium":"Khimki Basketball Center"}
+{"id":308,"management":130,"headquarter":279,"team_name":"BC Žalgiris","country":"Lithuania","stadium":"Žalgiris Arena"}
+{"id":309,"management":253,"headquarter":126,"team_name":"BC Zenit Saint Petersburg","country":"Russia","stadium":"Yubileyni Arena"}
+{"id":310,"management":54,"headquarter":422,"team_name":"FC Barcelona Basquet","country":"Spain","stadium":"Palau Blaugrana"}
+{"id":311,"management":415,"headquarter":356,"team_name":"Fenerbahçe Basketbol","country":"Turkey","stadium":"Ülker Sports Arena"}
+{"id":312,"management":449,"headquarter":291,"team_name":"KK Crvena zvezda","country":"Serbia","stadium":"Aleksandar Nikolić Hall"}
+{"id":313,"management":399,"headquarter":296,"team_name":"Lyon-Villeurbanne","country":"France","stadium":"Astroballe"}
+{"id":314,"management":395,"headquarter":377,"team_name":"Maccabi Tel Aviv BC","country":"Israel","stadium":"Menora Mivtachim Arena"}
+{"id":315,"management":306,"headquarter":17,"team_name":"Olimpia Milano","country":"Italy","stadium":"Mediolanum Forum"}
+{"id":316,"management":289,"headquarter":278,"team_name":"Olympiacos BC","country":"Greece","stadium":"Peace and Friendship Stadium"}
+{"id":317,"management":247,"headquarter":219,"team_name":"Panathinaikos BC","country":"Greece","stadium":"Olympic Indoor Hall"}
+{"id":318,"management":97,"headquarter":399,"team_name":"PBC CSKA Moscow","country":"Russia","stadium":"Universal Sports Hall CSKA"}
+{"id":319,"management":397,"headquarter":384,"team_name":"Real Madrid Baloncesto","country":"Spain","stadium":"WiZink Center"}
+{"id":320,"management":272,"headquarter":16,"team_name":"Valencia Basket","country":"Spain","stadium":"Pabellón Fuente de San Luis"}
+{"id":321,"management":36,"headquarter":157,"team_name":"Antwerp Giants","country":"Belgium","stadium":"Lotto Arena"}
+{"id":322,"management":51,"headquarter":395,"team_name":"Aquila Basket Trento","country":"Italy","stadium":"PalaTrento"}
+{"id":323,"management":5,"headquarter":123,"team_name":"AS Monaco Basket","country":"Monaco","stadium":"Salle Gaston Médecin"}
+{"id":324,"management":294,"headquarter":109,"team_name":"Bahçeşehir Koleji SK","country":"Turkey","stadium":"Caferağa Sports Hall"}
+{"id":325,"management":144,"headquarter":262,"team_name":"Baloncesto Málaga","country":"Spain","stadium":"Palacio de Deportes José María Martín Carpena"}
+{"id":326,"management":425,"headquarter":421,"team_name":"Basket Brescia Leonessa","country":"Italy","stadium":"PalaGeorge"}
+{"id":327,"management":34,"headquarter":290,"team_name":"BC Andorra","country":"Andorra","stadium":"Poliesportiu d"}
+{"id":328,"management":373,"headquarter":282,"team_name":"BC Lietkabelis","country":"Lithuania","stadium":"Cido Arena"}
+{"id":329,"management":103,"headquarter":470,"team_name":"BC UNICS","country":"Russia","stadium":"Basket-Hall Kazan"}
+{"id":330,"management":406,"headquarter":303,"team_name":"Bourg-en-Bresse","country":"France","stadium":"Ekinox"}
+{"id":331,"management":422,"headquarter":197,"team_name":"Bursaspor Basketbol","country":"Turkey","stadium":"Bursa Atatürk Sport Hall"}
+{"id":332,"management":335,"headquarter":170,"team_name":"CB Gran Canaria","country":"Spain","stadium":"Gran Canaria Arena"}
+{"id":333,"management":2,"headquarter":83,"team_name":"Joventut Badalona","country":"Spain","stadium":"Olímpico de Badalona"}
+{"id":334,"management":30,"headquarter":288,"team_name":"KK Budućnost","country":"Montenegro","stadium":"Morača Sports Center"}
+{"id":335,"management":407,"headquarter":334,"team_name":"KK Cedevita Olimpija","country":"Croatia","stadium":"Arena Stožice"}
+{"id":336,"management":386,"headquarter":472,"team_name":"KK Partizan","country":"Serbia","stadium":"Aleksandar Nikolić Hall"}
+{"id":337,"management":99,"headquarter":388,"team_name":"Maccabi Rishon LeZion","country":"Israel","stadium":"Beit Maccabi"}
+{"id":338,"management":233,"headquarter":339,"team_name":"Metropolitans 92","country":"France","stadium":"Marcel Cerdan Sports Palace"}
+{"id":339,"management":430,"headquarter":226,"team_name":"Nanterre","country":"France","stadium":"Palais des sports Maurice Thorez"}
+{"id":340,"management":457,"headquarter":311,"team_name":"PBC Lokomotiv Kuban","country":"Russia","stadium":"Basket-Hall Krasnodar"}
+{"id":341,"management":456,"headquarter":43,"team_name":"Promitheas Patras BC","country":"Greece","stadium":"Dimitrios Tofalos Arena"}
+{"id":342,"management":166,"headquarter":34,"team_name":"Reyer Venezia Mestre","country":"Italy","stadium":"Palasport Taliercio"}
+{"id":343,"management":369,"headquarter":248,"team_name":"Ulm","country":"Germany","stadium":"ratiopharm Arena"}
+{"id":344,"management":108,"headquarter":46,"team_name":"Virtus Pallacanestro Bologna","country":"Italy","stadium":"Unipol Arena"}
+{"id":345,"management":237,"headquarter":348,"team_name":"AEK BC","country":"Greece","stadium":"Nikos Galis Olympic Indoor Hall"}
+{"id":346,"management":31,"headquarter":227,"team_name":"Banvit BK","country":"Turkey","stadium":"Kara Ali Acar Sport Hall"}
+{"id":347,"management":64,"headquarter":72,"team_name":"Basket Zaragoza","country":"Spain","stadium":"Pabellón Príncipe Felipe"}
+{"id":348,"management":86,"headquarter":441,"team_name":"BC Lietuvos rytas","country":"Lithuania","stadium":"Lietuvos rytas Arena"}
+{"id":349,"management":474,"headquarter":379,"team_name":"BC Neptūnas","country":"Lithuania","stadium":"Švyturio Arena"}
+{"id":350,"management":473,"headquarter":205,"team_name":"BC Nizhny Novgorod","country":"Russia","stadium":"CEC Nagorny"}
+{"id":351,"management":211,"headquarter":485,"team_name":"BC Oostende","country":"Belgium","stadium":"Sea"}
+{"id":352,"management":89,"headquarter":264,"team_name":"Besiktas Basketbol","country":"Turkey","stadium":"Akatlar Arena"}
+{"id":353,"management":171,"headquarter":120,"team_name":"BK VEF Rīga","country":"Latvia","stadium":"Arena Riga"}
+{"id":354,"management":75,"headquarter":259,"team_name":"Brose Bamberg","country":"Germany","stadium":"Brose Arena"}
+{"id":355,"management":346,"headquarter":252,"team_name":"CB 1939 Canarias","country":"Spain","stadium":"Pabellón Santiago Martín"}
+{"id":356,"management":78,"headquarter":13,"team_name":"CB Miraflores","country":"Spain","stadium":"Coliseum Burgos"}
+{"id":357,"management":217,"headquarter":438,"team_name":"Darüşşafaka SK","country":"Turkey","stadium":"Darüşşafaka Ayhan Şahenk Sports Hall"}
+{"id":358,"management":139,"headquarter":15,"team_name":"Dijon","country":"France","stadium":"Palais des sports Jean-Michel Geoffroy de Dijon"}
+{"id":359,"management":258,"headquarter":118,"team_name":"Dinamo Basket Sassari","country":"Italy","stadium":"Palasport Roberta Serradimigni"}
+{"id":360,"management":133,"headquarter":75,"team_name":"EWE Baskets Oldenburg","country":"Germany","stadium":"Große EWE Arena"}
+{"id":361,"management":65,"headquarter":298,"team_name":"Falco KC","country":"Hungary","stadium":"Arena Savaria"}
+{"id":362,"management":49,"headquarter":320,"team_name":"Galatasaray SK","country":"Turkey","stadium":"Sinan Erdem Dome"}
+{"id":363,"management":110,"headquarter":89,"team_name":"Gaziantep Basketbol","country":"Turkey","stadium":"Karataş Şahinbey Sport Hall"}
+{"id":364,"management":448,"headquarter":29,"team_name":"Hapoel Holon","country":"Israel","stadium":"Holon Toto Hall"}
+{"id":365,"management":264,"headquarter":3,"team_name":"Hapoel Jerusalem BC","country":"Israel","stadium":"Pais Arena"}
+{"id":366,"management":19,"headquarter":289,"team_name":"KK Mornar Bar","country":"Montenegro","stadium":"Topolica Sport Hall"}
+{"id":367,"management":483,"headquarter":27,"team_name":"KK Włocławek","country":"Poland","stadium":"Hala Mistrzów"}
+{"id":368,"management":463,"headquarter":425,"team_name":"New Basket Brindisi","country":"Italy","stadium":"PalaPentassuglia"}
+{"id":369,"management":445,"headquarter":439,"team_name":"Pau-Lacq-Orthez","country":"France","stadium":"Palais des sports de Pau"}
+{"id":370,"management":220,"headquarter":94,"team_name":"Peristeri BC","country":"Greece","stadium":"Peristeri Arena"}
+{"id":371,"management":66,"headquarter":45,"team_name":"Rasta Vechta","country":"Germany","stadium":"RASTA Dome"}
+{"id":372,"management":147,"headquarter":210,"team_name":"Strasbourg","country":"France","stadium":"Rhenus Sport"}
+{"id":373,"management":6,"headquarter":56,"team_name":"Tofaş SK","country":"Turkey","stadium":"Tofaş Nilüfer Spor Salonu"}
+{"id":374,"management":410,"headquarter":204,"team_name":"Türk Telekom BK","country":"Turkey","stadium":"Ankara Arena"}
+{"id":375,"management":472,"headquarter":265,"team_name":"Twarde Pierniki Toruń","country":"Poland","stadium":"Arena Toruń"}
+{"id":376,"management":451,"headquarter":215,"team_name":"Antibes Sharks","country":"France","stadium":"Azur Arena Antibes"}
+{"id":377,"management":434,"headquarter":176,"team_name":"Fos Provence Basket","country":"France","stadium":"Complexe sportif Parsemain"}
+{"id":378,"management":327,"headquarter":39,"team_name":"Poitiers Basket 86","country":"France","stadium":"Saint Eloi"}
+{"id":379,"management":355,"headquarter":59,"team_name":"Rouen","country":"France","stadium":"Kindarena"}
+{"id":380,"management":317,"headquarter":183,"team_name":"SLUC Nancy Basket","country":"France","stadium":"Palais des Sports Jean Weille"}
+{"id":381,"management":345,"headquarter":316,"team_name":"STB Le Havre","country":"France","stadium":"Dock Océane"}
+{"id":382,"management":113,"headquarter":208,"team_name":"Arka Gdynia Basketball","country":"Poland","stadium":"Gdynia Sports Arena"}
+{"id":383,"management":90,"headquarter":201,"team_name":"Astoria Bydgoszcz","country":"Poland","stadium":"Artego Arena"}
+{"id":384,"management":195,"headquarter":465,"team_name":"GTK Gliwice","country":"Poland","stadium":"Centrum Sportowo-Kulturalne Łabędź"}
+{"id":385,"management":14,"headquarter":21,"team_name":"King Szczecin","country":"Poland","stadium":"Arena Szczecin"}
+{"id":386,"management":149,"headquarter":407,"team_name":"KK Włocławek","country":"Poland","stadium":"Hala Mistrzów"}
+{"id":387,"management":235,"headquarter":362,"team_name":"Legia Warszawa","country":"Poland","stadium":"Cos Torwar"}
+{"id":388,"management":197,"headquarter":354,"team_name":"MKS Dąbrowa Górnicza","country":"Poland","stadium":"Hala Centrum"}
+{"id":389,"management":424,"headquarter":132,"team_name":"Rosa Radom","country":"Poland","stadium":"Sports Hall MOSiR"}
+{"id":390,"management":162,"headquarter":397,"team_name":"SKS Starogard Gdański","country":"Poland","stadium":"Agro Kociewie"}
+{"id":391,"management":127,"headquarter":344,"team_name":"Śląsk Wrocław","country":"Poland","stadium":"Hala Orbita"}
+{"id":392,"management":185,"headquarter":22,"team_name":"Spójnia Stargard","country":"Poland","stadium":"Hala Miejska"}
+{"id":393,"management":28,"headquarter":28,"team_name":"Stal Ostrów Wielkopolski","country":"Poland","stadium":"Hala Sportowa Stal"}
+{"id":394,"management":143,"headquarter":52,"team_name":"Start Lublin","country":"Poland","stadium":"Globus"}
+{"id":395,"management":278,"headquarter":152,"team_name":"Trefl Sopot","country":"Poland","stadium":"Ergo Arena"}
+{"id":396,"management":187,"headquarter":368,"team_name":"Twarde Pierniki Toruń","country":"Poland","stadium":"Arena Toruń"}
+{"id":397,"management":455,"headquarter":168,"team_name":"Antwerp Giants","country":"Belgium","stadium":"Lotto Arena"}
+{"id":398,"management":281,"headquarter":67,"team_name":"BC Oostende","country":"Belgium","stadium":"Sea"}
+{"id":399,"management":370,"headquarter":87,"team_name":"Belfius Mons-Hainaut","country":"Belgium","stadium":"Mons.Arena"}
+{"id":400,"management":485,"headquarter":164,"team_name":"Kangoeroes Mechelen","country":"Belgium","stadium":"Winketkaai"}
+{"id":401,"management":400,"headquarter":174,"team_name":"Leuven Bears","country":"Belgium","stadium":"Sportoase"}
+{"id":402,"management":467,"headquarter":304,"team_name":"Limburg United","country":"Belgium","stadium":"Sporthal Alverberg"}
+{"id":403,"management":61,"headquarter":314,"team_name":"Okapi Aalstar","country":"Belgium","stadium":"Okapi Forum"}
+{"id":404,"management":315,"headquarter":91,"team_name":"Phoenix Brussels","country":"Belgium","stadium":"Sports Complex Neder-Over-Heembeek"}
+{"id":405,"management":198,"headquarter":364,"team_name":"Spirou Charleroi","country":"Belgium","stadium":"Spiroudome"}
+{"id":406,"management":205,"headquarter":113,"team_name":"VOO Liège","country":"Belgium","stadium":"Country Hall Liège"}
+{"id":407,"management":268,"headquarter":239,"team_name":"Alba Fehérvár","country":"Hungary","stadium":"Alba Regia Sportcsarnok"}
+{"id":408,"management":393,"headquarter":417,"team_name":"Atomerőmű SE","country":"Hungary","stadium":"ASE Sportcsarnok"}
+{"id":409,"management":273,"headquarter":405,"team_name":"BC Körmend","country":"Hungary","stadium":"Szentély Aréna"}
+{"id":410,"management":432,"headquarter":430,"team_name":"DEAC","country":"Hungary","stadium":"Oláh Gábor Sports Hall"}
+{"id":411,"management":321,"headquarter":325,"team_name":"Falco KC","country":"Hungary","stadium":"Arena Savaria"}
+{"id":412,"management":261,"headquarter":218,"team_name":"Jászberényi KSE","country":"Hungary","stadium":"Belvárosi Ált. Isk. Sportcsarnok"}
+{"id":413,"management":22,"headquarter":112,"team_name":"Kaposvári KK","country":"Hungary","stadium":"Kaposvár Aréna"}
+{"id":414,"management":98,"headquarter":154,"team_name":"KTE-Duna Aszfalt","country":"Hungary","stadium":"\\tMesszi István Sportcsarnok"}
+{"id":415,"management":401,"headquarter":454,"team_name":"PVSK-Panthers","country":"Hungary","stadium":"Lauber Dezső Sports Hall"}
+{"id":416,"management":232,"headquarter":442,"team_name":"Serco-TF Budapest","country":"Hungary","stadium":"NKE Sportcsarnok"}
+{"id":417,"management":433,"headquarter":433,"team_name":"Soproni KC","country":"Hungary","stadium":"MKB Aréna Sopron"}
+{"id":418,"management":80,"headquarter":81,"team_name":"Szolnoki Olaj KK","country":"Hungary","stadium":"Tiszaligeti Sportcsarnok"}
+{"id":419,"management":437,"headquarter":257,"team_name":"SZTE-Szedeák","country":"Hungary","stadium":"Újszegedi Sportcsarnok"}
+{"id":420,"management":391,"headquarter":424,"team_name":"ZTE KK","country":"Hungary","stadium":"Városi Sportcsarnok"}
+{"id":421,"management":416,"headquarter":374,"team_name":"Abilene Christian","country":"United States","stadium":"Moody Coliseum"}
+{"id":422,"management":351,"headquarter":308,"team_name":"Air Force","country":"United States","stadium":"Clune Arena"}
+{"id":423,"management":236,"headquarter":351,"team_name":"Akron","country":"United States","stadium":"James A. Rhodes Arena"}
+{"id":424,"management":465,"headquarter":286,"team_name":"Alabama","country":"United States","stadium":"Coleman Coliseum"}
+{"id":425,"management":111,"headquarter":380,"team_name":"Alabama A&M","country":"United States","stadium":"Elmore Gymnasium"}
+{"id":426,"management":409,"headquarter":82,"team_name":"Alabama State","country":"United States","stadium":"Dunn–Oliver Acadome"}
+{"id":427,"management":140,"headquarter":147,"team_name":"Albany","country":"United States","stadium":"SEFCU Arena"}
+{"id":428,"management":45,"headquarter":301,"team_name":"Alcorn State","country":"United States","stadium":"Davey Whitney Complex"}
+{"id":429,"management":482,"headquarter":224,"team_name":"American","country":"United States","stadium":"Bender Arena"}
+{"id":430,"management":435,"headquarter":105,"team_name":"Appalachian State","country":"United States","stadium":"Holmes Center"}
+{"id":431,"management":404,"headquarter":180,"team_name":"Arizona","country":"United States","stadium":"McKale Center"}
+{"id":432,"management":223,"headquarter":412,"team_name":"Arizona State","country":"United States","stadium":"Desert Financial Arena"}
+{"id":433,"management":484,"headquarter":267,"team_name":"Arkansas","country":"United States","stadium":"Nolan Richardson Court at Bud Walton Arena"}
+{"id":434,"management":418,"headquarter":122,"team_name":"Arkansas State","country":"United States","stadium":"First National Bank Arena"}
+{"id":435,"management":178,"headquarter":97,"team_name":"Arkansas-Little Rock","country":"United States","stadium":"Jack Stephens Center"}
+{"id":436,"management":115,"headquarter":451,"team_name":"Arkansas-Pine Bluff","country":"United States","stadium":"K. L. Johnson Complex"}
+{"id":437,"management":238,"headquarter":65,"team_name":"Army","country":"United States","stadium":"Christl Arena"}
+{"id":438,"management":300,"headquarter":33,"team_name":"Auburn","country":"United States","stadium":"Auburn Arena"}
+{"id":439,"management":469,"headquarter":10,"team_name":"Austin Peay","country":"United States","stadium":"Dunn Center"}
+{"id":440,"management":450,"headquarter":411,"team_name":"Ball State","country":"United States","stadium":"Worthen Arena"}
+{"id":441,"management":7,"headquarter":263,"team_name":"Baylor","country":"United States","stadium":"Paul J. Meyer Arena at the Ferrell Center"}
+{"id":442,"management":431,"headquarter":53,"team_name":"Belmont","country":"United States","stadium":"Curb Event Center"}
+{"id":443,"management":245,"headquarter":455,"team_name":"Bethune-Cookman","country":"United States","stadium":"Moore Gymnasium"}
+{"id":444,"management":208,"headquarter":8,"team_name":"Binghamton","country":"United States","stadium":"Binghamton University Events Center"}
+{"id":445,"management":270,"headquarter":235,"team_name":"Boise State","country":"United States","stadium":"ExtraMile Arena"}
+{"id":446,"management":379,"headquarter":414,"team_name":"Boston College","country":"United States","stadium":"Conte Forum"}
+{"id":447,"management":405,"headquarter":163,"team_name":"Boston University","country":"United States","stadium":"Case Gym"}
+{"id":448,"management":106,"headquarter":471,"team_name":"Bowling Green","country":"United States","stadium":"Stroh Center"}
+{"id":449,"management":188,"headquarter":240,"team_name":"Bradley","country":"United States","stadium":"Carver Arena"}
+{"id":450,"management":48,"headquarter":74,"team_name":"Brown","country":"United States","stadium":"Pizzitola Sports Center"}
+{"id":451,"management":35,"headquarter":250,"team_name":"Bryant","country":"United States","stadium":"Chace Athletic Center"}
+{"id":452,"management":286,"headquarter":156,"team_name":"Bucknell","country":"United States","stadium":"Sojka Pavilion"}
+{"id":453,"management":480,"headquarter":151,"team_name":"Buffalo","country":"United States","stadium":"Alumni Arena"}
+{"id":454,"management":132,"headquarter":448,"team_name":"Butler","country":"United States","stadium":"Hinkle Fieldhouse"}
+{"id":455,"management":100,"headquarter":71,"team_name":"BYU","country":"United States","stadium":"Marriott Center"}
+{"id":456,"management":239,"headquarter":136,"team_name":"Cal Poly","country":"United States","stadium":"Mott Athletics Center"}
+{"id":457,"management":165,"headquarter":77,"team_name":"Cal State-Bakersfield","country":"United States","stadium":"Icardo Center"}
+{"id":458,"management":24,"headquarter":457,"team_name":"Cal State-Fullerton","country":"United States","stadium":"Titan Gym"}
+{"id":459,"management":13,"headquarter":273,"team_name":"Cal State-Northridge","country":"United States","stadium":"Matadome"}
+{"id":460,"management":190,"headquarter":232,"team_name":"California","country":"United States","stadium":"Haas Pavilion"}
+{"id":461,"management":311,"headquarter":484,"team_name":"Campbell","country":"United States","stadium":"John W. Pope Jr. Convocation Center"}
+{"id":462,"management":116,"headquarter":48,"team_name":"Canisius","country":"United States","stadium":"Koessler Center"}
+{"id":463,"management":256,"headquarter":297,"team_name":"Central Arkansas","country":"United States","stadium":"Farris Center"}
+{"id":464,"management":285,"headquarter":68,"team_name":"Central Connecticut State","country":"United States","stadium":"William H. Detrick Gymnasium"}
+{"id":465,"management":354,"headquarter":32,"team_name":"Central Florida","country":"United States","stadium":"Addition Financial Arena"}
+{"id":466,"management":216,"headquarter":473,"team_name":"Central Michigan","country":"United States","stadium":"McGuirk Arena"}
+{"id":467,"management":308,"headquarter":255,"team_name":"Charleston Southern","country":"United States","stadium":"CSU Field House"}
+{"id":468,"management":164,"headquarter":231,"team_name":"Charlotte","country":"United States","stadium":"Dale F. Halton Arena"}
+{"id":469,"management":312,"headquarter":172,"team_name":"Chattanooga","country":"United States","stadium":"McKenzie Arena"}
+{"id":470,"management":323,"headquarter":440,"team_name":"Chicago State","country":"United States","stadium":"Emil and Patricia Jones Convocation Center"}
+{"id":471,"management":23,"headquarter":58,"team_name":"Argentino de Junín","country":"Argentina","stadium":"El Fortín de las Morochas"}
+{"id":472,"management":381,"headquarter":138,"team_name":"Atenas de Córdoba","country":"Argentina","stadium":"Orfeo Superdomo"}
+{"id":473,"management":330,"headquarter":281,"team_name":"Boca Juniors","country":"Argentina","stadium":"Estadio Luis Conde"}
+{"id":474,"management":212,"headquarter":23,"team_name":"Estudiantes Concordia","country":"Argentina","stadium":"San Luis 418"}
+{"id":475,"management":135,"headquarter":124,"team_name":"Gimnasia y Esgrima de Comodoro Rivadavia","country":"Argentina","stadium":"Estadio Socios Fundadores"}
+{"id":476,"management":481,"headquarter":261,"team_name":"Quimsa","country":"Argentina","stadium":"Ciudad de Santiago del Estero"}
+{"id":477,"management":43,"headquarter":69,"team_name":"San Lorenzo","country":"Argentina","stadium":"Polideportivo Roberto Pando"}
+{"id":478,"management":156,"headquarter":463,"team_name":"Baloncesto Málaga","country":"Spain","stadium":"Palacio de Deportes José María Martín Carpena"}
+{"id":479,"management":380,"headquarter":165,"team_name":"Basket Zaragoza","country":"Spain","stadium":"Pabellón Príncipe Felipe"}
+{"id":480,"management":458,"headquarter":268,"team_name":"BC Andorra","country":"Andorra","stadium":"Poliesportiu d"}
+{"id":481,"management":388,"headquarter":322,"team_name":"Bilbao Basket","country":"Spain","stadium":"Bilbao Arena"}
+{"id":482,"management":297,"headquarter":6,"team_name":"CB 1939 Canarias","country":"Spain","stadium":"Pabellón Santiago Martín"}
+{"id":483,"management":177,"headquarter":338,"team_name":"FC Barcelona Basquet","country":"Spain","stadium":"Palau Blaugrana"}
+{"id":484,"management":3,"headquarter":166,"team_name":"Real Madrid Baloncesto","country":"Spain","stadium":"WiZink Center"}
+{"id":485,"management":107,"headquarter":260,"team_name":"Valencia Basket","country":"Spain","stadium":"Pabellón Fuente de San Luis"}
