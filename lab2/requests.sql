@@ -235,3 +235,14 @@ from
 ) as percount
 where counter = 1
 order by player_age;
+
+
+
+with recursive SelectPlayers(id, player_name) as 
+(
+    select 
+    from players
+    where 
+)
+select *
+from SelectPlayers;
