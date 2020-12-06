@@ -1,19 +1,68 @@
--- Извлечь XML/JSON фрагмент из XML/JSON документа
 -- копируем во временную
-drop table if exists pl;
-create temp table pl_import(doc json);
-\copy pl_import from '/home/mrskl1f/Desktop/BMSTU/DataBase/lab5/Task4/players.json';
+drop table if exists pl_import;
+create temp table pl_import(doc jsonb);
+\copy pl_import from '/var/lib/postgres/teams.json';
+
+----- TASK 1 -----
+-- Извлечь XML/JSON фрагмент из XML/JSON документа
 -- создаем основную
-drop table if exists json_test;
-create table if not exists json_test
+drop table if exists task1;
+create table if not exists task1
 (
-	id int,
-	player varchar(40),
-	games json
+	team jsonb
 );
+
 -- извлекаем фрагменты
-insert into json_test(id, player, games)
-select ... 
-from (
-    select 
-)
+insert into task1 (team)
+select  doc
+from pl_import
+where cast(doc::jsonb->>'id' as int) = 36;
+
+select * from task1;
+------------------
+
+----- TASK 2 -----
+-- Извлечь значения конкретных узлов или атрибутов   XML/JSON документа
+-- создаем основную
+drop table if exists task2;
+create table if not exists task2
+(
+	id int not null,
+	team text, 
+	country text
+);
+-- извлекаем
+insert into task2 (id, team, country)
+select  cast(doc::jsonb->>'id' as int), doc::jsonb->>'team_name', doc::jsonb->>'country' 
+from pl_import;
+------------------
+
+----- TASK 3 -----
+-- Выполнить проверку существования узла или атрибута
+SELECT doc::jsonb ? 'country' as result
+from pl_import
+where cast(doc::jsonb->>'id' as int) = 36;
+
+SELECT doc::jsonb ? 'cntry' as result
+from pl_import
+where cast(doc::jsonb->>'id' as int) = 36;
+------------------
+
+----- TASK 4 -----
+-- Изменить XML/JSON документ
+select doc->>'team_name'
+from pl_import
+where cast(doc->>'id' as int) = 36;
+
+update pl_import
+set doc = jsonb_set(doc, '{team_name}', '"Delaware"')
+where cast(doc->>'id' as int) = 36;
+
+update pl_import
+set doc = jsonb_set(doc, '{team_name}', '"Delaware 87ers"')
+where cast(doc->>'id' as int) = 36;
+------------------
+
+----- TASK 5 -----
+-- Разделить XML/JSON документ на несколько строк по узлам
+
