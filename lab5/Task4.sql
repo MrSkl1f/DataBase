@@ -65,4 +65,20 @@ where cast(doc->>'id' as int) = 36;
 
 ----- TASK 5 -----
 -- Разделить XML/JSON документ на несколько строк по узлам
+drop table if exists task4_1;
+drop table if exists task4_2;
+create table if not exists task4_1
+(
+	doc jsonb
+);
+create table if not exists task4_2
+(
+	doc jsonb
+);
+insert into task4_1(doc)
+select doc - 'stadium' - 'country' - 'team_name'
+from pl_import;
 
+insert into task4_2(doc)
+select doc - 'id' - 'management' - 'headquarter'
+from pl_import;
