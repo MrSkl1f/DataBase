@@ -35,6 +35,8 @@ create table if not exists task2
 insert into task2 (id, team, country)
 select  cast(doc::jsonb->>'id' as int), doc::jsonb->>'team_name', doc::jsonb->>'country' 
 from pl_import;
+
+select * from task2;
 ------------------
 
 ----- TASK 3 -----
