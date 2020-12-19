@@ -176,3 +176,23 @@ as $$
             )
     ) as d21d
 $$;
+
+-- 4-1
+create function qwe4(date)
+returns table
+(
+    fio varchar(40),
+    dep varchar(40)
+)
+language sql
+as $$
+    select staff.fio, staff.department
+    from staff
+    where staff.id not in
+    (
+        select arrival_leaving.id as a_id
+        from arrival_leaving
+        join staff on arrival_leaving.id = staff.id
+        where dt = $1 and tp = 1
+    )
+$$;
