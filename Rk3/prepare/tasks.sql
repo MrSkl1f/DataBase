@@ -110,3 +110,69 @@ insert into arrival_leaving(id, dt, day_of_week, tm, tp) VALUES
 (1, '2018-12-30', 'Monday', '12:30', 1)
 
 
+
+
+
+-- 1-1
+create function qwe()
+returns bigint
+language sql
+as $$
+    select count(*)
+    from (
+        select *
+        from Employes
+        where EmployerId in (
+            select EmployerId
+            from (
+                select EmployerId, count(*) as counts
+                from INOUT
+                where TypeEvent = 2
+                group by EmployerId
+            ) as q
+            where counts > 2
+        )
+    ) as e
+    where (DATE_PART('year', current_Date::date) -  DATE_PART('year', birthday::date)) BetWeen 14 and 40
+$$;
+
+select * from qwe();
+
+-- 2-1
+create function qwe2(date)
+returns table
+(
+    minutes double precision,
+    counts int
+)
+language sql
+as $$
+    select timelate, count(*)
+    from (
+        select inout.EmployerId, DATE_PART('minute', min(inout.TimeEvent)::time - '08:00'::time) as timelate
+        from inout
+        where DateEvent = $1 and TypeEvent = 1
+        group by inout.EmployerId
+        having min(inout.TimeEvent) > '08:00'
+    ) as res
+    group by timelate;
+$$;
+
+-- 3-1
+create function qwe3()
+returns int
+language sql
+as $$
+    select min(age)
+    from (
+        select (DATE_PART('year', current_Date::date) -  DATE_PART('year', birthday::date)) as age
+        from Employes
+        where EmployerId in (
+                select inout.EmployerId
+                from inout
+                where TypeEvent = 1
+                group by inout.EmployerId
+                having min(inout.TimeEvent) > '08:00' and DATE_PART('minute', min(inout.TimeEvent)::time - '08:00'::time) > 10
+            )
+    ) as d21d
+$$;
